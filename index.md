@@ -1,7 +1,7 @@
 ---
 ---
 
-# mlcvlab-fasilkom-uiDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# MACHINE LEARNING AND COMPUTER VISION LAB
 
 
 
