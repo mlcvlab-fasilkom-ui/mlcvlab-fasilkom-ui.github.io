@@ -1,6 +1,6 @@
 # site properties and page defaults
-title: mlcvlab-fasilkom-uiDESCRIPTION=An engaging 1-3 sentence description of your lab.
-subtitle: 
+title: MACHINE LEARNING AND COMPUTER VISION「 MLCV 」LAB
+subtitle: Faculty of Computer Science,  Universitas Indonesia
 description: 
 header: images/background.jpg
 footer: images/background.jpg
@@ -8,12 +8,12 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@mlcvlab-fasilkom-uiDESCRIPTION=An engaging 1-3 sentence description of your lab..com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: mlcvlab-fasilkom-uiDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  twitter: mlcvlab-fasilkom-uiDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  youtube: mlcvlab-fasilkom-uiDESCRIPTION=An engaging 1-3 sentence description of your lab.
+  email: mlcvlab@cs.ui.ac.id
+  github: mlcvlab-fasilkom-ui
+  # orcid: 0000-0001-8713-9213
+  # google-scholar: ETJoidYAAAAJ
+  # twitter: mlcvlab-fasilkom-ui
+  # youtube: mlcvlab-fasilkom-ui
 
 ### jekyll settings
 
