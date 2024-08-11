@@ -1,11 +1,11 @@
 ---
-title: Research Projects
+title: Research Topic & Project
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: Research topic, project, software, datasets, and more
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Research Projects
+# {% include icon.html icon="fa-solid fa-wrench" %}Research Topic & Project
 
 Past and current research projects performed by the members.
 
