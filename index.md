@@ -53,7 +53,7 @@ See our past and current research projects.
 
 {%
   include feature.html
-  image="images/work.gif"
+  image="images/server.gif"
   link="projects"
   title="Our Projects"
   flip=true
