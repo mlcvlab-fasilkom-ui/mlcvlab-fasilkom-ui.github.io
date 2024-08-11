@@ -1,20 +1,14 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
+name: Prof. Dr. Aniati Murni Arymurthy
+image: images/AM.jpg
 role: pi
-affiliation: University of Colorado
+affiliation: Universitas Indonesia
 aliases:
-  - J. Smith
-  - J Smith
+  - A. Murni
+  - A. M. Arymurthy
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://cs.ui.ac.id/personnel/aniati-murni-arymurthy/
+  orcid: 0000-0002-2762-7001
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Aniati Murni Arymurthy adalah seorang dosen dan peneliti bidang Pattern Recognition, Image Processing, dan Spatial Data di Fasilkom UI.
