@@ -15,12 +15,12 @@ The MLCV Lab focuses on machine learning-related research, especially for comput
 
 {% capture text %}
 
-See the compilation of all our members’ publications.
+Our published works range from core machine learning papers to the application of machine learning methods for computer vision tasks.
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="See our published works"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -32,13 +32,13 @@ See the compilation of all our members’ publications.
   include feature.html
   image="images/book.gif"
   link="research"
-  title="Our Publications"
+  title="Published works"
   text=text
 %}
 
 {% capture text %}
 
-See our past and current research projects.
+We mainly focus on using machine learning methods for computer vision tasks that will have a positive impact on society, especially in Indonesia. 
 
 {%
   include button.html
@@ -55,7 +55,7 @@ See our past and current research projects.
   include feature.html
   image="images/server.gif"
   link="projects"
-  title="Our Projects"
+  title="Research Topic & Project"
   flip=true
   style="bare"
   text=text
@@ -68,7 +68,7 @@ Here are the key members of the MLCV lab.
 {%
   include button.html
   link="team"
-  text="Members"
+  text="Meet our team members"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
