@@ -30,7 +30,7 @@ See the compilation of all our members’ publications.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/book.gif"
   link="research"
   title="Our Publications"
   text=text
@@ -53,7 +53,7 @@ See our past and current research projects.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/work.gif"
   link="projects"
   title="Our Projects"
   flip=true
@@ -78,7 +78,7 @@ Here are the key members of the MLCV lab.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/members.gif"
   link="team"
   title="Members"
   text=text
