@@ -1,174 +1,1281 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1016/j.compbiomed.2024.108414
+  title: A new family of instance-level loss functions for improving instance-level
+    segmentation and detection of white matter hyperintensities in routine clinical
+    brain MRI
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Muhammad Febrian Rachmadi
+  - Michal Byra
+  - Henrik Skibbe
+  publisher: Computers in Biology and Medicine
+  date: '2024-05-01'
+  link: https://doi.org/gtqx7j
+  orcid: 0000-0003-1672-9149
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.36227/techrxiv.171328773.30330280/v1
+  title: Automated Detection of Craniomaxillofacial Fractures From 3D CT Images Using
+    Ensemble Deep Learning-Based Segmentation Models
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
+  - Muhammad Febrian Rachmadi
+  - Prasetyanugraheni Kreshanti
+  - Margareth Ingrid Anggraeni
+  - Vika Tania
+  - Reyhan Eddy Yunus
+  - Henrik Skibbe
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2024-04-16'
+  link: https://doi.org/gtrmdt
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41597-023-02048-8
+  title: A dataset of rodent cerebrovasculature from in vivo multiphoton fluorescence
+    microscopy imaging
+  authors:
+  - Charissa Poon
+  - Petteri Teikari
+  - Muhammad Febrian Rachmadi
+  - Henrik Skibbe
+  - Kullervo Hynynen
+  publisher: Scientific Data
+  date: '2023-03-17'
+  link: https://doi.org/gtchxq
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.12.14.520239
+  title: Prediction of white matter hyperintensities evolution one-year post-stroke
+    from a single-point brain MRI and stroke lesions information
+  authors:
+  - Muhammad Febrian Rachmadi
+  - "Maria del C. Vald\xE9s-Hern\xE1ndez"
+  - Stephen Makin
+  - Joanna Wardlaw
+  - Henrik Skibbe
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  date: '2022-12-16'
+  link: https://doi.org/gsv4dk
+  orcid: 0000-0003-1672-9149
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1101/2022.07.19.500542
+  title: 'MiniVess: A dataset of rodent cerebrovasculature from <i>in vivo</i> multiphoton
+    fluorescence microscopy imaging'
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
+  - Charissa Poon
+  - Petteri Teikari
+  - Muhammad Febrian Rachmadi
+  - Henrik Skibbe
+  - Kullervo Hynynen
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  date: '2022-07-20'
+  link: https://doi.org/gtchxr
+  orcid: 0000-0003-1672-9149
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1007/978-3-030-87602-9_16
+  title: "Probabilistic Deep Learning with\_Adversarial Training and Volume Interval\
+    \ Estimation - Better Ways to\_Perform and\_Evaluate Predictive Models for White\
+    \ Matter Hyperintensities Evolution"
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Muhammad Febrian Rachmadi
+  - "Maria del C. Vald\xE9s-Hern\xE1ndez"
+  - Rizal Maulana
+  - Joanna Wardlaw
+  - Stephen Makin
+  - Henrik Skibbe
+  publisher: Lecture Notes in Computer Science
+  date: '2021-01-01'
+  link: https://doi.org/gtchxs
+  orcid: 0000-0003-1672-9149
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1016/j.media.2020.101712
+  title: Automatic spatial estimation of white matter hyperintensities evolution in
+    brain MRI using disease evolution predictor deep neural networks
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
+  - Muhammad Febrian Rachmadi
+  - "Maria del C. Vald\xE9s-Hern\xE1ndez"
+  - Stephen Makin
+  - Joanna Wardlaw
+  - Taku Komura
+  publisher: Medical Image Analysis
+  date: '2020-07-01'
+  link: https://doi.org/gg5g37
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/738641
+  title: Automatic Spatial Estimation of White Matter Hyperintensities Evolution in
+    Brain MRI using Disease Evolution Predictor Deep Neural Networks
+  authors:
+  - Muhammad Febrian Rachmadi
+  - "Maria del C. Vald\xE9s-Hern\xE1ndez"
+  - Stephen Makin
+  - Joanna Wardlaw
+  - Taku Komura
   publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  date: '2019-08-19'
+  link: https://doi.org/gk2f2f
+  orcid: 0000-0003-1672-9149
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1101/662692
+  title: Predicting the Evolution of White Matter Hyperintensities in Brain MRI using
+    Generative Adversarial Networks and Irregularity Map
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Muhammad Febrian Rachmadi
+  - "Maria del C. Vald\xE9s-Hern\xE1ndez"
+  - Stephen Makin
+  - Joanna M. Wardlaw
+  - Taku Komura
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-06-06'
+  link: https://doi.org/gkwv79
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/550517
+  title: Dilated Saliency U-Net for White Matter Hyperintensities Segmentation using
+    Irregularity Age Map
+  authors:
+  - Yunhee Jeong
+  - Muhammad Febrian Rachmadi
+  - "Maria del C. Vald\xE9s-Hern\xE1ndez"
+  - Taku Komura
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-02-14'
+  link: https://doi.org/gkxctt
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/544858
+  title: Evaluation of Enhanced Learning Techniques for Segmenting Ischaemic Stroke
+    Lesions in Brain Magnetic Resonance Perfusion Images using a Convolutional Neural
+    Network Scheme
+  authors:
+  - Carlos Uziel Perez Malla
+  - Maria del C. Valdes Hernandez
+  - Muhammad Febrian Rachmadi
+  - Taku Komura
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-02-08'
+  link: https://doi.org/gkt2fb
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-32248-9_17
+  title: Predicting the Evolution of White Matter Hyperintensities in Brain MRI Using
+    Generative Adversarial Networks and Irregularity Map
+  authors:
+  - Muhammad Febrian Rachmadi
+  - "Maria del C. Vald\xE9s-Hern\xE1ndez"
+  - Stephen Makin
+  - Joanna M. Wardlaw
+  - Taku Komura
+  publisher: Lecture Notes in Computer Science
+  date: '2019-01-01'
+  link: https://doi.org/gtchxt
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21609/jiki.v11i2.617
+  title: Face Recognition Using Complex Valued Backpropagation
+  authors:
+  - Zumrotun Nafisah
+  - Febrian Rachmadi
+  - Elly Matul Imah
+  publisher: Jurnal Ilmu Komputer dan Informasi
+  date: '2018-06-29'
+  link: https://doi.org/gtchxv
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/345033
+  title: Transfer Learning for Task Adaptation of Brain Lesion Assessment and Prediction
+    of Brain Abnormalities Progression/Regression using Irregularity Age Map in Brain
+    MRI
+  authors:
+  - Muhammad Febrian Rachmadi
+  - "Maria del C. Vald\xE9s-Hern\xE1ndez"
+  - Taku Komura
+  publisher: Cold Spring Harbor Laboratory
+  date: '2018-06-12'
+  link: https://doi.org/gk2kbb
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/334292
+  title: 'Limited One-time Sampling Irregularity Map (LOTS-IM): Automatic Unsupervised
+    Quantitative Assessment of White Matter Hyperintensities in Structural Brain Magnetic
+    Resonance Images'
+  authors:
+  - Muhammad Febrian Rachmadi
+  - "Maria del C. Vald\xE9s-Hern\xE1ndez"
+  - Hongwei Li
+  - Ricardo Guerrero
+  - Rozanna Meijboom
+  - Stewart Wiseman
+  - Adam Waldman
+  - Jianguo Zhang
+  - Daniel Rueckert
+  - Taku Komura
+  publisher: Cold Spring Harbor Laboratory
+  date: '2018-05-31'
+  link: https://doi.org/gkv4t9
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-00931-1_58
+  title: Automatic Irregular Texture Detection in Brain MRI Without Human Supervision
+  authors:
+  - Muhammad Febrian Rachmadi
+  - "Maria del C. Vald\xE9s-Hern\xE1ndez"
+  - Taku Komura
+  publisher: Lecture Notes in Computer Science
+  date: '2018-01-01'
+  link: https://doi.org/gtchxw
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/IWBIS.2018.8471705
+  title: Improving Principal Component Analysis Performance for Reducing Spectral
+    Dimension in Hyperspectral Image Classification
+  authors:
+  - Dewa Made Sri Arsa
+  - H. R. Sanabila
+  - M. Febrian Rachmadi
+  - Ahmad Gamal
+  - Wisnu Jatmiko
+  publisher: 2018 International Workshop on Big Data and Information Security (IWBIS)
+  date: '2018-05-01'
+  link: https://doi.org/gtcht5
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/IWBIS.2017.8275104
+  title: Optimization of Stacked Unsupervised Extreme Learning Machine to improve
+    classifier performance
+  authors:
+  - Dewa Made Sri Arsa
+  - M. Anwar Ma'sum
+  - Muhammad Febrian Rachmadi
+  - Wisnu Jatmiko
+  publisher: 2017 International Workshop on Big Data and Information Security (IWBIS)
+  date: '2017-09-01'
+  link: https://doi.org/gtchvb
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.compmedimag.2018.02.002
+  title: Segmentation of white matter hyperintensities using convolutional neural
+    networks with global spatial information in routine clinical brain MRI with none
+    or mild vascular pathology
+  authors:
+  - Muhammad Febrian Rachmadi
+  - "Maria del C. Vald\xE9s-Hern\xE1ndez"
+  - Maria Leonora Fatimah Agan
+  - Carol Di Perri
+  - Taku Komura
+  publisher: Computerized Medical Imaging and Graphics
+  date: '2018-06-01'
+  link: https://doi.org/gtchxx
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-00320-3_11
+  title: Transfer Learning for Task Adaptation of Brain Lesion Assessment and Prediction
+    of Brain Abnormalities Progression/Regression Using Irregularity Age Map in Brain
+    MRI
+  authors:
+  - Muhammad Febrian Rachmadi
+  - "Maria del C. Vald\xE9s-Hern\xE1ndez"
+  - Taku Komura
+  publisher: Lecture Notes in Computer Science
+  date: '2018-01-01'
+  link: https://doi.org/gtchxz
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICACSIS.2017.8355053
+  title: Voxel-based irregularity age map (IAM) for brain's white matter hyperintensities
+    in MRI
+  authors:
+  - Muhammad Febrian Rachmadi
+  - Maria del C. Valdes-Hernandez
+  - Taku Komura
+  publisher: 2017 International Conference on Advanced Computer Science and Information
+    Systems (ICACSIS)
+  date: '2017-10-01'
+  link: https://doi.org/gtchx2
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/jimaging3040066
+  title: 'Deep Learning vs. Conventional Machine Learning: Pilot Study of WMH Segmentation
+    in Brain MRI with Absence or Mild Vascular Pathology'
+  authors:
+  - Muhammad Rachmadi
+  - "Maria Vald\xE9s-Hern\xE1ndez"
+  - Maria Agan
+  - Taku Komura
+  publisher: Journal of Imaging
+  date: '2017-12-14'
+  link: https://doi.org/gtchx3
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-60964-5_42
+  title: Evaluation of Four Supervised Learning Schemes in White Matter Hyperintensities
+    Segmentation in Absence or Mild Presence of Vascular Pathology
+  authors:
+  - Muhammad Febrian Rachmadi
+  - "Maria del C. Vald\xE9s-Hern\xE1ndez"
+  - Maria Leonora Fatimah Agan
+  - Taku Komura
+  publisher: Communications in Computer and Information Science
+  date: '2017-01-01'
+  link: https://doi.org/gtchx4
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/IWBIS.2016.7872897
+  title: Generalized learning vector quantization particle swarm optimization (GLVQ-PSO)
+    FPGA implementation for real-time electrocardiogram
+  authors:
+  - Yulistiyan Wardhana
+  - Wisnu Jatmiko
+  - M. Febrian Rachmadi
+  publisher: 2016 International Workshop on Big Data and Information Security (IWBIS)
+  date: '2016-10-01'
+  link: https://doi.org/gtchv3
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICACSIS.2016.7872806
+  title: Vehicle traffic monitoring using single camera and embedded systems
+  authors:
+  - Rindra Wiska
+  - Machmud R Alhamidi
+  - Novian Habibie
+  - Ari Wibisono
+  - Petrus Mursanto
+  - Doni H Ramdhan
+  - M. Febrian Rachmadi
+  - Wisnu Jatmiko
+  publisher: 2016 International Conference on Advanced Computer Science and Information
+    Systems (ICACSIS)
+  date: '2016-10-01'
+  link: https://doi.org/gtchv9
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/MHS.2011.6102210
+  title: Enhanced adaptive traffic signal control system using camera sensor and embedded
+    system
+  authors:
+  - F. Al Afif
+  - M. Febrian Rachmadi
+  - A. Wibowo
+  - W. Jatmiko
+  - P. Mursanto
+  - M. Anwar Ma'sum
+  publisher: 2011 International Symposium on Micro-NanoMechatronics and Human Science
+  date: '2011-11-01'
+  link: https://doi.org/fxrkcp
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/MHS.2012.6492490
+  title: Mobile phones as traffic sensors with map matching and privacy considerations
+  authors:
+  - B. Hardjono
+  - A. Wibowo
+  - M.F. Rachmadi
+  - W. Jatmiko
+  publisher: 2012 International Symposium on Micro-NanoMechatronics and Human Science
+    (MHS)
+  date: '2012-04-01'
+  link: https://doi.org/gtchxh
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/MHS.2012.6492420
+  title: Modified Particle Swarm for multimodal functions in dynamic environment using
+    iteration proportional change for inertia weight and weight of social components
+  authors:
+  - D. Widiyanto
+  - A. Wibowo
+  - M.F. Rachmadi
+  - W. Jatmiko
+  publisher: 2012 International Symposium on Micro-NanoMechatronics and Human Science
+    (MHS)
+  date: '2012-04-01'
+  link: https://doi.org/gtchxj
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TENCON.2011.6129009
+  title: Adaptive traffic signal control system using camera sensor and embedded system
+  authors:
+  - M Febrian Rachmadi
+  - Faris Al Afif
+  - Wisnu Jatmiko
+  - Petrus Mursanto
+  - E A Manggala
+  - M Anwar Ma'sum
+  - Adi Wibowo
+  publisher: TENCON 2011 - 2011 IEEE Region 10 Conference
+  date: '2011-11-01'
+  link: https://doi.org/gtchxn
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21609/jiki.v17i2.1274
+  title: 'Deep Image Deblurring for Non-Uniform Blur: a Comparative Study of Restormer
+    and BANet'
+  authors:
+  - Made Prastha Nugraha
+  - Laksmita Rahadianti
+  publisher: Jurnal Ilmu Komputer dan Informasi
+  date: '2024-06-03'
+  link: https://doi.org/gt6ssm
+  orcid: 0000-0003-4167-7213
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-981-99-0405-1_15
+  title: Towards Robust Underwater Image Enhancement
+  authors:
+  - Jahroo Nabila Marvi
+  - Laksmita Rahadianti
+  publisher: Communications in Computer and Information Science
+  date: '2023-01-01'
+  link: https://doi.org/gt6ssn
+  orcid: 0000-0003-4167-7213
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.heliyon.2021.e08038
+  title: 'Evaluation of the quality indicators in dehazed images: Color, contrast,
+    naturalness, and visual pleasingness'
+  authors:
+  - Laksmita Rahadianti
+  - Aruni Yasmin Azizah
+  - Hilda Deborah
+  publisher: Heliyon
+  date: '2021-09-01'
+  link: https://doi.org/gt6ssp
+  orcid: 0000-0003-4167-7213
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21609/jiki.v14i1.963
+  title: 3D Information from Scattering Media Images
+  authors:
+  - Laksmita Rahadianti
+  publisher: Jurnal Ilmu Komputer dan Informasi
+  date: '2021-02-28'
+  link: https://doi.org/gt6ssq
+  orcid: 0000-0003-4167-7213
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.11591/ijeecs.v23.i2.pp1049-1058
+  title: Determining subject headings of documents using information retrieval models
+  authors:
+  - Evi Yulianti
+  - Laksmita Rahadianti
+  publisher: Indonesian Journal of Electrical Engineering and Computer Science
+  date: '2021-08-01'
+  link: https://doi.org/gt6ssr
+  orcid: 0000-0003-4167-7213
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.30630/joiv.5.1.431
+  title: Single Image Dehazing Using Deep Learning
+  authors:
+  - Cahyo Adhi Hartanto
+  - Laksmita Rahadianti
+  publisher: 'JOIV : International Journal on Informatics Visualization'
+  date: '2021-03-22'
+  link: https://doi.org/gt6sst
+  orcid: 0000-0003-4167-7213
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icacsis51025.2020.9263131
+  title: An Introductory Study on Image Quality of Dehazed Images
+  authors:
+  - Aruni Yasmin Azizah
+  - Laksmita Rahadianti
+  - Hilda Deborah
+  publisher: 2020 International Conference on Advanced Computer Science and Information
+    Systems (ICACSIS)
+  date: '2020-10-17'
+  link: https://doi.org/gt6ssv
+  orcid: 0000-0003-4167-7213
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icacsis51025.2020.9263244
+  title: Depth Estimation from Single Hazy Images with 2-Phase Training
+  authors:
+  - Laksmita Rahadianti
+  - Fumihiko Sakaue
+  - Jun Sato
+  publisher: 2020 International Conference on Advanced Computer Science and Information
+    Systems (ICACSIS)
+  date: '2020-10-17'
+  link: https://doi.org/gt6ssw
+  orcid: 0000-0003-4167-7213
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icacsis51025.2020.9263132
+  title: Proxy-based Losses and Pair-based Losses for Face Image Retrieval
+  authors:
+  - Muhammad Ramadiansyah
+  - Laksmita Rahadianti
+  publisher: 2020 International Conference on Advanced Computer Science and Information
+    Systems (ICACSIS)
+  date: '2020-10-17'
+  link: https://doi.org/gt6ssx
+  orcid: 0000-0003-4167-7213
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACPR.2017.100
+  title: Depth Estimation for Hazy Images Using Deep Learning
+  authors:
+  - Laksmita Rahadianti
+  - Fumihiko Sakaue
+  - Jun Sato
+  publisher: 2017 4th IAPR Asian Conference on Pattern Recognition (ACPR)
+  date: '2017-11-01'
+  link: https://doi.org/gt6ssz
+  orcid: 0000-0003-4167-7213
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3169/mta.5.147
+  title: '[Paper] Time-to-Contact in Scattering Media Environments based on Statistical
+    Priors'
+  authors:
+  - Laksmita Rahadianti
+  - Fumihiko Sakaue
+  - Jun Sato
+  publisher: ITE Transactions on Media Technology and Applications
+  date: '2017-01-01'
+  link: https://doi.org/gt6ss2
+  orcid: 0000-0003-4167-7213
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1587/transinf.2016EDP7230
+  title: Time-to-Contact in Scattering Media
+  authors:
+  - Laksmita RAHADIANTI
+  - Wooseong JEONG
+  - Fumihiko SAKAUE
+  - Jun SATO
+  publisher: IEICE Transactions on Information and Systems
+  date: '2017-01-01'
+  link: https://doi.org/f94v6s
+  orcid: 0000-0003-4167-7213
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5220/0005766106710678
+  title: Time-to-Contact from Underwater Images
+  authors:
+  - Laksmita Rahadianti
+  - Fumihiko Sakaue
+  - Jun Sato
+  publisher: Proceedings of the 11th Joint Conference on Computer Vision, Imaging
+    and Computer Graphics Theory and Applications
+  date: '2016-01-01'
+  link: https://doi.org/gt6ss3
+  orcid: 0000-0003-4167-7213
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/EUVIP.2014.7018378
+  title: Objective keyword selection for lecture video annotation
+  authors:
+  - Ali Shariq Imran
+  - Laksmita Rahadianti
+  - Faouzi Alaya Cheikh
+  - Sule Yildirim Yayilgan
+  publisher: 2014 5th European Workshop on Visual Information Processing (EUVIP)
+  date: '2014-12-01'
+  link: https://doi.org/gt6ss4
+  orcid: 0000-0003-4167-7213
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5220/0005362706580663
+  title: Time-to-Contact in Scattering Media
+  authors:
+  - Wooseong Jeong
+  - Laksmita Rahadianti
+  - Fumihiko Sakaue
+  - Jun Sato
+  publisher: Proceedings of the 10th International Conference on Computer Vision Theory
+    and Applications
+  date: '2015-01-01'
+  link: https://doi.org/gt6ss5
+  orcid: 0000-0003-4167-7213
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/SITIS.2013.49
+  title: Semantic Keyword Selection for Automatic Video Annotation
+  authors:
+  - Ali Shariq Imran
+  - Laksmita Rahadianti
+  - Faouzi Alaya Cheikh
+  - Sule Yildirim Yayilgan
+  publisher: 2013 International Conference on Signal-Image Technology &amp; Internet-Based
+    Systems
+  date: '2013-12-01'
+  link: https://doi.org/gt6ss6
+  orcid: 0000-0003-4167-7213
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICSC.2012.36
+  title: Semantic Tags for Lecture Videos
+  authors:
+  - Ali Shariq Imran
+  - Laksmita Rahadianti
+  - Faouzi Alaya Cheikh
+  - Sule Yildirim Yayilgan
+  publisher: 2012 IEEE Sixth International Conference on Semantic Computing
+  date: '2012-09-01'
+  link: https://doi.org/ggkdgg
+  orcid: 0000-0003-4167-7213
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1142/S0218001422550151
+  title: End-to-End Multi-Resolution 3D Capsule Network for People Action Detection
+  authors:
+  - Mohamad Ivan Fanany
+  - Ahmad Arinaldi
+  publisher: International Journal of Pattern Recognition and Artificial Intelligence
+  date: '2022-05-13'
+  link: https://doi.org/gt6ss7
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1155/2016/3483528
+  title: A New Data Representation Based on Training Data Characteristics to Extract
+    Drug Name Entity in Medical Text
+  authors:
+  - Mujiono Sadikin
+  - Mohamad Ivan Fanany
+  - T. Basaruddin
+  publisher: Computational Intelligence and Neuroscience
+  date: '2016-01-01'
+  link: https://doi.org/gt6ss8
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TIME-E.2015.7389747
+  title: A heuristic Hidden Markov Model to recognize inflectional words in sign system
+    for Indonesian language known as SIBI (Sistem Isyarat Bahasa Indonesia)
+  authors:
+  - Erdefi Rakun
+  - Mohammad Ivan Fanany
+  - I Wayan Wiprayoga Wisesa
+  - Andros Tjandra
+  publisher: 2015 International Conference on Technology, Informatics, Management,
+    Engineering &amp; Environment (TIME-E)
+  date: '2015-09-01'
+  link: https://doi.org/gt6ss9
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1155/2016/8091267
+  title: Adaptive Online Sequential ELM for Concept Drift Tackling
+  authors:
+  - Arif Budiman
+  - Mohamad Ivan Fanany
+  - Chan Basaruddin
+  publisher: Computational Intelligence and Neuroscience
+  date: '2016-01-01'
+  link: https://doi.org/f9jrzj
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1155/2016/1537325
+  title: Metaheuristic Algorithms for Convolution Neural Network
+  authors:
+  - L. M. Rasdi Rere
+  - Mohamad Ivan Fanany
+  - Aniati Murni Arymurthy
+  publisher: Computational Intelligence and Neuroscience
+  date: '2016-01-01'
+  link: https://doi.org/gt6stb
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICACSIS.2015.7415181
+  title: Online marginalized linear stacked denoising autoencoders for learning from
+    big data stream
+  authors:
+  - Arif Budiman
+  - Mohamad Ivan Fanany
+  - Chan Basaruddin
+  publisher: 2015 International Conference on Advanced Computer Science and Information
+    Systems (ICACSIS)
+  date: '2015-10-01'
+  link: https://doi.org/gt6stc
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICARES.2015.7429821
+  title: Remote sensing big data utilization for paddy growth stages detection
+  authors:
+  - S. Mulyono
+  - M. Ivan Fanany
+  publisher: 2015 IEEE International Conference on Aerospace Electronics and Remote
+    Sensing Technology (ICARES)
+  date: '2015-12-01'
+  link: https://doi.org/gt6std
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICACSIS.2015.7415162
+  title: Sleep stages classification using shallow classifiers
+  authors:
+  - Endang Purnama Giri
+  - Aniati Murni Arymurthy
+  - Mohammad Ivan Fanany
+  - Sastra Kusuma Wijaya
+  publisher: 2015 International Conference on Advanced Computer Science and Information
+    Systems (ICACSIS)
+  date: '2015-10-01'
+  link: https://doi.org/gt6stf
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.13140/RG.2.1.3986.0560
+  title: A Comparison of SVM and RVM for Human Action Recognition
+  authors:
+  - Vina Ayumi
+  - Mohamad Ivan Fanany
+  publisher: Unpublished
+  date: '2015-01-01'
+  link: https://doi.org/gt6stg
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5281/zenodo.34149
+  title: A Sparse Encoding Symmetric Machines Pre-Training For Temporal Deep Belief
+    Networks For Motion Analysis And Synthesis
+  authors:
+  - Milyun Ni'ma Shoumi
+  - Mohamad Ivan Fanany
+  publisher: Zenodo
+  date: '2015-02-10'
+  link: https://doi.org/gt6sth
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.procs.2015.07.525
+  title: Cattle Race Classification Using Gray Level Co-occurrence Matrix Convolutional
+    Neural Networks
+  authors:
+  - Mayanda Mega Santoni
+  - Dana Indra Sensuse
+  - Aniati Murni Arymurthy
+  - Mohamad Ivan Fanany
+  publisher: Procedia Computer Science
+  date: '2015-01-01'
+  link: https://doi.org/grg35t
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.procs.2015.12.160
+  title: Distribution-Sensitive Learning on Relevance Vector Machine for Pose-Based
+    Human Gesture Recognition
+  authors:
+  - Vina Ayumi
+  - Mohamad Ivan Fanany
+  publisher: Procedia Computer Science
+  date: '2015-01-01'
+  link: https://doi.org/grc682
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-15702-3_50
+  title: Kernel-Based Regularized Learning for Time-Invariant Detection of Paddy Growth
+    Stages from MODIS Data
+  authors:
+  - Sidik Mulyono
+  - ' Harisno'
+  - Mahfudz Amri
+  - M. Ivan Fanany
+  - T. Basaruddin
+  publisher: Lecture Notes in Computer Science
+  date: '2015-01-01'
+  link: https://doi.org/gt6stj
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.13140/RG.2.1.1702.5363
+  title: Online Marginalized Linear Stacked Denoising Autoencoders for Learning from
+    Big Data Stream
+  authors:
+  - Arif Budiman
+  - Mohamad Ivan Fanany
+  publisher: Unpublished
+  date: '2015-01-01'
+  link: https://doi.org/gt6stk
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.procs.2015.12.114
+  title: Simulated Annealing Algorithm for Deep Learning
+  authors:
+  - L.M. Rasdi Rere
+  - Mohamad Ivan Fanany
+  - Aniati Murni Arymurthy
+  publisher: Procedia Computer Science
+  date: '2015-01-01'
+  link: https://doi.org/gt6stm
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.13140/RG.2.1.1893.0006
+  title: Sleep Stages Classification using Shallow Classifiers
+  authors:
+  - Mohammad Ivan Fanany
+  publisher: Unpublished
+  date: '2015-01-01'
+  link: https://doi.org/gt6stn
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.procs.2015.12.159
+  title: Twitter Sentiment to Analyze Net Brand Reputation of Mobile Phone Providers
+  authors:
+  - Nur Azizah Vidya
+  - Mohamad Ivan Fanany
+  - Indra Budi
+  publisher: Procedia Computer Science
+  date: '2015-01-01'
+  link: https://doi.org/gt6stp
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/gcce.2014.7031307
+  title: Application of metaheuristic algorithms for optimal smartphone-photo enhancement
+  authors:
+  - L. M. Rasdi Rere
+  - M. Ivan Fanany
+  - A. Murni
+  publisher: 2014 IEEE 3rd Global Conference on Consumer Electronics (GCCE)
+  date: '2014-10-01'
+  link: https://doi.org/gt6stq
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icaicta.2014.7005944
+  title: Adaptive DE based on chaotic sequences and random adjustment for image Contrast
+    Enhancement
+  authors:
+  - L. M. Rasdi Rere
+  - M. Ivan Fanany
+  - A. Murni
+  publisher: '2014 International Conference of Advanced Informatics: Concept, Theory
+    and Application (ICAICTA)'
+  date: '2014-08-01'
+  link: https://doi.org/gt6str
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/GCCE.2014.7031294
+  title: A method for dance motion recognition and scoring using two-layer classifier
+    based on conditional random field and stochastic error-correcting context-free
+    grammar
+  authors:
+  - Yaya Heryadi
+  - Mohamad Ivan Fanany
+  - Aniati Murni Arymurthy
+  publisher: 2014 IEEE 3rd Global Conference on Consumer Electronics (GCCE)
+  date: '2014-10-01'
+  link: https://doi.org/gt6sts
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/IAICT.2014.6922113
+  title: Constructive, robust and adaptive OS-ELM in human action recognition
+  authors:
+  - Arif Budiman
+  - Mohamad Ivan Fanany
+  - Chan Basaruddin
+  publisher: 2014 International Conference on Industrial Automation, Information and
+    Communications Technology
+  date: '2014-08-01'
+  link: https://doi.org/gt6stt
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/GCCE.2014.7031302
+  title: Stacked Denoising Autoencoder for feature representation learning in pose-based
+    action recognition
+  authors:
+  - Arif Budiman
+  - Mohamad Ivan Fanany
+  - Chan Basaruddin
+  publisher: 2014 IEEE 3rd Global Conference on Consumer Electronics (GCCE)
+  date: '2014-10-01'
+  link: https://doi.org/gt6stv
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICACSIS.2013.6761599
+  title: A multiclass ELM strategy in pose-based 3D human motion analysis
+  authors:
+  - Arif Budiman
+  - Mohamad Ivan Fanany
+  publisher: 2013 International Conference on Advanced Computer Science and Information
+    Systems (ICACSIS)
+  date: '2013-09-01'
+  link: https://doi.org/gt6stw
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000343581000057
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000343581000057
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICACSIS.2013.6761600
+  title: An automatic detection method for high density slums based on regularity
+    pattern of housing using Gabor filter and GINI index
+  authors:
+  - Nursidik Heru Praptono
+  - Pahala Sirait
+  - M. Ivan Fanany
+  - Aniati Murni Arymurthy
+  publisher: 2013 International Conference on Advanced Computer Science and Information
+    Systems (ICACSIS)
+  date: '2013-09-01'
+  link: https://doi.org/gt6stx
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICACSIS.2013.6761594
+  title: An ensemble incremental approach of Extreme Learning Machine (ELM) For paddy
+    growth stages classification using MODIS remote sensing images
+  authors:
+  - S. Mulyono
+  - T. A. Pianto
+  - M. Ivan Fanany
+  - T. Basaruddin
+  publisher: 2013 International Conference on Advanced Computer Science and Information
+    Systems (ICACSIS)
+  date: '2013-09-01'
+  link: https://doi.org/gt6stz
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICACSIS.2013.6761616
+  title: Particle filter for 3D fingertips tracking from color and depth images with
+    occlusion handling
+  authors:
+  - Derry Alamsyah
+  - M. Ivan Fanany
+  publisher: 2013 International Conference on Advanced Computer Science and Information
+    Systems (ICACSIS)
+  date: '2013-09-01'
+  link: https://doi.org/gjb2jm
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/GCCE.2013.6664834
+  title: Pose-based 3D human motion analysis using Extreme Learning Machine
+  authors:
+  - Arif Budiman
+  - Mohamad Ivan Fanany
+  publisher: 2013 IEEE 2nd Global Conference on Consumer Electronics (GCCE)
+  date: '2013-10-01'
+  link: https://doi.org/gt6st2
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICACSIS.2013.6761612
+  title: Stochastic regular grammar-based learning for basic dance motion recognition
+  authors:
+  - Yaya Heryadi
+  - Mohamad Ivan Fanany
+  - Aniati Murni Arymurthy
+  publisher: 2013 International Conference on Advanced Computer Science and Information
+    Systems (ICACSIS)
+  date: '2013-09-01'
+  link: https://doi.org/gt6st3
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/CIMSim.2012.78
+  title: A Skeleton Descriptor for Kinesthetic Element Recognition of Bali Traditional
+    Dances
+  authors:
+  - Yaya Heryadi
+  - Mohamad Ivan Fanany
+  - Aniati Murni
+  publisher: 2012 Fourth International Conference on Computational Intelligence, Modelling
+    and Simulation
+  date: '2012-09-01'
+  link: https://doi.org/gt6st4
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/IGARSS.2012.6351743
+  title: Genetic algorithm based new sequence of principal component regression (GA-NSPCR)
+    for feature selection and yield prediction using hyperspectral remote sensing
+    data
+  authors:
+  - Sidik Mulyono
+  - Mohamad Ivan Fanany
+  - T Basaruddin
+  publisher: 2012 IEEE International Geoscience and Remote Sensing Symposium
+  date: '2012-07-01'
+  link: https://doi.org/gt6st5
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/tencon.2011.6129052
+  title: A comparative study on Daubechies Wavelet Transformation, Kernel PCA and
+    PCA as feature extractors for arrhythmia detection using SVM
+  authors:
+  - ' Elly Matul Imah'
+  - ' Faris Al Afif'
+  - M. Ivan Fanany
+  - Wisnu Jatmiko
+  - T. Basaruddin
+  publisher: TENCON 2011 - 2011 IEEE Region 10 Conference
+  date: '2011-11-01'
+  link: https://doi.org/gtchxm
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICDIM.2011.6093359
+  title: Maintaining imbalance highly dependent medical data using dirichlet process
+    data generation
+  authors:
+  - Tieta Antaresti
+  - Mohamad Ivan Fanany
+  - Aniati Murni Arymurthy
+  publisher: 2011 Sixth International Conference on Digital Information Management
+  date: '2011-09-01'
+  link: https://doi.org/dqmzdf
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icbbe.2011.5780285
+  title: 'Sleep Apnea Detection from ECG Signal: Analysis on Optimal Features, Principal
+    Components, and Nonlinearity'
+  authors:
+  - Sani M. Isa
+  - Mohamad Ivan Fanany
+  - Wisnu Jatmiko
+  - Aniati Murni Arymurthy
+  publisher: 2011 5th International Conference on Bioinformatics and Biomedical Engineering
+  date: '2011-05-01'
+  link: https://doi.org/cg837h
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICDIM.2011.6093365
+  title: 'Technology forecasting in the field of Apnea from online publications: Time
+    series analysis on Latent Semantic'
+  authors:
+  - Agus Widodo
+  - Mohamad Ivan Fanany
+  - Indra Budi
+  publisher: 2011 Sixth International Conference on Digital Information Management
+  date: '2011-09-01'
+  link: https://doi.org/cwp6d6
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000247329100048
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000247329100048
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-540-72849-8_48
+  title: Analytic Reconstruction of Transparent and Opaque Surfaces from Texture Images
+  authors:
+  - Mohamad Ivan Fanany
+  - Itsuo Kumazawa
+  publisher: Lecture Notes in Computer Science
+  date: ''
+  link: https://doi.org/b25d2d
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-540-72849-8
+  title: Pattern Recognition and Image Analysis
+  authors: []
+  publisher: Lecture Notes in Computer Science
+  date: '2007-01-01'
+  link: https://doi.org/cwbk5d
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/1101389.1101475
+  title: A neural network scheme for transparent surface modelling
+  authors:
+  - Mohamad Ivan Fanany
+  - Itsuo Kumazawa
+  - Kiichi Kobayashi
+  publisher: Proceedings of the 3rd international conference on Computer graphics
+    and interactive techniques in Australasia and South East Asia
+  date: '2005-11-29'
+  link: https://doi.org/bfwgmz
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-540-30503-3_5
+  title: A Combinatorial Transparent Surface Modeling from Polarization Images
+  authors:
+  - Mohamad Ivan Fanany
+  - Kiichi Kobayashi
+  - Itsuo Kumazawa
+  publisher: Lecture Notes in Computer Science
+  date: '2004-01-01'
+  link: https://doi.org/cwkrrz
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.patrec.2003.11.001
+  title: A neural network for recovering 3D shape from erroneous and few depth maps
+    of shaded images
+  authors:
+  - Mohamad Ivan Fanany
+  - Itsuo Kumazawa
+  publisher: Pattern Recognition Letters
+  date: '2004-03-01'
+  link: https://doi.org/fn5wm8
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.mcm.2004.04.003
+  title: Multiple-view shape extraction from shading as local regression by analytic
+    NN scheme
+  authors:
+  - M.I. Fanany
+  - I. Kumazawa
+  publisher: Mathematical and Computer Modelling
+  date: '2004-11-01'
+  link: https://doi.org/cdx8f9
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-540-39644-4_27
+  title: SA-Optimized Multiple View Smooth Polyhedron Representation NN
+  authors:
+  - Mohamad Ivan Fanany
+  - Itsuo Kumazawa
+  publisher: Lecture Notes in Computer Science
+  date: '2003-01-01'
+  link: https://doi.org/cd2qnz
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000187958400027
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000187958400027
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icip.2002.1039948
+  title: A scheme for reconstructing face from shading using smooth projected polygon
+    representation NN
+  authors:
+  - M.I. Fanany
+  - M. Ohno
+  - I. Kumazawa
+  publisher: Proceedings. International Conference on Image Processing
+  date: ''
+  link: https://doi.org/bq5hdr
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/apccas.2002.1115149
+  title: Analysis of shape from shading algorithms for fast and realistic 3D face
+    reconstruction APCCAS2002
+  authors:
+  - M.I. Fanany
+  - I. Kumazawa
+  publisher: Asia-Pacific Conference on Circuits and Systems
+  date: ''
+  link: https://doi.org/dn8mwg
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/iccima.2001.970480
+  title: Speaker identification in noisy environment using bispectrum analysis and
+    probabilistic neural network
+  authors:
+  - B. Kusumoputro
+  - A. Triyanto
+  - M.I. Fanany
+  - W. Jatmiko
+  publisher: Proceedings Fourth International Conference on Computational Intelligence
+    and Multimedia Applications. ICCIMA 2001
+  date: ''
+  link: https://doi.org/b2g47h
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000173022300055
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000173022300055
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.391925
+  title: '&lt;title&gt;Bispectrum analysis for speaker identification in a noisy environment
+    with Karhunen-Loeve transformation technique&lt;/title&gt;'
+  authors:
+  - Benyamin Kusumoputro
+  - Muhammad I. Fanany
+  - Dian Indrawati
+  publisher: SPIE Proceedings
+  date: '2000-07-17'
+  link: https://doi.org/b7pjbh
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/iccima.1999.798577
+  title: Improvement of artificial odor discrimination system using fuzzy-LVQ neural
+    network
+  authors:
+  - B. Kusumoputro
+  - M.R. Widyanto
+  - M.I. Fanany
+  - H. Budiarto
+  publisher: Proceedings Third International Conference on Computational Intelligence
+    and Multimedia Applications. ICCIMA'99 (Cat. No.PR00300)
+  date: ''
+  link: https://doi.org/dg98cw
+  orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000241553600015
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000241553600015
+  orcid: 0000-0002-6050-664X
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -184,9 +1291,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -203,21 +1307,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
