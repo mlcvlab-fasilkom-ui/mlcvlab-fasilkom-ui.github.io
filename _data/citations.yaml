@@ -1278,6 +1278,41 @@
   orcid: 0000-0002-6050-664X
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1109/ACCESS.2024.3396377
+  title: Zero-Shot Voice Cloning Text-to-Speech for Dysphonia Disorder Speakers
+  authors:
+  - Kurniawati Azizah
+  publisher: IEEE Access
+  date: '2024-01-01'
+  link: https://doi.org/gt6s2k
+  orcid: 0000-0002-3217-7025
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2022.3141200
+  title: Transfer Learning, Style Control, and Speaker Reconstruction Loss for Zero-Shot
+    Multilingual Multi-Speaker Text-to-Speech on Low-Resource Languages
+  authors:
+  - Kurniawati Azizah
+  - Wisnu Jatmiko
+  publisher: IEEE Access
+  date: '2022-01-01'
+  link: https://doi.org/gtchs6
+  orcid: 0000-0002-3217-7025
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2020.3027619
+  title: Hierarchical Transfer Learning for Multilingual, Multi-Speaker, and Style
+    Transfer DNN-Based TTS on Low-Resource Languages
+  authors:
+  - Kurniawati Azizah
+  - Mirna Adriani
+  - Wisnu Jatmiko
+  publisher: IEEE Access
+  date: '2020-01-01'
+  link: https://doi.org/gtchs8
+  orcid: 0000-0002-3217-7025
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.5614/itbj.ict.res.appl.2022.16.3.5
   title: Translating SIBI (Sign System for Indonesian Gesture) Gesture-to-Text in
     Real-Time using a Mobile Device
