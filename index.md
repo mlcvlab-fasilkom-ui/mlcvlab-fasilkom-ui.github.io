@@ -1,17 +1,21 @@
 ---
 ---
 
-# MACHINE LEARNING AND COMPUTER VISION「 MLCV 」LAB
+# MACHINE LEARNING AND COMPUTER VISION 「 MLCV 」 LAB
 
-
+The MLCV Lab focuses on research related to manipulating, analyzing, and interpreting data in the form of images or pictures. The methods used are very diverse, ranging from processing detailed information stored at the pixel level to geometrically dividing images into several regions to form patterns.
 
 {% include section.html %}
+
+## News Update 
+
+{% include alert.html type="success" content="**11/AUG/2024:** Our new website is now online!" %}
 
 ## Highlights
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+See the compilation of all our members’ publications.
 
 {%
   include button.html
@@ -28,13 +32,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Our Research"
+  title="Our Publications"
   text=text
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+See our past and current research projects.
 
 {%
   include button.html
@@ -59,12 +63,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Here are the key members of the MLCV lab.
 
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="Members"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -76,6 +80,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
+  title="Members"
   text=text
 %}
