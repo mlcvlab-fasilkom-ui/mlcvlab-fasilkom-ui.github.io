@@ -3,7 +3,7 @@
 
 # MACHINE LEARNING AND COMPUTER VISION 「 MLCV 」 LAB
 
-The MLCV Lab focuses on research related to manipulating, analyzing, and interpreting data in the form of images or pictures. The methods used are very diverse, ranging from processing detailed information stored at the pixel level to geometrically dividing images into several regions to form patterns.
+The MLCV Lab focuses on machine learning-related research, especially for computer vision tasks that involve manipulating, analyzing, and interpreting data from images and videos. The methods used are diverse, from processing detailed information stored at the pixel level to geometrically dividing images into several regions to form highly correlated patterns for a specific task.
 
 {% include section.html %}
 
