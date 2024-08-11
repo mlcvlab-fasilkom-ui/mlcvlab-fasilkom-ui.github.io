@@ -11,7 +11,10 @@ nav:
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Translating SIBI (Sign System for Indonesian Gesture) Gesture-to-Text in Real-Time using a Mobile Device" style="rich" %}
+{% include citation.html lookup="Word recognition and automated epenthesis removal for Indonesian sign system sentence gestures" style="rich" %}
+{% include citation.html lookup="Infant cry classification using CNN–RNN" style="rich" %}
+{% include citation.html lookup="Local and long-distance organization of prefrontal cortex circuits in the marmoset brain" style="rich" %}
 
 {% include section.html %}
 
