@@ -5,11 +5,11 @@ nav:
   tooltip: Software, codes, datasets, and more
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Research Topic & Project
+# {% include icon.html icon="fa-solid fa-wrench" %}Resources
 
-Past and current research projects performed by the members.
+Software, codes, datasets, and other products from our research works and projects.
 
-{% include tags.html tags="publication, resource, website" %}
+{% include tags.html tags="software, code, dataset, website" %}
 
 {% include search-info.html %}
 
