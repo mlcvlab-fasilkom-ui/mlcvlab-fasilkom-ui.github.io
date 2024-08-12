@@ -7,8 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Research Topic & Project
 
-Software, codes, datasets, and other products from our research works and projects.
-
 {% capture col1 %}
 {%
   include figure.html
@@ -31,13 +29,11 @@ Software, codes, datasets, and other products from our research works and projec
 {% include search-info.html %}
 
 {% include section.html %}
-
-## Featured
-
+## Current Research Projects
+**Under construction**
 {% include list.html component="card" data="projects" filters="group: featured" %}
 
 {% include section.html %}
-
-## More
-
+## Past Research Projects
+**Under construction**
 {% include list.html component="card" data="projects" filters="group: " style="small" %}
