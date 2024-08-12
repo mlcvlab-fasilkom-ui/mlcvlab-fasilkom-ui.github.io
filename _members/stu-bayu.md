@@ -1,6 +1,6 @@
 ---
 name: Bayu Satria Persada
-image: images/photos.jpg
+image: images/photo.jpg
 role: student
 affiliation: Dr. Eng. Laksmita Rahadianti
 
