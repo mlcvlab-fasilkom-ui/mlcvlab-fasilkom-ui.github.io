@@ -9,11 +9,10 @@ The MLCV Lab focuses on machine learning-related research, especially for comput
 ## Main Information
 
 {% capture text %}
-
 Our published works range from core machine learning papers to the application of machine learning methods, specifically for but not limited to computer vision tasks.
 {%
   include button.html
-  link="research"
+  link="publication"
   text="See our published works"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -23,7 +22,7 @@ Our published works range from core machine learning papers to the application o
 {%
   include feature.html
   image="images/book.gif"
-  link="research"
+  link="publication"
   title="Published works"
   text=text
 %}
@@ -49,8 +48,9 @@ We mainly focus on developing and using machine learning methods specifically fo
   text=text
 %}
 
+
 {% capture text %}
-We have produced various software, codes, and datasets, which are the main outputs of our research and work. 
+We have produced various software, codes, and datasets which are the main outputs of our research and work. 
 {%
   include button.html
   link="resources"
@@ -65,8 +65,6 @@ We have produced various software, codes, and datasets, which are the main outpu
   image="images/brain.gif"
   link="resources"
   title="Resources"
-  flip=true
-  style="bare"
   text=text
 %}
 
