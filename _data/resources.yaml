@@ -1,9 +1,19 @@
 - title: Text-to-Gesture SIBI
-  subtitle: SIBI or Sistem Isyarat Bahasa Indonesia is the Indonesian Sign Language System. 
+  subtitle: SIBI or Sistem Isyarat Bahasa Indonesia is the Indonesian Sign Language System
   group: software, featured
   image: images/SIBIapp.jpg
   link: https://play.google.com/store/apps/details?id=com.ui.text_to_gesture_sibi_bisindo&hl=en
   description: Together with Andi and Aini, they will help you translate the sentences you want into SIBI in animated form. More than 3000 SIBI animations with more than 300,000 words and affixes can be translated. The dictionary feature can be used to look up the word you want and show how to do the movement for that word.
+  # repo: greenelab/lab-website-template
+  tags:
+    - software
+
+- title: Stethosoul
+  subtitle: Psychosis Early Detection App 
+  group: software, featured
+  image: images/Stethosoul_box.jpg
+  link: https://cs.ui.ac.id/2021/06/07/fasilkom-ui-bersama-imeri-fkui-kembangkan-stethosoul-aplikasi-pendeteksi-dini-psikosis/
+  description: In collaboration with the Department of Psychiatry, Faculty of Medicine (FK) UI and the Indonesian Medical Education and Research Institute (IMERI) FKUI along with PT Bahasa Kita, we developed a mobile-based application for early detection of psychosis called Stethosoul which utilizes speech-to-text and text classification features.
   # repo: greenelab/lab-website-template
   tags:
     - software
