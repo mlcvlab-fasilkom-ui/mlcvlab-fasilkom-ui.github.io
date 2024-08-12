@@ -9,7 +9,24 @@ nav:
 
 Software, codes, datasets, and other products from our research works and projects.
 
-{% include tags.html tags="software, code, dataset, website" %}
+{% capture col1 %}
+{%
+  include figure.html
+  image="images/Projects.jpg"
+  caption="Projects in MLCV Lab"
+%}
+{% endcapture %}
+
+{% capture col2 %}
+{%
+  include figure.html
+  image="images/Topics.jpg"
+  caption="Research Topics in MLCV Lab"
+%}
+{% endcapture %}
+{% include cols.html col1=col1 col2=col2 %}
+
+{% include tags.html tags="Computer Vision, NLP, ML/DL, Biomedical, Social Science, Life Science" %}
 
 {% include search-info.html %}
 
