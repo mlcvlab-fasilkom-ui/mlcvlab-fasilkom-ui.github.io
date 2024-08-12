@@ -2,25 +2,29 @@
 title: Resources
 nav:
   order: 3
-  tooltip: Software, codes, datasets, products, lecturers, and more
+  tooltip: Software, codes, datasets, products, courses, and more
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Resources
 
 Software, codes, datasets, and other products from our research works and projects.
 
-{% include tags.html tags="software, code, dataset, website" %}
+{% include tags.html tags="software, codes, datasets, courses" %}
 
 {% include search-info.html %}
 
 {% include section.html %}
-
-## Featured
-
-{% include list.html component="card" data="projects" filters="group: featured" %}
+## Software
+{% include list.html component="card" data="resources" filters="group: software" %}
 
 {% include section.html %}
+## Codes
+{% include list.html component="card" data="resources" filters="group: codes" style="small" %}
 
-## More
+{% include section.html %}
+## Datasets
+{% include list.html component="card" data="resources" filters="group: datasets" style="small" %}
 
-{% include list.html component="card" data="projects" filters="group: " style="small" %}
+{% include section.html %}
+## Courses
+{% include list.html component="card" data="resources" filters="group: courses" style="small" %}
