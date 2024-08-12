@@ -7,6 +7,7 @@ aliases:
   - K. Azizah
   - Kurniawati Azizah
   - K Azizah
+  - Azizah
 links:
   home-page: https://cs.ui.ac.id/personnel/kurniawati-azizah/
   orcid: 0000-0002-3217-7025
