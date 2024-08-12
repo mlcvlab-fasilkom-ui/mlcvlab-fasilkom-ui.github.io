@@ -30,5 +30,5 @@ Software, codes, datasets, and other products from our research works and projec
 {% include list.html component="card" data="resources" filters="group: courses, presentations" style="small" %}
 
 {% include section.html %}
-## Books & Opinions
-{% include list.html component="card" data="resources" filters="group: books, opinions" style="small" %}
+## Books & Writings
+{% include list.html component="card" data="resources" filters="group: books, writings" style="small" %}
