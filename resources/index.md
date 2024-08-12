@@ -26,9 +26,9 @@ Software, codes, datasets, and other products from our research works and projec
 {% include list.html component="card" data="resources" filters="group: datasets" style="small" %}
 
 {% include section.html %}
-## Courses
-{% include list.html component="card" data="resources" filters="group: courses" style="small" %}
+## Courses & Presentations
+{% include list.html component="card" data="resources" filters="group: courses, presentations" style="small" %}
 
 {% include section.html %}
-## Books
-{% include list.html component="card" data="resources" filters="group: books" style="small" %}
+## Books & Opinions
+{% include list.html component="card" data="resources" filters="group: books, opinions" style="small" %}
