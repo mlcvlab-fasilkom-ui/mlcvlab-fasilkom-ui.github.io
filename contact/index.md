@@ -28,7 +28,6 @@ Our lab is located at Gedung/Building A, Fakultas Ilmu Komputer, Kampus UI Depok
   include figure.html
   image="images/SIBIapp.jpg"
   caption="Text-to-Gesture SIBI"
-  link="https://www.google.com/maps/dir//fasilkom+ui/@-6.363975,106.8277362,18z/data=!4m9!4m8!1m1!4e2!1m5!1m1!1s0x2e69ec1ad14fb6cf:0xc94e4d829420fa15!2m2!1d106.8286886!2d-6.3646009?hl=en"
 %}
 
 {% endcapture %}
@@ -42,25 +41,22 @@ Our lab is located at Gedung/Building A, Fakultas Ilmu Komputer, Kampus UI Depok
 %}
 
 {% endcapture %}
-<!--
 {% include cols.html col1=col1 col2=col2 %}
 
 {% include section.html dark=true %}
 
 {% capture col1 %}
-
+Machine Learning and  
+Computer Vision
 {% endcapture %}
 
 {% capture col2 %}
-Machine Learning and
-Computer Vision
 (MLCV) Lab
 {% endcapture %}
 
 {% capture col3 %}
 Faculty of Computer Science
-Universitas Indonesia
 2024
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 col3=col3 %}--> 
+{% include cols.html col1=col1 col2=col2 col3=col3 %}
