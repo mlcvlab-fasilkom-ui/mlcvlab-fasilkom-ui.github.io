@@ -16,7 +16,7 @@ The MLCV Lab focuses on machine learning-related research, especially for comput
 
 {% capture text %}
 
-Our published works range from core machine learning papers to the application of machine learning methods for computer vision tasks.
+Our published works range from core machine learning papers to the application of machine learning methods, specifically for but not limited to computer vision tasks.
 
 {%
   include button.html
@@ -39,7 +39,7 @@ Our published works range from core machine learning papers to the application o
 
 {% capture text %}
 
-We mainly focus on using machine learning methods for computer vision tasks that will have a positive impact on society, especially in Indonesia. 
+We mainly focus on developing and using machine learning methods specifically for, but not limited to, computer vision tasks that will positively impact society, especially in Indonesia. 
 
 {%
   include button.html
