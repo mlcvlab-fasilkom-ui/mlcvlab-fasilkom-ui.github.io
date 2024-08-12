@@ -15,15 +15,15 @@ Software, codes, datasets, and other products from our research works and projec
 
 {% include section.html %}
 ## Software
-{% include list.html component="card" data="resources" filters="group: software" style="small" %}
+{% include list.html component="card" data="resources" filters="group: software" %}
 
 {% include section.html %}
 ## Codes
-{% include list.html component="card" data="resources" filters="group: codes" style="small" %}
+{% include list.html component="card" data="resources" filters="group: codes" %}
 
 {% include section.html %}
 ## Datasets
-{% include list.html component="card" data="resources" filters="group: datasets" style="small" %}
+{% include list.html component="card" data="resources" filters="group: datasets" %}
 
 {% include section.html %}
 ## Courses & Presentations
