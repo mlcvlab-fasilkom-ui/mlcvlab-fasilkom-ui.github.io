@@ -28,11 +28,11 @@ Our published works range from core machine learning papers to the application o
 %}
 
 {% capture text %}
-We mainly focus on developing and using machine learning methods specifically for, but not limited to, computer vision tasks that will positively impact society, especially in Indonesia. 
+We mainly focus on developing machine learning methods specifically for, but not limited to, computer vision tasks that will positively impact society, especially in Indonesia. We have been working closely with various local (Indonesia) and international institutions.
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="research"
+  text="Browse our research topic & project"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -41,7 +41,7 @@ We mainly focus on developing and using machine learning methods specifically fo
 {%
   include feature.html
   image="images/server.gif"
-  link="projects"
+  link="research"
   title="Research Topic & Project"
   flip=true
   style="bare"
