@@ -87,7 +87,7 @@ google-scholar:
 scopus:
   icon: fa-solid fa-globe
   text: Scopus Profile
-  tooltip: Home page
+  tooltip: Scopus profile
   
 github:
   icon: fa-brands fa-github
