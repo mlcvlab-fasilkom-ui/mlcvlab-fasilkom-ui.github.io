@@ -12,7 +12,7 @@ aliases:
   - Azizah
 links:
   home-page: https://cs.ui.ac.id/personnel/aruni-yasmin-azizah/
-  orcid: 0000-0003-4167-7213
+  orcid: 0009-0005-5236-4775
   google-scholar: tTF7_uEAAAAJ
 
 ---
