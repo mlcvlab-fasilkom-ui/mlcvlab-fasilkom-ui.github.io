@@ -1,6 +1,6 @@
 ---
 name: Dr. Eng. Laksmita Rahadianti, S.Kom., M.Sc.
-image: images/LR.jpg
+image: images/LR.JPG
 role: researcher
 affiliation: Universitas Indonesia
 aliases:
