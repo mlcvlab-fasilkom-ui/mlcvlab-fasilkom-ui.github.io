@@ -12,7 +12,7 @@ Software, codes, datasets, and other products from our research works and projec
 {%
   include button.html
   type="github"
-  link=https://github.com/MLCV-Lab-Fasilkom-UI
+  link="MLCV-Lab-Fasilkom-UI"
   icon="fa-brands fa-github"
   text="Follow us on GitHub"
   tooltip="Follow us on GitHub for new repositories"
