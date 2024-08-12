@@ -11,6 +11,7 @@ nav:
 {%
   include figure.html
   image="images/Projects.jpg"
+  link="images/Projects.jpg"
   caption="Projects in MLCV Lab"
 %}
 {% endcapture %}
@@ -19,6 +20,7 @@ nav:
 {%
   include figure.html
   image="images/Topics.jpg"
+  link="images/Topics.jpg"
   caption="Research Topics in MLCV Lab"
 %}
 {% endcapture %}
