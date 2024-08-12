@@ -26,8 +26,8 @@ Our lab is located at Gedung/Building A, Fakultas Ilmu Komputer, Kampus UI Depok
 
 {%
   include figure.html
-  image="images/SIBIapp.jpg"
-  caption="Text-to-Gesture SIBI"
+  image="images/Projects.jpg"
+  caption="Projects in MLCV Lab"
 %}
 
 {% endcapture %}
