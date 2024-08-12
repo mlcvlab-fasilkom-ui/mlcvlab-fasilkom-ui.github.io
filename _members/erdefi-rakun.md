@@ -11,6 +11,7 @@ links:
   home-page: https://cs.ui.ac.id/personnel/erdefi-rakun/
   orcid: 0000-0002-2115-7758
   google-scholar: z0E_d9cAAAAJ
+  scopus: 55625410200
 
 ---
 
