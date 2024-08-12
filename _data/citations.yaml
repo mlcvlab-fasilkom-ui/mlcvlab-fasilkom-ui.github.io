@@ -935,9 +935,6 @@
   orcid: 0000-0002-0794-5299
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - NLP
-  - Machine Learning
 - id: doi:10.1007/978-3-030-21395-4_11
   title: A Method for Automatically Generating Schema Diagrams for OWL Ontologies
   authors:
@@ -2489,9 +2486,6 @@
   plugin: sources.py
   file: sources.yaml
   type: journal
-  tags:
-  - NLP
-  - Machine Learning
 - id: doi:10.1109/icacsis56558.2022.9923450
   title: Solving Complex Background Problem Using RetinaNet for Sign System for Indonesian
     Language (SIBI) Gesture-to-Text Translator
@@ -2519,9 +2513,6 @@
   plugin: sources.py
   file: sources.yaml
   type: journal
-  tags:
-  - NLP
-  - Machine Learning
 - id: doi:10.14569/ijacsa.2022.0130950
   title: SIBI (Sign System Indonesian Language) Text-to-3D Animation Translation Mobile
     Application
@@ -2780,8 +2771,5 @@
   date: '2023-07-01'
   link: https://doi.org/gt6svt
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0896627323003380-fx1_lrg.jpg
-  tags:
-  - biomedical image analysis
-  - Machine Learning
   plugin: sources.py
   file: sources.yaml
