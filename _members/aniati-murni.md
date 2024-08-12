@@ -14,6 +14,7 @@ links:
   orcid: 0000-0002-2762-7001
   email: aniati@cs.ui.ac.id
   google-scholar: o0Ap5ecAAAAJ
+  scopus: https://www.scopus.com/authid/detail.uri?authorId=36815724000
   
 ---
 
