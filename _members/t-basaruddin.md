@@ -10,6 +10,7 @@ links:
   home-page: https://cs.ui.ac.id/personnel/t-basaruddin-eng/
   orcid: 0000-0002-0794-5299
   google-scholar: fYsaH-QAAAAJ
+  scopus: https://www.scopus.com/authid/detail.uri?authorId=9334901600
 
 ---
 
