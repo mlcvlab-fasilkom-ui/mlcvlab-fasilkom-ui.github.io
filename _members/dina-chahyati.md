@@ -10,6 +10,7 @@ aliases:
 links:
   home-page: https://cs.ui.ac.id/personnel/dina-chahyati/
   google-scholar: OStyJy8AAAAJ
+  scopus: https://www.scopus.com/authid/detail.uri?authorId=6503971709
 
 ---
 
