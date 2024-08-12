@@ -1,7 +1,7 @@
 ---
 title: Resources
 nav:
-  order: 3
+  order: 4
   tooltip: Software, codes, datasets, products, courses, and more
 ---
 
