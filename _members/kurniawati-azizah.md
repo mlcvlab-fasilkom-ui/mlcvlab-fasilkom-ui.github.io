@@ -5,9 +5,12 @@ role: researcher
 affiliation: Universitas Indonesia
 aliases:
   - K. Azizah
+  - Kurniawati Azizah
+  - K Azizah
 links:
   home-page: https://cs.ui.ac.id/personnel/kurniawati-azizah/
-  orcid: 0000-0002-3217-7025 
+  orcid: 0000-0002-3217-7025
+  google-scholar: AT5S7gYAAAAJ
 
 ---
 
