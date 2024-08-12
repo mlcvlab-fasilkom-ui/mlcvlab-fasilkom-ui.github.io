@@ -20,5 +20,5 @@ The MLCV lab at Fasilkom UI consists of lecturers with active research interests
 {% include section.html %}
 
 ## Featured Resources
-{% include list.html component="card" data="resources" filters="group: featured" %}
+{% include list.html component="card" data="resources" filters="group: featured" style="small" %}
 
