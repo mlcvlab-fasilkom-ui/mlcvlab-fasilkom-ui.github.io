@@ -1,8 +1,8 @@
 ---
 title: Member
 nav:
-  order: 3
-  tooltip: Our members
+  order: 2
+  tooltip: Our lab members
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Member
