@@ -1,6 +1,6 @@
 ---
 name: Steven Christ Pinantyo
-image: images/photos.jpg
+image: images/photo.jpg
 role: student
 affiliation: Dr. Eng. Laksmita Rahadianti
 
