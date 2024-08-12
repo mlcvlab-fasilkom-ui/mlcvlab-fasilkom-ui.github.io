@@ -9,13 +9,13 @@ nav:
 
 Software, codes, datasets, and other products from our research works and projects.
 
-{% include tags.html tags="software, codes, datasets, courses" %}
+{% include tags.html tags="software, codes, datasets, courses, books" %}
 
 {% include search-info.html %}
 
 {% include section.html %}
 ## Software
-{% include list.html component="card" data="resources" filters="group: software" %}
+{% include list.html component="card" data="resources" filters="group: software" style="small" %}
 
 {% include section.html %}
 ## Codes
@@ -28,3 +28,7 @@ Software, codes, datasets, and other products from our research works and projec
 {% include section.html %}
 ## Courses
 {% include list.html component="card" data="resources" filters="group: courses" style="small" %}
+
+{% include section.html %}
+## Books
+{% include list.html component="card" data="resources" filters="group: books" style="small" %}
