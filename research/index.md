@@ -1,11 +1,11 @@
 ---
-title: Resources
+title: Research Topic & Project
 nav:
   order: 3
-  tooltip: Software, codes, datasets, products, lecturers, and more
+  tooltip: Research Topic & Project
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Resources
+# {% include icon.html icon="fa-solid fa-wrench" %}Research Topic & Project
 
 Software, codes, datasets, and other products from our research works and projects.
 
