@@ -1,0 +1,9 @@
+- title: Text-to-Gesture SIBI
+  subtitle: SIBI or Sistem Isyarat Bahasa Indonesia is the Indonesian Sign Language System. 
+  group: software
+  image: images/SIBIapp.jpg
+  link: https://play.google.com/store/apps/details?id=com.ui.text_to_gesture_sibi_bisindo&hl=en
+  description: SIBI or Sistem Isyarat Bahasa Indonesia is the Indonesian Sign Language System. Together with Andi and Aini, they will help you translate the sentences you want into SIBI in animated form. More than 3000 SIBI animations with more than 300,000 words and affixes can be translated. The dictionary feature can be used to look up the word you want and show how to do the movement for that word.
+  # repo: greenelab/lab-website-template
+  tags:
+    - software
