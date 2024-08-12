@@ -13,7 +13,8 @@ The MLCV lab at Fasilkom UI consists of lecturers with active research interests
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: dir" %}
-<br />
+
+{% include section.html %}
 {% include list.html data="members" component="portrait" filters="role: researcher" %}
 
 
@@ -23,12 +24,6 @@ For more information, please check each researcher's personal profile on the Fas
 
 {% include section.html %}
 
-{% capture content %}
+# Featured Resources
+{% include list.html component="card" data="resources" filters="group: featured" %}
 
-{% include figure.html image="images/SIBI_box.jpg" %}
-{% include figure.html image="images/IQA_box.jpg" %}
-{% include figure.html image="images/Stethosoul_box.jpg" %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
