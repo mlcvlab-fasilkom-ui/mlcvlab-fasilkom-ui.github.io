@@ -11,6 +11,7 @@ links:
   home-page: https://cs.ui.ac.id/personnel/laksmita-rahadianti/
   orcid: 0000-0003-4167-7213
   google-scholar: zXG3mDwAAAAJ
+  scopus: https://www.scopus.com/authid/detail.uri?authorId=55513678400
 
 ---
 
