@@ -9,6 +9,7 @@ The MLCV Lab focuses on machine learning-related research, especially for comput
 
 ## News Update 
 
+{% include alert.html type="success" content="**11/AUG/2024:** Our team members and their information have been added!" %}
 {% include alert.html type="success" content="**11/AUG/2024:** Our new website is now online!" %}
 
 ## Highlights
