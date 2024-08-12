@@ -22,6 +22,7 @@ Our lab is located at Gedung/Building A, Fakultas Ilmu Komputer, Kampus UI Depok
 
 {% include section.html %}
 
+
 {% capture col1 %}
 
 {%
@@ -42,24 +43,4 @@ Our lab is located at Gedung/Building A, Fakultas Ilmu Komputer, Kampus UI Depok
 
 {% endcapture %}
 
-<!--
 {% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html dark=true %}
-
-{% capture col1 %}
-Machine Learning and  
-Computer Vision
-{% endcapture %}
-
-{% capture col2 %}
-(MLCV) Lab
-{% endcapture %}
-
-{% capture col3 %}
-Faculty of Computer Science
-2024
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
--->
