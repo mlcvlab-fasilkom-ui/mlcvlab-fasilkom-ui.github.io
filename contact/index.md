@@ -43,6 +43,7 @@ Our lab is located at Gedung/Building A, Fakultas Ilmu Komputer, Kampus UI Depok
 {% endcapture %}
 {% include cols.html col1=col1 col2=col2 %}
 
+<!--
 {% include section.html dark=true %}
 
 {% capture col1 %}
@@ -60,3 +61,4 @@ Faculty of Computer Science
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
+-->
