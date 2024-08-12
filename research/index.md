@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Research Topic & Project
 
-_Last modified at {% last_modified_at %d %B %Y %}_
+_Last modified on {% last_modified_at %A %d %B %Y %}_
 
 {% capture col1 %}
 {%
