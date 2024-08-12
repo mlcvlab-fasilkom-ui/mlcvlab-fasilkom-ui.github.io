@@ -7,6 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Resources
 
+_Last modified on {% last_modified_at %A %d %B %Y %}_
+
 Software, codes, datasets, and other products from our research works and projects.
 
 {%
