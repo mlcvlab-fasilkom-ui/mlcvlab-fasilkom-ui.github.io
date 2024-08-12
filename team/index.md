@@ -1,7 +1,7 @@
 ---
 title: Member
 nav:
-  order: 4
+  order: 3
   tooltip: Our members
 ---
 
@@ -15,7 +15,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: dir" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="role: researcher" %}
+{% include list.html data="members" component="portrait" filters="role: student" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
