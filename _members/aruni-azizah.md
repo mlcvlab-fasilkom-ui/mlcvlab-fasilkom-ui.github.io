@@ -14,6 +14,7 @@ links:
   home-page: https://cs.ui.ac.id/personnel/aruni-yasmin-azizah/
   orcid: 0009-0005-5236-4775
   google-scholar: tTF7_uEAAAAJ
+  scopus: https://www.scopus.com/authid/detail.uri?authorId=57221676024
 
 ---
 
