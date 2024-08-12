@@ -84,6 +84,8 @@ Here are the key members of the MLCV lab.
   image="images/members.gif"
   link="team"
   title="Members"
+  flip=true
+  style="bare"
   text=text
 %}
 
