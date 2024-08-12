@@ -11,26 +11,26 @@
   #     link: https://github.com/greenelab/meta-review
   #   - type: website
   #     link: http://manubot.org/
-  tags:
-    - NLP
-    - Machine Learning
+  # tags:
+  #   - NLP
+  #   - Machine Learning
   # repo: greenelab/meta-review
 
 - id: doi:10.11591/ijeecs.v26.i3.pp1402-1414
   type: journal
   # image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs40537-020-00374-x/MediaObjects/40537_2020_374_Fig2_HTML.png?as=webp
-  tags:
-    - NLP
-    - Machine Learning
+  # tags:
+  #   - NLP
+  #   - Machine Learning
 
 - id: doi:10.1088/1742-6596/1528/1/012019
   # image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/6287639/8948470/8967069/husod1-2969021-large.gif
-  tags:
-    - NLP
-    - Machine Learning
+  # tags:
+  #   - NLP
+  #   - Machine Learning
 
 - id: doi:10.1016/j.neuron.2023.04.028
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0896627323003380-fx1_lrg.jpg
-  tags:
-    - biomedical image analysis
-    - Machine Learning
+  # tags:
+  #   - biomedical image analysis
+  #   - Machine Learning
