@@ -6,9 +6,14 @@ affiliation: Universitas Indonesia
 aliases:
   - A. Y. Azizah
   - A. Yasmin Azizah
+  - Aruni Yasmin Azizah
+  - Yasmin Azizah
+  - AY Azizah
+  - Azizah
 links:
   home-page: https://cs.ui.ac.id/personnel/aruni-yasmin-azizah/
   orcid: 0000-0003-4167-7213
+  google-scholar: tTF7_uEAAAAJ
 
 ---
 
