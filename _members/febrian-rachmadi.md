@@ -11,6 +11,7 @@ aliases:
 links:
   home-page: https://cs.ui.ac.id/personnel/muhammad-febrian-rachmadi-m-sc-ph-d/
   orcid: 0000-0003-4167-7213
+  google-scholar: ZFo5fiwAAAAJ
 
 ---
 
