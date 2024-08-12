@@ -5,9 +5,11 @@ role: researcher
 affiliation: Universitas Indonesia
 aliases:
   - T. Basaruddin
+  - Basaruddin
 links:
   home-page: https://cs.ui.ac.id/personnel/t-basaruddin-eng/
   orcid: 0000-0003-1672-9149
+  google-scholar: fYsaH-QAAAAJ
 
 ---
 
