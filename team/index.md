@@ -13,6 +13,7 @@ The members of MLCV lab at Fasilkom UI consists of lecturers with active researc
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: dir" %}
+<br />
 {% include list.html data="members" component="portrait" filters="role: researcher" %}
 
 
