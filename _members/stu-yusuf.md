@@ -1,6 +1,6 @@
 ---
 name: Muhammad Yusuf Kardawi
-image: images/photos.jpg
+image: images/photo.jpg
 role: student
 affiliation: Dr. Eng. Laksmita Rahadianti
 
