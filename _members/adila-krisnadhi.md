@@ -13,7 +13,7 @@ links:
   home-page: https://cs.ui.ac.id/personnel/adila-alfa-krisnadhi/
   orcid: 0000-0003-0745-6804
   google-scholar: m7PqgfkAAAAJ
-
+  scopus: https://www.scopus.com/authid/detail.uri?authorId=23467371600
 
 ---
 
