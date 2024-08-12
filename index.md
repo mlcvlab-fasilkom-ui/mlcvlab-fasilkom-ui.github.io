@@ -6,18 +6,17 @@
 The MLCV Lab focuses on machine learning-related research, especially for computer vision tasks that involve manipulating, analyzing, and interpreting data from images and videos. The methods used are diverse, from processing detailed information stored at the pixel level to geometrically dividing images into several regions to form highly correlated patterns for a specific task.
 
 {% include section.html %}
-
 ## News Update 
 
 {% include alert.html type="success" content="**12/AUG/2024:** Our team members and their information have been added!" %}
 {% include alert.html type="success" content="**11/AUG/2024:** Our new website is now online!" %}
 
-## Highlights
+{% include section.html %}
+## Main Information
 
 {% capture text %}
 
 Our published works range from core machine learning papers to the application of machine learning methods, specifically for but not limited to computer vision tasks.
-
 {%
   include button.html
   link="research"
@@ -26,9 +25,7 @@ Our published works range from core machine learning papers to the application o
   flip=true
   style="bare"
 %}
-
 {% endcapture %}
-
 {%
   include feature.html
   image="images/book.gif"
@@ -38,9 +35,7 @@ Our published works range from core machine learning papers to the application o
 %}
 
 {% capture text %}
-
 We mainly focus on developing and using machine learning methods specifically for, but not limited to, computer vision tasks that will positively impact society, especially in Indonesia. 
-
 {%
   include button.html
   link="projects"
@@ -49,9 +44,7 @@ We mainly focus on developing and using machine learning methods specifically fo
   flip=true
   style="bare"
 %}
-
 {% endcapture %}
-
 {%
   include feature.html
   image="images/server.gif"
@@ -63,9 +56,7 @@ We mainly focus on developing and using machine learning methods specifically fo
 %}
 
 {% capture text %}
-
 Here are the key members of the MLCV lab.
-
 {%
   include button.html
   link="team"
@@ -74,9 +65,7 @@ Here are the key members of the MLCV lab.
   flip=true
   style="bare"
 %}
-
 {% endcapture %}
-
 {%
   include feature.html
   image="images/members.gif"
@@ -84,3 +73,5 @@ Here are the key members of the MLCV lab.
   title="Members"
   text=text
 %}
+
+
