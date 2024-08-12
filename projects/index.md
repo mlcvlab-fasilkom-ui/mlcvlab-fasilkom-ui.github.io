@@ -2,7 +2,7 @@
 title: Resources
 nav:
   order: 3
-  tooltip: Software, codes, datasets, and more
+  tooltip: Software, codes, datasets, products, lecturers, and more
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Resources
