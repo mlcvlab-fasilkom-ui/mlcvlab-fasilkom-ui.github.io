@@ -18,7 +18,7 @@ Software, codes, datasets, and other products from our research works and projec
 {% include list.html component="card" data="resources" filters="group: software" %}
 
 {% include section.html %}
-## Codes
+## Codes & Repositories
 {% include list.html component="card" data="resources" filters="group: codes" %}
 
 {% include section.html %}
