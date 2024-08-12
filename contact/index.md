@@ -7,6 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
+_Last modified on {% last_modified_at %A %d %B %Y %}_
+
 Our lab is located at Gedung/Building A, Fakultas Ilmu Komputer, Kampus UI Depok, Depok, Jawa Barat, Indonesia, 16424. Feel free to contact one of our researchers for collaboration.
 
 {%
