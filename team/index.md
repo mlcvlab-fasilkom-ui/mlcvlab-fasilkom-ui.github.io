@@ -25,8 +25,9 @@ For more information please check each researcher's personal profile at Fasilkom
 
 {% capture content %}
 
-{% include figure.html image="images/SIBIapp.jpg" %}
-{% include figure.html image="images/Topics.jpg" %}
+{% include figure.html image="images/SIBI_box.jpg" %}
+{% include figure.html image="images/IQA_box.jpg" %}
+{% include figure.html image="images/Stethosoul_box.jpg" %}
 
 {% endcapture %}
 
