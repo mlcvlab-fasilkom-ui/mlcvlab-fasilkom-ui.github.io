@@ -9,6 +9,15 @@ nav:
 
 Software, codes, datasets, and other products from our research works and projects.
 
+{%
+  include button.html
+  type="github"
+  link=MLCV-Lab-Fasilkom-UI
+  icon="fa-brands fa-github"
+  text="Follow us on GitHub"
+  tooltip="Follow us on GitHub for new repositories"
+%}
+
 {% include tags.html tags="software, codes, datasets, courses, books" %}
 
 {% include search-info.html %}
