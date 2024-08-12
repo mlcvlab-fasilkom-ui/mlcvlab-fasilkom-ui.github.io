@@ -6,12 +6,6 @@
 The MLCV Lab focuses on machine learning-related research, especially for computer vision tasks that involve manipulating, analyzing, and interpreting data from images and videos. The methods used are diverse, from processing detailed information stored at the pixel level to geometrically dividing images into several regions to form highly correlated patterns for a specific task.
 
 {% include section.html %}
-## News Update 
-
-{% include alert.html type="success" content="**12/AUG/2024:** Our team members and their information have been added!" %}
-{% include alert.html type="success" content="**11/AUG/2024:** Our new website is now online!" %}
-
-{% include section.html %}
 ## Main Information
 
 {% capture text %}
@@ -56,6 +50,27 @@ We mainly focus on developing and using machine learning methods specifically fo
 %}
 
 {% capture text %}
+We have produced various software, codes, and datasets, which are the main outputs of our research and work. 
+{%
+  include button.html
+  link="resources"
+  text="Browse our resources"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+{% endcapture %}
+{%
+  include feature.html
+  image="images/brain.gif"
+  link="resources"
+  title="Resources"
+  flip=true
+  style="bare"
+  text=text
+%}
+
+{% capture text %}
 Here are the key members of the MLCV lab.
 {%
   include button.html
@@ -74,4 +89,9 @@ Here are the key members of the MLCV lab.
   text=text
 %}
 
+{% include section.html %}
+## News Update 
+
+{% include alert.html type="success" content="**12/AUG/2024:** Our team members and their information have been added!" %}
+{% include alert.html type="success" content="**11/AUG/2024:** Our new website is now online!" %}
 
