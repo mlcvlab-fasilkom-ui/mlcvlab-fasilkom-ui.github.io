@@ -5,6 +5,7 @@ role: researcher
 affiliation: Universitas Indonesia
 aliases:
   - L. Rahadianti
+  - Laksmita Rahadianti
 links:
   home-page: https://cs.ui.ac.id/personnel/laksmita-rahadianti/
   orcid: 0000-0003-4167-7213
