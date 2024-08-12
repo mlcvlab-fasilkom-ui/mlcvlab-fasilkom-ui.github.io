@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Member
 
-The MLCV lab at Fasilkom UI consists of lecturers with active research interests in machine learning, computer vision, and image processing. It is led by a head of the lab and a director.
+The MLCV lab at Fasilkom UI consists of lecturers with active research interests in machine learning, computer vision, and image processing. It is led by a head of the lab and a director. For more information, please check each researcher's personal profile on the Fasilkom website, which is linked to each profile.
 
 {% include section.html %}
 
@@ -17,13 +17,8 @@ The MLCV lab at Fasilkom UI consists of lecturers with active research interests
 {% include section.html %}
 {% include list.html data="members" component="portrait" filters="role: researcher" %}
 
-
-{% include section.html background="images/active_banner_720_15fps.gif" dark=true %}
-
-For more information, please check each researcher's personal profile on the Fasilkom website, which is linked to each profile.
-
 {% include section.html %}
 
-# Featured Resources
+## Featured Resources
 {% include list.html component="card" data="resources" filters="group: featured" %}
 
