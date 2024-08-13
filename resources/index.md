@@ -11,6 +11,9 @@ _Last modified on {% last_modified_at %A %d %B %Y %}_
 
 Software, codes, datasets, and other products from our research works and projects.
 
+{% include search-box.html %}
+{% include search-info.html %}
+
 {%
   include button.html
   type="github"
