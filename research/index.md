@@ -35,7 +35,8 @@ _Last modified on {% last_modified_at %A %d %B %Y %}_
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Research Projects
 
-{% include tags.html tags="Computer Vision, NLP, ML/DL, Biomedical, Social Science, Life Science" %}
+{% include tags.html tags="Computer Vision, NLP, machine learning, deep learning, Biomedical, Social Science, Life Science" %}
+{% include tags.html tags=site.tags %}
 
 ## Current Research Projects
 **Under construction**
