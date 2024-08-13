@@ -9,6 +9,9 @@ nav:
 
 _Last modified on {% last_modified_at %A %d %B %Y %}_
 
+{% include search-box.html %}
+{% include search-info.html %}
+
 {% capture col1 %}
 {%
   include figure.html
@@ -33,8 +36,6 @@ _Last modified on {% last_modified_at %A %d %B %Y %}_
 # {% include icon.html icon="fa-solid fa-wrench" %}Research Projects
 
 {% include tags.html tags="Computer Vision, NLP, ML/DL, Biomedical, Social Science, Life Science" %}
-
-{% include search-info.html %}
 
 ## Current Research Projects
 **Under construction**
