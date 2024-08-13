@@ -17,5 +17,3 @@ links:
 
 Erdefi Rakun is a lecturer and researcher at Fasilkom UI. Her education history is: Dr. (Universitas Indonesia), M.Sc. (University Of Minnesota - Minneapolis), and Ir. (Universitas Indonesia). Her research interests include machine & deep learning, natural language processing, and large language models.
 
-## Related Resources
-{% include list.html component="card" data="resources" filters="tags: erdefi rakun" style="small" %}
