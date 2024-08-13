@@ -9,8 +9,6 @@ nav:
 
 Compilation of blog, writing, news, and activity of our lab members as lecturers and researchers.
 
-{% include section.html %}
-
 {% include search-box.html %}
 
 {% include tags.html tags=site.tags %}
