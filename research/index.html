@@ -451,6 +451,15 @@
 
 <p><em>Last modified on Tuesday 13 August 2024</em></p>
 
+<div class="search-box">
+  <input type="text" class="search-input" oninput="onSearchInput(this)" placeholder="Search items on this page">
+  <button disabled data-tooltip="Clear search" aria-label="clear search" onclick="onSearchClear()">
+    <i class="icon fa-solid fa-magnifying-glass"></i>
+  </button>
+</div>
+
+<div class="search-info"></div>
+
 <div class="cols" style="--cols: 2">
   
     
@@ -535,8 +544,6 @@
       </a>
     
   </div>
-
-<div class="search-info"></div>
 
 <h2 id="current-research-projects">Current Research Projects</h2>
 <p><strong>Under construction</strong></p>
