@@ -11,9 +11,6 @@ _Last modified on {% last_modified_at %A %d %B %Y %}_
 
 Software, codes, datasets, and other products from our research works and projects.
 
-{% include search-box.html %}
-{% include search-info.html %}
-
 {%
   include button.html
   type="github"
@@ -23,11 +20,13 @@ Software, codes, datasets, and other products from our research works and projec
   tooltip="Follow us on GitHub for new repositories"
 %}
 
+{% include section.html %}
+
 {% include tags.html tags="software, codes, datasets, courses, books" %}
 
+{% include search-box.html %}
 {% include search-info.html %}
 
-{% include section.html %}
 ## Software
 {% include list.html component="card" data="resources" filters="group: software" %}
 
