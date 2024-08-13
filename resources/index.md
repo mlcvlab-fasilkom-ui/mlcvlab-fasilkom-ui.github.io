@@ -23,6 +23,7 @@ Software, codes, datasets, and other products from our research works and projec
 {% include section.html %}
 
 {% include tags.html tags="software, codes, datasets, courses, books" %}
+{% include tags.html tags=site.tags %}
 
 {% include search-box.html %}
 {% include search-info.html %}
