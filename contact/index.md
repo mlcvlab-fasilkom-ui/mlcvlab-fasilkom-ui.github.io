@@ -21,7 +21,7 @@ Our lab is located at Gedung/Building A, Fakultas Ilmu Komputer, Kampus UI Depok
 {% include button.html type="website" text="CS.UI" tooltip="Faculty of Computer Science, Universitas Indonesia" link="https://cs.ui.ac.id/" %}
 
 {% include section.html %}
-## Meet our lab members
+## Meet Our Lab Members
 {% capture text %}
 Here are the key members of the MLCV lab.
 {%
