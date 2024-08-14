@@ -18,10 +18,10 @@ links:
 
 Vektor Dewanto is a non-permanent Lecturer at Fasilkom UI.
 
-## Education 
+**Education**
 - Ph.D., (Computer Science, University of Queensland) 
 - M. Eng (Systems Science and Computational Intelligence, Tokyo Institute of Technology) 
 - S.T. (Electrical Engineering, University of Indonesia) 
 
-## Research Interests 
+**Research Interests**
 Reinforcement Learning, Control, Robotics, Automation/Embedded Systems, Machine Learning, Data Science, Artificial Intelligence
