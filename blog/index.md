@@ -1,11 +1,11 @@
 ---
-title: Blog
+title: News & Announcement
 nav:
   order: 5
-  tooltip: Blog, writing, opinion, news, activity report, and more
+  tooltip: News, announcement, writing, activity report, and more
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
+# {% include icon.html icon="fa-solid fa-feather-pointed" %}News & Announcement
 
 Compilation of blog, writing, news, and activity of our lab members as lecturers and researchers.
 
