@@ -1,11 +1,11 @@
 ---
-title: Research Topic & Project
+title: Research
 nav:
   order: 3
-  tooltip: Research Topic & Project
+  tooltip: Research
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Research Topics
+# {% include icon.html icon="fa-solid fa-wrench" %}Topics
 
 _Last modified on {% last_modified_at %A %d %B %Y %}_
 
@@ -33,7 +33,7 @@ _Last modified on {% last_modified_at %A %d %B %Y %}_
 
 {% include section.html %}
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Research Projects
+# {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
 {% include tags.html tags="Computer Vision, NLP, machine learning, deep learning, Biomedical, Social Science, Life Science" %}
 {% include tags.html tags=site.tags %}
