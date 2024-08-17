@@ -45,6 +45,11 @@ website:
   icon: fa-solid fa-globe
   text: Website
   tooltip: Website
+  
+personal-page:
+  icon: fa-solid fa-globe
+  text: Personal Page
+  tooltip: Personal Page
 
 external:
   icon: fa-solid fa-up-right-from-square
@@ -131,7 +136,7 @@ youtube:
   icon: fa-brands fa-youtube
   text: YouTube
   tooltip: YouTube
-  link: https://youtube.com/$VALUE
+  link: https://youtube.com/@$VALUE
 
 linkedin:
   icon: fa-brands fa-linkedin
