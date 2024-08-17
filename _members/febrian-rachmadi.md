@@ -15,7 +15,7 @@ links:
   orcid: 0000-0003-4167-7213
   google-scholar: ZFo5fiwAAAAJ
   scopus: https://www.scopus.com/authid/detail.uri?authorId=54974181500
-  website: https://febrianrachmadi.github.io/
+  personal-page: https://febrianrachmadi.github.io/
   researchgate: Muhammad-Rachmadi
   linkedin: febrianrachmadi
   youtube: febrianrachmadi
