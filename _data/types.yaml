@@ -6,21 +6,29 @@ pi:
   icon: fa-solid fa-graduation-cap
   description: Head of Lab
 
-dir:
+dir: # fa-glasses
   icon: fa-solid fa-microscope
   description: Director
 
 researcher:
-  icon: fa-solid fa-glasses
+  icon: fa-solid fa-chalkboard-user
   description: Researcher
 
 student:
   icon: fa-solid fa-user-graduate
-  description: Student
+  description: Graduate Student (S2/S3)
+
+assistant:
+  icon: fa-solid fa-laptop-code
+  description: Research Assistant
 
 programmer:
   icon: fa-solid fa-code
   description: Programmer
+
+admin:
+  icon: fa-solid fa-book
+  description: Admin
 
 mascot:
   icon: fa-solid fa-dog
@@ -85,9 +93,15 @@ google-scholar:
   link: https://scholar.google.com/citations?user=$VALUE
 
 scopus:
-  icon: fa-solid fa-globe
+  icon: fa-solid fa-s
   text: Scopus Profile
   tooltip: Scopus profile
+  
+researchgate:
+  icon: fa-brands fa-researchgate
+  text: ResearchGate
+  tooltip: ResearchGate
+  link: https://www.researchgate.net/profile/$VALUE
   
 github:
   icon: fa-brands fa-github
