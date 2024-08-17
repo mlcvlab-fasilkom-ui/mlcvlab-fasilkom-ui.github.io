@@ -2,7 +2,7 @@
 name: M. Febrian Rachmadi, S.Kom, M.Sc, Ph.D
 image: images/MFR.jpg
 role: researcher
-affiliation: Universitas Indonesia
+description: Biomedical Image and Data Analysis (AI for Life Science)
 aliases:
   - M. F. Rachmadi
   - M. Febrian Rachmadi
