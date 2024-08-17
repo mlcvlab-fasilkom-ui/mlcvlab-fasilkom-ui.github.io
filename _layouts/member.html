@@ -32,7 +32,7 @@ layout: default
 {% capture search -%}
   publication/?search={% for alias in aliases %}"{{ alias }}" {% endfor %}
 {%- endcapture %}
-{% include button.html type="website" text="Publication" tooltip="{{ page.name | default: page.title }}'s papers on the Publication page" link="{{ search | relative_url }}" %}
+{% include button.html type="website" text="Publication" tooltip="{{ page.name | default: page.title }}'s papers on the Publication page" link="{{ page.name | default: page.title }}" %}
 
 <p class="center">
   <a href="{{ search | relative_url }}">
