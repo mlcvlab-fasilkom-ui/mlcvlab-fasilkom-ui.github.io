@@ -10,6 +10,7 @@ aliases:
   - Muhammad Febrian Rachmadi
   - Febrian Rachmadi
 links:
+  email: febrianrachmadi@cs.ui.ac.id
   home-page: https://cs.ui.ac.id/personnel/muhammad-febrian-rachmadi-m-sc-ph-d/
   orcid: 0000-0003-4167-7213
   google-scholar: ZFo5fiwAAAAJ
