@@ -18,7 +18,7 @@ links:
   website: https://febrianrachmadi.github.io/
   researchgate: Muhammad-Rachmadi
   linkedin: febrianrachmadi
-  youtube: febrianrachmadi
+  youtube: @febrianrachmadi
   twitter: febrianrch
 
 ---
