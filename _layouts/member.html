@@ -20,8 +20,6 @@ layout: default
 
 {{ content }}
 
-{% include button.html type="website" text="TEST" tooltip="Faculty of Computer Science, Universitas Indonesia" link="https://cs.ui.ac.id/" %}
-
 {% assign aliases = page.aliases
   | default: page.name
   | default: page.title
@@ -30,9 +28,11 @@ layout: default
   | array_filter
 %}
 
+
 {% capture search -%}
   publication/?search={% for alias in aliases %}"{{ alias }}" {% endfor %}
 {%- endcapture %}
+{% include button.html type="website" text="Publication" tooltip="{{ page.name | default: page.title }}'s papers on the Publication page" link="{{ search | relative_url }}" %}
 
 <p class="center">
   <a href="{{ search | relative_url }}">
