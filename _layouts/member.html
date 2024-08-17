@@ -20,6 +20,8 @@ layout: default
 
 {{ content }}
 
+{% include button.html type="website" text="TEST" tooltip="Faculty of Computer Science, Universitas Indonesia" link="https://cs.ui.ac.id/" %}
+
 {% assign aliases = page.aliases
   | default: page.name
   | default: page.title
@@ -44,7 +46,7 @@ layout: default
 
 <p class="center">
   <a href="{{ search | relative_url }}">
-    Search for {{ page.name | default: page.title }}'s papers on the Research Topic & Project page
+    Search for {{ page.name | default: page.title }}'s researches on the Research Topic & Project page
   </a>
 </p>
 
@@ -54,7 +56,7 @@ layout: default
 
 <p class="center">
   <a href="{{ search | relative_url }}">
-    Search for {{ page.name | default: page.title }}'s papers on the Resources page
+    Search for {{ page.name | default: page.title }}'s resources on the Resources page
   </a>
 </p>
 
