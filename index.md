@@ -3,7 +3,12 @@
 
 # MACHINE LEARNING AND COMPUTER VISION 「 MLCV 」 LAB
 
-The MLCV Lab focuses on machine learning-related research, especially for computer vision tasks that involve manipulating, analyzing, and interpreting data from images and videos. The methods used are diverse, from processing detailed information stored at the pixel level to geometrically dividing images into several regions to form highly correlated patterns for a specific task.
+{% capture content %}
+{% include figure.html image="images/mlcv-lab-logo.png" caption="MLCV Lab's Logo" width="200px" %}
+{% endcapture %}
+{% include float.html content=content %}
+MLCV Lab of the Faculty of Computer Science, Universitas Indonesia, focuses on machine learning-related research, especially for computer vision tasks that involve manipulating, analyzing, and interpreting data from images and videos. The methods used are diverse, from processing detailed information stored at the pixel level to geometrically dividing images into several regions to form highly correlated patterns for a specific task.
+{% include float.html clear=true %}
 
 {% include section.html %}
 ## News & Announcement
