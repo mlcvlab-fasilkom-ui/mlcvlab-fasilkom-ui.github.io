@@ -102,6 +102,11 @@ scopus:
   text: Scopus Profile
   tooltip: Scopus profile
   
+dblp:
+  icon: fa-solid fa-d
+  text: dblp Profile
+  tooltip: dblp profile
+  
 researchgate:
   icon: fa-brands fa-researchgate
   text: ResearchGate
