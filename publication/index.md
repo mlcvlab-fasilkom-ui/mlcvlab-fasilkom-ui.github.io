@@ -7,6 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publication
 
+<!--
 {% include section.html %}
 
 ## Highlighted
@@ -18,6 +19,7 @@ nav:
 {% include citation.html lookup="Local and long-distance organization of prefrontal cortex circuits in the marmoset brain" style="rich" %}
 {% include citation.html lookup="Multimodal SuperCon: classifier for drivers of deforestation in Indonesia" style="rich" %}
 {% include citation.html lookup="Towards Robust Underwater Image Enhancement" style="rich" %}
+-->
 
 {% include section.html %}
 
