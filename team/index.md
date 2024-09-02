@@ -19,6 +19,10 @@ The MLCV lab at Fasilkom UI consists of lecturers with active research interests
 {% include list.html data="members" component="portrait" filters="role: researcher" %}
 
 {% include section.html %}
+## Students
+{% include portrait.html name="Arawinda Dinakaramani" image="images/user.jpg" role="gradstudent" description="Bimbingan Erdefi Rakun dan Kurniawati Azizah." style="small" %}
+
+{% include section.html %}
 ## Featured Resources
 {% include list.html component="card" data="resources" filters="group: featured" %}
 
