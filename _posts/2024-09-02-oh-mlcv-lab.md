@@ -1,6 +1,6 @@
 ---
 title: Open House MLCV Lab 2024 for all Fasilkom UI's students
-image: images/OHMLCV-2024.jpg
+image: images/announcement/OHMLCV-2024.jpg
 group: news, featured 
 author: laksmita
 tags:
