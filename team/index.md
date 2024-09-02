@@ -19,9 +19,7 @@ The MLCV lab at Fasilkom UI consists of lecturers with active research interests
 {% include list.html data="members" component="portrait" filters="role: researcher" %}
 
 {% include section.html %}
-## Students
-{% include section.html %}
-## Students
+## Graduate Students
 {% include portrait.html name="Arawinda Dinakaramani" image="images/user.jpg" role="gradstudent" description="(Erdefi Rakun dan Kurniawati Azizah)" style="small" %}
 {% include portrait.html name="Maya Mega Santono" image="images/user.jpg" role="gradstudent" description="(T. Basaruddin)" style="small" %}
 {% include portrait.html name="Sari Widya Sihwi" image="images/user.jpg" role="gradstudent" description="(T. Basaruddin)" style="small" %}
@@ -35,6 +33,9 @@ The MLCV lab at Fasilkom UI consists of lecturers with active research interests
 {% include portrait.html name="Refika Ayuna Sari" image="images/user.jpg" role="gradstudent" description="(Adila Alfa Krisnadhi)" style="small" %}
 {% include portrait.html name="Sayval Balad" image="images/user.jpg" role="gradstudent" description="(Adila Alfa Krisnadhi)" style="small" %}
 {% include portrait.html name="Pijar Candra Mahata Gandha" image="images/user.jpg" role="gradstudent" description="(Adila Alfa Krisnadhi)" style="small" %}
+
+{% include section.html %}
+## Undergraduate Students
 {% include portrait.html name="Sasha Nabila Fortuna" image="images/user.jpg" role="student" description="(Laksmita Rahadianti dan Syifa Nurhayati)" style="small" %}
 {% include portrait.html name="Fauzan Andri" image="images/user.jpg" role="student" description="(Erdefi Rakun)" style="small" %}
 {% include portrait.html name="David Alexander" image="images/user.jpg" role="student" description="(Adila Alfa Krisnadhi)" style="small" %}
