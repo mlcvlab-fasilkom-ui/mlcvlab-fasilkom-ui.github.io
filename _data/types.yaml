@@ -14,13 +14,13 @@ researcher:
   icon: fa-solid fa-chalkboard-user
   description: Researcher
 
-student:
+gradstudent:
   icon: fa-solid fa-user-graduate
   description: Graduate Student (S2/S3)
 
-assistant:
-  icon: fa-solid fa-laptop-code
-  description: Research Assistant
+student:
+  icon: fa-solid fa-user
+  description: Undergraduate Student (S1)
 
 programmer:
   icon: fa-solid fa-code
