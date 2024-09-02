@@ -5,6 +5,7 @@ role: researcher
 affiliation: Universitas Indonesia
 aliases:
   - L. Rahadianti
+  - Laksmita
   - Laksmita Rahadianti
   - Rahadianti
 links:
