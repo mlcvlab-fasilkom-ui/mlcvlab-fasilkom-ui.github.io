@@ -1,6 +1,6 @@
 ---
 name: Dr. Dinial Utami Nurul Qomariah, S.ST., M.Kom.
-image: images/SNU.jpg
+image: images/DNU.jpg
 role: researcher
 affiliation: Universitas Indonesia
 aliases:
