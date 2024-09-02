@@ -16,7 +16,7 @@ Di AULA Gedung B (Gedung Lama) Fasilkom UI.
 <!-- excerpt end -->
 
 {% capture content %}
-{% include figure.html image="images/announcement/OHMLCV-2024.jpg" link="images/announcement/OHMLCV-2024.jpg" width="500px" %}
+{% include figure.html image="images/announcement/OHMLCV-2024.jpg" link="images/announcement/OHMLCV-2024.jpg" width="300px" %}
 {% endcapture %}
 {% include float.html content=content %}
 
