@@ -20,7 +20,36 @@ The MLCV lab at Fasilkom UI consists of lecturers with active research interests
 
 {% include section.html %}
 ## Students
-{% include portrait.html name="Arawinda Dinakaramani" image="images/user.jpg" role="gradstudent" description="Bimbingan Erdefi Rakun dan Kurniawati Azizah." style="small" %}
+{% include section.html %}
+## Students
+{% include portrait.html name="Arawinda Dinakaramani" image="images/user.jpg" role="gradstudent" description="(Erdefi Rakun dan Kurniawati Azizah)" style="small" %}
+{% include portrait.html name="Maya Mega Santono" image="images/user.jpg" role="gradstudent" description="(T. Basaruddin)" style="small" %}
+{% include portrait.html name="Sari Widya Sihwi" image="images/user.jpg" role="gradstudent" description="(T. Basaruddin)" style="small" %}
+{% include portrait.html name="Steven Christ A. P" image="images/user.jpg" role="gradstudent" description="(Laksmita Rahadianti)" style="small" %}
+{% include portrait.html name="M. Feriansyah" image="images/user.jpg" role="gradstudent" description="(Laksmita Rahadianti)" style="small" %}
+{% include portrait.html name="Bayu Satria Persada" image="images/user.jpg" role="gradstudent" description="(Laksmita Rahadianti)" style="small" %}
+{% include portrait.html name="M. Yusuf Kardawi" image="images/user.jpg" role="gradstudent" description="(Laksmita Rahadianti)" style="small" %}
+{% include portrait.html name="Satria Putra" image="images/user.jpg" role="gradstudent" description="(Erdefi Rakun)" style="small" %}
+{% include portrait.html name="Fadlan Muhammad" image="images/user.jpg" role="gradstudent" description="(Adila Alfa Krisnadhi)" style="small" %}
+{% include portrait.html name="Rizky Prasetya Ade Nugroho" image="images/user.jpg" role="gradstudent" description="(Adila Alfa Krisnadhi dan Ari Saptawijaya)" style="small" %}
+{% include portrait.html name="Refika Ayuna Sari" image="images/user.jpg" role="gradstudent" description="(Adila Alfa Krisnadhi)" style="small" %}
+{% include portrait.html name="Sayval Balad" image="images/user.jpg" role="gradstudent" description="(Adila Alfa Krisnadhi)" style="small" %}
+{% include portrait.html name="Pijar Candra Mahata Gandha" image="images/user.jpg" role="gradstudent" description="(Adila Alfa Krisnadhi)" style="small" %}
+{% include portrait.html name="Sasha Nabila Fortuna" image="images/user.jpg" role="student" description="(Laksmita Rahadianti dan Syifa Nurhayati)" style="small" %}
+{% include portrait.html name="Fauzan Andri" image="images/user.jpg" role="student" description="(Erdefi Rakun)" style="small" %}
+{% include portrait.html name="David Alexander" image="images/user.jpg" role="student" description="(Adila Alfa Krisnadhi)" style="small" %}
+{% include portrait.html name="Muhammad Luthfi Balaka" image="images/user.jpg" role="student" description="(Adila Alfa Krisnadhi)" style="small" %}
+{% include portrait.html name="Muhammad Haikal Ubaidillah Susanto" image="images/user.jpg" role="student" description="(Adila Alfa Krisnadhi dan Panca Hadi Putra)" style="small" %}
+{% include portrait.html name="Arkan Alexei Andre" image="images/user.jpg" role="student" description="(Adila Alfa Krisnadhi dan Alfan Farizki Wicaksono)" style="small" %}
+{% include portrait.html name="James Smith Wigglesworth" image="images/user.jpg" role="student" description="(Adila Alfa Krisnadhi dan Alfan Farizki Wicaksono)" style="small" %}
+{% include portrait.html name="Joshua Nadeak" image="images/user.jpg" role="student" description="(Adila Alfa Krisnadhi dan Alfan Farizki Wicaksono)" style="small" %}
+{% include portrait.html name="Nico Fathi Rizki" image="images/user.jpg" role="student" description="(Adila Alfa Krisnadhi)" style="small" %}
+{% include portrait.html name="Ichsan Khairullah" image="images/user.jpg" role="student" description="(Adila Alfa Krisnadhi dan Panca Hadi Putra)" style="small" %}
+{% include portrait.html name="Adit Sukoco" image="images/user.jpg" role="student" description="(Adila Alfa Krisnadhi dan Panca Hadi Putra)" style="small" %}
+{% include portrait.html name="Hanif Omar Kertapati" image="images/user.jpg" role="student" description="(Erdefi Rakun)" style="small" %}
+{% include portrait.html name="Davyn Reinhard" image="images/user.jpg" role="student" description="(Adila Alfa Krisnadhi dan Ari Wibisono)" style="small" %}
+{% include portrait.html name="Ernest Benedictus" image="images/user.jpg" role="student" description="(Adila Alfa Krisnadhi dan Ari Wibisono)" style="small" %}
+{% include portrait.html name="Abby Marvel" image="images/user.jpg" role="student" description="(Adila Alfa Krisnadhi dan Ari Wibisono)" style="small" %}
 
 {% include section.html %}
 ## Featured Resources
