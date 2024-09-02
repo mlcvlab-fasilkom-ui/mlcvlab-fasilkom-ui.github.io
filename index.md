@@ -11,6 +11,13 @@ MLCV Lab of the Faculty of Computer Science, Universitas Indonesia, focuses on m
 {% include float.html clear=true %}
 
 {% include section.html %}
+## News Update 
+
+{% include alert.html type="info" content="**02/SEP/2024:** Open House MLCV Lab in 2024 is announced on 13 September 2024! Please see this [announcement](https://mlcv.cs.ui.ac.id/2024/09/02/oh-mlcv-lab.html) for further information." %}
+{% include alert.html type="success" content="**12/AUG/2024:** Our team members and their information have been added!" %}
+{% include alert.html type="success" content="**11/AUG/2024:** Our new website is now online!" %}
+
+{% include section.html %}
 ## News & Announcement
 {% include list.html data="posts" component="post-excerpt" filters="group: featured" %}
 
@@ -97,10 +104,4 @@ Here are the key members of the MLCV lab.
   style="bare"
   text=text
 %}
-
-{% include section.html %}
-## News Update 
-
-{% include alert.html type="success" content="**12/AUG/2024:** Our team members and their information have been added!" %}
-{% include alert.html type="success" content="**11/AUG/2024:** Our new website is now online!" %}
 
