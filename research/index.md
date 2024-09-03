@@ -13,7 +13,7 @@ _Last modified on {% last_modified_at %A %d %B %Y %}_
 {% include search-info.html %}
 
 
-| Topic/Interest | AAK | AM | AYA | DC | DNU | ER | KA | LR | MFR | NF | SN | TB | VD | Total
+| Topic/Interest | [AAK](members/adila-krisnadhi.html) | AM | AYA | DC | DNU | ER | KA | LR | MFR | NF | SN | TB | VD | Total
 | :---- | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |:----: | :----: |
 | Pattern Recognition | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |   :heavy_check_mark: | :heavy_check_mark: |   | :heavy_check_mark: |   :heavy_check_mark: | :heavy_check_mark: |   |   |   :heavy_check_mark: | :heavy_check_mark: | 10
 | Image Processing  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |   :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |   :heavy_check_mark: | :heavy_check_mark: |   |   |   :heavy_check_mark: |   | 10
