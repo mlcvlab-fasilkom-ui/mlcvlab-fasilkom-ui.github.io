@@ -13,32 +13,32 @@ _Last modified on {% last_modified_at %A %d %B %Y %}_
 {% include search-info.html %}
 
 
-| Topic/Interest | [AAK](members/adila-krisnadhi.html) | AM | AYA | DC | DNU | ER | KA | LR | MFR | NF | SN | TB | VD | Total
+| Topic/Interest | [AAK](team/adila-krisnadhi.html) | AM | AYA | DC | DNU | ER | KA | LR | MFR | NF | SN | TB | VD | Total
 | :---- | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |:----: | :----: |
-| Pattern Recognition | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |   :heavy_check_mark: | :heavy_check_mark: |   | :heavy_check_mark: |   :heavy_check_mark: | :heavy_check_mark: |   |   |   :heavy_check_mark: | :heavy_check_mark: | 10
-| Image Processing  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |   :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |   :heavy_check_mark: | :heavy_check_mark: |   |   |   :heavy_check_mark: |   | 10
-| Spatial Data Analysis |   | :heavy_check_mark: | :heavy_check_mark: |     | :heavy_check_mark: |   |   |   :heavy_check_mark: | :heavy_check_mark: |   |   |     |   | 5
-| Machine and Deep Learning | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |   :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |   :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |   :heavy_check_mark: | :heavy_check_mark: | 13
-| Natural Language Processing  | :heavy_check_mark: |   |   |    |   | :heavy_check_mark: | :heavy_check_mark: |   |    |    |   |    |   | 3
-| Large Language Model  | :heavy_check_mark: |   |   |    |   | :heavy_check_mark: | :heavy_check_mark: |   | :heavy_check_mark: |   |   |    |   | 3
-| Social Signal Processing  | :heavy_check_mark: |    |   |    |    |    |   |    |    |   |   |   :heavy_check_mark: |   | 2
-| Optimization  | :heavy_check_mark: |    |   |    |    |    |   |    |    |   |   |   :heavy_check_mark: | :heavy_check_mark: | 4
-| Knowledge Graphs  | :heavy_check_mark: |    |   |    |    |    |   |    |    |   |   |     |   | 1
-| Video Processing  | :heavy_check_mark: |   |   |   :heavy_check_mark: | :heavy_check_mark: |   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |   |   |   |   | 6
-| Optics and Photometry  |   |   |   |   |   |   |   |   :heavy_check_mark: |   |   |   |   |   | 1
-| Biomedical Image Computation and Analysis  | :heavy_check_mark: |   |   |   | :heavy_check_mark: |   |   |   | :heavy_check_mark: |   | :heavy_check_mark: |     |   | 4
-| Speech Processing  |   |   |   |   |   |   | :heavy_check_mark: |   |   |   |   |   |   | 1
-| Reinforcement Learning  | :heavy_check_mark: |   |   |   |   |   |   |   | :heavy_check_mark: |   |   |   | :heavy_check_mark: | 3
-| Embodied AI (Robotics)  |   |   |   |   | :heavy_check_mark: |   |   |   |   |   |   |   | :heavy_check_mark: | 2
-| Applied ML  | :heavy_check_mark: |   | :heavy_check_mark: |   |   |   |   |   | :heavy_check_mark: | :heavy_check_mark: |   |   :heavy_check_mark: | :heavy_check_mark: | 6
-| Biomedical Engineering  | :heavy_check_mark: |   |   |   | :heavy_check_mark: |    |   |   | :heavy_check_mark: | :heavy_check_mark: |   |   |   | 4
-| Computational Neuroscience  |   |   |   |   |   |   |   |   |   | :heavy_check_mark: |    |   |   | 1
-| Applied Computer Vision  | :heavy_check_mark: |   | :heavy_check_mark: |   | :heavy_check_mark: |   |   | :heavy_check_mark: | :heavy_check_mark: |   |   |     |   | 5
-| Computer Vision  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |   :heavy_check_mark: | :heavy_check_mark: |   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |   |   |   :heavy_check_mark: |   | 9
-| Bioinformatics  |   |   |   |   | :heavy_check_mark: |   |   | :heavy_check_mark: | :heavy_check_mark: |   |   | :heavy_check_mark: | :heavy_check_mark: | 5
-| Human Motion and Gait Analysis |   |   |   |   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |   | :heavy_check_mark: |   |   | :heavy_check_mark: |   | 5
-| Biometric Recognition  |   | :heavy_check_mark: |   |   | :heavy_check_mark: |   | :heavy_check_mark: | :heavy_check_mark: |   |   |   |:heavy_check_mark: |   | 5
-| Spoof Recognition  |   | :heavy_check_mark: |   |   | :heavy_check_mark: |   |   |   |   |   |   |   |   | 2
+| Pattern Recognition | &check; | &check; | &check; |   &check; | &check; |   | &check; |   &check; | &check; |   |   |   &check; | &check; | 10
+| Image Processing  | &check; | &check; | &check; |   &check; | &check; | &check; | &check; |   &check; | &check; |   |   |   &check; |   | 10
+| Spatial Data Analysis |   | &check; | &check; |     | &check; |   |   |   &check; | &check; |   |   |     |   | 5
+| Machine and Deep Learning | &check; | &check; | &check; |   &check; | &check; | &check; | &check; |   &check; | &check; | &check; | &check; |   &check; | &check; | 13
+| Natural Language Processing  | &check; |   |   |    |   | &check; | &check; |   |    |    |   |    |   | 3
+| Large Language Model  | &check; |   |   |    |   | &check; | &check; |   | &check; |   |   |    |   | 3
+| Social Signal Processing  | &check; |    |   |    |    |    |   |    |    |   |   |   &check; |   | 2
+| Optimization  | &check; |    |   |    |    |    |   |    |    |   |   |   &check; | &check; | 4
+| Knowledge Graphs  | &check; |    |   |    |    |    |   |    |    |   |   |     |   | 1
+| Video Processing  | &check; |   |   |   &check; | &check; |   | &check; | &check; | &check; |   |   |   |   | 6
+| Optics and Photometry  |   |   |   |   |   |   |   |   &check; |   |   |   |   |   | 1
+| Biomedical Image Computation and Analysis  | &check; |   |   |   | &check; |   |   |   | &check; |   | &check; |     |   | 4
+| Speech Processing  |   |   |   |   |   |   | &check; |   |   |   |   |   |   | 1
+| Reinforcement Learning  | &check; |   |   |   |   |   |   |   | &check; |   |   |   | &check; | 3
+| Embodied AI (Robotics)  |   |   |   |   | &check; |   |   |   |   |   |   |   | &check; | 2
+| Applied ML  | &check; |   | &check; |   |   |   |   |   | &check; | &check; |   |   &check; | &check; | 6
+| Biomedical Engineering  | &check; |   |   |   | &check; |    |   |   | &check; | &check; |   |   |   | 4
+| Computational Neuroscience  |   |   |   |   |   |   |   |   |   | &check; |    |   |   | 1
+| Applied Computer Vision  | &check; |   | &check; |   | &check; |   |   | &check; | &check; |   |   |     |   | 5
+| Computer Vision  | &check; | &check; | &check; |   &check; | &check; |   | &check; | &check; | &check; |   |   |   &check; |   | 9
+| Bioinformatics  |   |   |   |   | &check; |   |   | &check; | &check; |   |   | &check; | &check; | 5
+| Human Motion and Gait Analysis |   |   |   |   | &check; | &check; | &check; |   | &check; |   |   | &check; |   | 5
+| Biometric Recognition  |   | &check; |   |   | &check; |   | &check; | &check; |   |   |   |&check; |   | 5
+| Spoof Recognition  |   | &check; |   |   | &check; |   |   |   |   |   |   |   |   | 2
 | Total per member| 15 | 7 | 7 | 5 | 15 | 5 | 10 | 10 | 13 | 4 | 3 | 9 | 7 | 
 
 {% capture col1 %}
