@@ -15,30 +15,30 @@ _Last modified on {% last_modified_at %A %d %B %Y %}_
 
 | Topic/Interest | [AAK](../team/adila-krisnadhi.html) | AM | AYA | DC | DNU | ER | KA | LR | MFR | NF | SN | TB | VD | Total
 | :---- | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |:----: | :----: |
-| Pattern Recognition | :white_check_mark: | :white_check_mark: | :white_check_mark: |   :white_check_mark: | :white_check_mark: |   | :white_check_mark: |   :white_check_mark: | :white_check_mark: |   |   |   :white_check_mark: | :white_check_mark: | 10
-| Image Processing  | :white_check_mark: | :white_check_mark: | :white_check_mark: |   :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |   :white_check_mark: | :white_check_mark: |   |   |   :white_check_mark: |   | 10
-| Spatial Data Analysis |   | :white_check_mark: | :white_check_mark: |     | :white_check_mark: |   |   |   :white_check_mark: | :white_check_mark: |   |   |     |   | 5
-| Machine and Deep Learning | :white_check_mark: | :white_check_mark: | :white_check_mark: |   :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |   :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |   :white_check_mark: | :white_check_mark: | 13
-| Natural Language Processing  | :white_check_mark: |   |   |    |   | :white_check_mark: | :white_check_mark: |   |    |    |   |    |   | 3
-| Large Language Model  | :white_check_mark: |   |   |    |   | :white_check_mark: | :white_check_mark: |   | :white_check_mark: |   |   |    |   | 3
-| Social Signal Processing  | :white_check_mark: |    |   |    |    |    |   |    |    |   |   |   :white_check_mark: |   | 2
-| Optimization  | :white_check_mark: |    |   |    |    |    |   |    |    |   |   |   :white_check_mark: | :white_check_mark: | 4
-| Knowledge Graphs  | :white_check_mark: |    |   |    |    |    |   |    |    |   |   |     |   | 1
-| Video Processing  | :white_check_mark: |   |   |   :white_check_mark: | :white_check_mark: |   | :white_check_mark: | :white_check_mark: | :white_check_mark: |   |   |   |   | 6
-| Optics and Photometry  |   |   |   |   |   |   |   |   :white_check_mark: |   |   |   |   |   | 1
-| Biomedical Image Computation and Analysis  | :white_check_mark: |   |   |   | :white_check_mark: |   |   |   | :white_check_mark: |   | :white_check_mark: |     |   | 4
-| Speech Processing  |   |   |   |   |   |   | :white_check_mark: |   |   |   |   |   |   | 1
-| Reinforcement Learning  | :white_check_mark: |   |   |   |   |   |   |   | :white_check_mark: |   |   |   | :white_check_mark: | 3
-| Embodied AI (Robotics)  |   |   |   |   | :white_check_mark: |   |   |   |   |   |   |   | :white_check_mark: | 2
-| Applied ML  | :white_check_mark: |   | :white_check_mark: |   |   |   |   |   | :white_check_mark: | :white_check_mark: |   |   :white_check_mark: | :white_check_mark: | 6
-| Biomedical Engineering  | :white_check_mark: |   |   |   | :white_check_mark: |    |   |   | :white_check_mark: | :white_check_mark: |   |   |   | 4
-| Computational Neuroscience  |   |   |   |   |   |   |   |   |   | :white_check_mark: |    |   |   | 1
-| Applied Computer Vision  | :white_check_mark: |   | :white_check_mark: |   | :white_check_mark: |   |   | :white_check_mark: | :white_check_mark: |   |   |     |   | 5
-| Computer Vision  | :white_check_mark: | :white_check_mark: | :white_check_mark: |   :white_check_mark: | :white_check_mark: |   | :white_check_mark: | :white_check_mark: | :white_check_mark: |   |   |   :white_check_mark: |   | 9
-| Bioinformatics  |   |   |   |   | :white_check_mark: |   |   | :white_check_mark: | :white_check_mark: |   |   | :white_check_mark: | :white_check_mark: | 5
-| Human Motion and Gait Analysis |   |   |   |   | :white_check_mark: | :white_check_mark: | :white_check_mark: |   | :white_check_mark: |   |   | :white_check_mark: |   | 5
-| Biometric Recognition  |   | :white_check_mark: |   |   | :white_check_mark: |   | :white_check_mark: | :white_check_mark: |   |   |   |:white_check_mark: |   | 5
-| Spoof Recognition  |   | :white_check_mark: |   |   | :white_check_mark: |   |   |   |   |   |   |   |   | 2
+| Pattern Recognition | <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> |   <span>&#x2714;</span> | <span>&#x2714;</span> |   | <span>&#x2714;</span> |   <span>&#x2714;</span> | <span>&#x2714;</span> |   |   |   <span>&#x2714;</span> | <span>&#x2714;</span> | 10
+| Image Processing  | <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> |   <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> |   <span>&#x2714;</span> | <span>&#x2714;</span> |   |   |   <span>&#x2714;</span> |   | 10
+| Spatial Data Analysis |   | <span>&#x2714;</span> | <span>&#x2714;</span> |     | <span>&#x2714;</span> |   |   |   <span>&#x2714;</span> | <span>&#x2714;</span> |   |   |     |   | 5
+| Machine and Deep Learning | <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> |   <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> |   <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> |   <span>&#x2714;</span> | <span>&#x2714;</span> | 13
+| Natural Language Processing  | <span>&#x2714;</span> |   |   |    |   | <span>&#x2714;</span> | <span>&#x2714;</span> |   |    |    |   |    |   | 3
+| Large Language Model  | <span>&#x2714;</span> |   |   |    |   | <span>&#x2714;</span> | <span>&#x2714;</span> |   | <span>&#x2714;</span> |   |   |    |   | 3
+| Social Signal Processing  | <span>&#x2714;</span> |    |   |    |    |    |   |    |    |   |   |   <span>&#x2714;</span> |   | 2
+| Optimization  | <span>&#x2714;</span> |    |   |    |    |    |   |    |    |   |   |   <span>&#x2714;</span> | <span>&#x2714;</span> | 4
+| Knowledge Graphs  | <span>&#x2714;</span> |    |   |    |    |    |   |    |    |   |   |     |   | 1
+| Video Processing  | <span>&#x2714;</span> |   |   |   <span>&#x2714;</span> | <span>&#x2714;</span> |   | <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> |   |   |   |   | 6
+| Optics and Photometry  |   |   |   |   |   |   |   |   <span>&#x2714;</span> |   |   |   |   |   | 1
+| Biomedical Image Computation and Analysis  | <span>&#x2714;</span> |   |   |   | <span>&#x2714;</span> |   |   |   | <span>&#x2714;</span> |   | <span>&#x2714;</span> |     |   | 4
+| Speech Processing  |   |   |   |   |   |   | <span>&#x2714;</span> |   |   |   |   |   |   | 1
+| Reinforcement Learning  | <span>&#x2714;</span> |   |   |   |   |   |   |   | <span>&#x2714;</span> |   |   |   | <span>&#x2714;</span> | 3
+| Embodied AI (Robotics)  |   |   |   |   | <span>&#x2714;</span> |   |   |   |   |   |   |   | <span>&#x2714;</span> | 2
+| Applied ML  | <span>&#x2714;</span> |   | <span>&#x2714;</span> |   |   |   |   |   | <span>&#x2714;</span> | <span>&#x2714;</span> |   |   <span>&#x2714;</span> | <span>&#x2714;</span> | 6
+| Biomedical Engineering  | <span>&#x2714;</span> |   |   |   | <span>&#x2714;</span> |    |   |   | <span>&#x2714;</span> | <span>&#x2714;</span> |   |   |   | 4
+| Computational Neuroscience  |   |   |   |   |   |   |   |   |   | <span>&#x2714;</span> |    |   |   | 1
+| Applied Computer Vision  | <span>&#x2714;</span> |   | <span>&#x2714;</span> |   | <span>&#x2714;</span> |   |   | <span>&#x2714;</span> | <span>&#x2714;</span> |   |   |     |   | 5
+| Computer Vision  | <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> |   <span>&#x2714;</span> | <span>&#x2714;</span> |   | <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> |   |   |   <span>&#x2714;</span> |   | 9
+| Bioinformatics  |   |   |   |   | <span>&#x2714;</span> |   |   | <span>&#x2714;</span> | <span>&#x2714;</span> |   |   | <span>&#x2714;</span> | <span>&#x2714;</span> | 5
+| Human Motion and Gait Analysis |   |   |   |   | <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> |   | <span>&#x2714;</span> |   |   | <span>&#x2714;</span> |   | 5
+| Biometric Recognition  |   | <span>&#x2714;</span> |   |   | <span>&#x2714;</span> |   | <span>&#x2714;</span> | <span>&#x2714;</span> |   |   |   |<span>&#x2714;</span> |   | 5
+| Spoof Recognition  |   | <span>&#x2714;</span> |   |   | <span>&#x2714;</span> |   |   |   |   |   |   |   |   | 2
 | Total per member| 15 | 7 | 7 | 5 | 15 | 5 | 10 | 10 | 13 | 4 | 3 | 9 | 7 | 
 
 {% capture col1 %}
