@@ -39,7 +39,7 @@ _Last modified on {% last_modified_at %A %d %B %Y %}_
 | Human Motion and Gait Analysis |   |   |   |   | <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> |   | <span>&#x2714;</span> |   |   | <span>&#x2714;</span> |   | 5
 | Biometric Recognition  |   | <span>&#x2714;</span> |   |   | <span>&#x2714;</span> |   | <span>&#x2714;</span> | <span>&#x2714;</span> |   |   |   |<span>&#x2714;</span> |   | 5
 | Spoof Recognition  |   | <span>&#x2714;</span> |   |   | <span>&#x2714;</span> |   |   |   |   |   |   |   |   | 2
-| Total per member| 15 | 7 | 7 | 5 | 15 | 5 | 10 | 10 | 13 | 4 | 3 | 9 | 7 | 
+| **Total per member** | 15 | 7 | 7 | 5 | 15 | 5 | 10 | 10 | 13 | 4 | 3 | 9 | 7 | 
 
 {% capture col1 %}
 {%
