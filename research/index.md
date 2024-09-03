@@ -13,7 +13,7 @@ _Last modified on {% last_modified_at %A %d %B %Y %}_
 {% include search-info.html %}
 
 
-| Topic/Interest | [AAK](../members/adila-krisnadhi.html) | AM | AYA | DC | DNU | ER | KA | LR | MFR | NF | SN | TB | VD | Total
+| Topic/Interest | [AAK](../members/adila-krisnadhi.html) | [AM](../members/aniati-murni.html) | [AYA](../members/aruni-azizah.html) | [DC](../members/dina-chahyati.html) | [DNU](../members/dinial-utami.html) | [ER](../members/erdefi-rakun.html) | [KA](../members/kurniawati-azizah.html) | [LR](../members/laksmita-rahadianti.html) | [MFR](../members/febrian-rachmadi.html) | NF | [SN](../members/syifa-nurhayati.html) | [TB](../members/t-basaruddin.html) | [VD](../members/vektor-dewanto.html) | Total
 | :---- | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |:----: | :----: |
 | Pattern Recognition | <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> |   <span>&#x2714;</span> | <span>&#x2714;</span> |   | <span>&#x2714;</span> |   <span>&#x2714;</span> | <span>&#x2714;</span> |   |   |   <span>&#x2714;</span> | <span>&#x2714;</span> | 10
 | Image Processing  | <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> |   <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> |   <span>&#x2714;</span> | <span>&#x2714;</span> |   |   |   <span>&#x2714;</span> |   | 10
