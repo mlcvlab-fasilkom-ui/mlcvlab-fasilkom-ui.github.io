@@ -20,7 +20,7 @@ _Last modified on {% last_modified_at %A %d %B %Y %}_
 | Spatial Data Analysis |   | <span>&#x2714;</span> | <span>&#x2714;</span> |     | <span>&#x2714;</span> |   |   |   <span>&#x2714;</span> | <span>&#x2714;</span> |   |   |     |   | 5
 | Machine and Deep Learning | <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> |   <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> |   <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> |   <span>&#x2714;</span> | <span>&#x2714;</span> | 13
 | Natural Language Processing  | <span>&#x2714;</span> |   |   |    |   | <span>&#x2714;</span> | <span>&#x2714;</span> |   |    |    |   |    |   | 3
-| Large Language Model  | <span>&#x2714;</span> |   |   |    |   | <span>&#x2714;</span> | <span>&#x2714;</span> |   | <span>&#x2714;</span> |   |   |    |   | 3
+| Large Language Model  | <span>&#x2714;</span> |   |   |    |   | <span>&#x2714;</span> | <span>&#x2714;</span> |   | <span>&#x2714;</span> |   |   |    |   | 4
 | Social Signal Processing  | <span>&#x2714;</span> |    |   |    |    |    |   |    |    |   |   |   <span>&#x2714;</span> |   | 2
 | Optimization  | <span>&#x2714;</span> |    |   |    |    |    |   |    |    |   |   |   <span>&#x2714;</span> | <span>&#x2714;</span> | 4
 | Knowledge Graphs  | <span>&#x2714;</span> |    |   |    |    |    |   |    |    |   |   |     |   | 1
