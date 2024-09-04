@@ -5,7 +5,7 @@ nav:
   tooltip: Research
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Topics
+# {% include icon.html icon="fa-solid fa-wrench" %}MLCV Members' List of Research Topics/Interests
 
 _Last modified on {% last_modified_at %A %d %B %Y %}_
 
@@ -13,7 +13,7 @@ _Last modified on {% last_modified_at %A %d %B %Y %}_
 {% include search-info.html %}
 
 
-| Research Topic/Interest | [AAK](../members/adila-krisnadhi.html) | [AM](../members/aniati-murni.html) | [AYA](../members/aruni-azizah.html) | [DC](../members/dina-chahyati.html) | [DNU](../members/dinial-utami.html) | [ER](../members/erdefi-rakun.html) | [KA](../members/kurniawati-azizah.html) | [LR](../members/laksmita-rahadianti.html) | [MFR](../members/febrian-rachmadi.html) | NF | [SN](../members/syifa-nurhayati.html) | [TB](../members/t-basaruddin.html) | [VD](../members/vektor-dewanto.html) | Total
+| Research Topics/Interests | [AAK](../members/adila-krisnadhi.html) | [AM](../members/aniati-murni.html) | [AYA](../members/aruni-azizah.html) | [DC](../members/dina-chahyati.html) | [DNU](../members/dinial-utami.html) | [ER](../members/erdefi-rakun.html) | [KA](../members/kurniawati-azizah.html) | [LR](../members/laksmita-rahadianti.html) | [MFR](../members/febrian-rachmadi.html) | NF | [SN](../members/syifa-nurhayati.html) | [TB](../members/t-basaruddin.html) | [VD](../members/vektor-dewanto.html) | Total
 | :---- | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |:----: | :----: |
 | Pattern Recognition | <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> |   <span>&#x2714;</span> | <span>&#x2714;</span> |   | <span>&#x2714;</span> |   <span>&#x2714;</span> | <span>&#x2714;</span> |   |   |   <span>&#x2714;</span> | <span>&#x2714;</span> | 10
 | Image Processing  | <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> |   <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> |   <span>&#x2714;</span> | <span>&#x2714;</span> |   |   |   <span>&#x2714;</span> |   | 10
@@ -39,7 +39,7 @@ _Last modified on {% last_modified_at %A %d %B %Y %}_
 | Human Motion and Gait Analysis |   |   |   |   | <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> |   | <span>&#x2714;</span> |   |   | <span>&#x2714;</span> |   | 5
 | Biometric Recognition  |   | <span>&#x2714;</span> |   |   | <span>&#x2714;</span> |   | <span>&#x2714;</span> | <span>&#x2714;</span> |   |   |   |<span>&#x2714;</span> |   | 5
 | Spoof Recognition  |   | <span>&#x2714;</span> |   |   | <span>&#x2714;</span> |   |   |   |   |   |   |   |   | 2
-| **Research Topic/Interest** | [AAK](../members/adila-krisnadhi.html) | [AM](../members/aniati-murni.html) | [AYA](../members/aruni-azizah.html) | [DC](../members/dina-chahyati.html) | [DNU](../members/dinial-utami.html) | [ER](../members/erdefi-rakun.html) | [KA](../members/kurniawati-azizah.html) | [LR](../members/laksmita-rahadianti.html) | [MFR](../members/febrian-rachmadi.html) | NF | [SN](../members/syifa-nurhayati.html) | [TB](../members/t-basaruddin.html) | [VD](../members/vektor-dewanto.html) | Total
+| **Research Topics/Interests** | [**AAK**](../members/adila-krisnadhi.html) | [**AM**](../members/aniati-murni.html) | [**AYA**](../members/aruni-azizah.html) | [**DC**](../members/dina-chahyati.html) | [**DNU**](../members/dinial-utami.html) | [**ER**](../members/erdefi-rakun.html) | [**KA**](../members/kurniawati-azizah.html) | [**LR**](../members/laksmita-rahadianti.html) | [**MFR**](../members/febrian-rachmadi.html) | **NF** | [**SN**](../members/syifa-nurhayati.html) | [**TB**](../members/t-basaruddin.html) | [**VD**](../members/vektor-dewanto.html) | **Total**
 | **Total per member** | 15 | 7 | 7 | 5 | 15 | 5 | 10 | 10 | 13 | 4 | 3 | 9 | 7 | 
 
 **List of MLCV's members:**
