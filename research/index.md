@@ -32,7 +32,7 @@ _Last modified on {% last_modified_at %A %d %B %Y %}_
 | Embodied AI (Robotics)  |   |   |   |   | <span>&#x2714;</span> |   |   |   |   |   |   |   | <span>&#x2714;</span> | 2
 | Applied ML  | <span>&#x2714;</span> |   | <span>&#x2714;</span> |   |   |   |   |   | <span>&#x2714;</span> | <span>&#x2714;</span> |   |   <span>&#x2714;</span> | <span>&#x2714;</span> | 6
 | Biomedical Engineering  | <span>&#x2714;</span> |   |   |   | <span>&#x2714;</span> |    |   |   | <span>&#x2714;</span> | <span>&#x2714;</span> |   |   |   | 4
-| Computational Neuroscience  |   |   |   |   |   |   |   |   |   | <span>&#x2714;</span> |    |   |   | 1
+| Computational Neuroscience  |   |   |   |   |   |   |   |   | <span>&#x2714;</span> | <span>&#x2714;</span> |    |   |   | 2
 | Applied Computer Vision  | <span>&#x2714;</span> |   | <span>&#x2714;</span> |   | <span>&#x2714;</span> |   |   | <span>&#x2714;</span> | <span>&#x2714;</span> |   |   |     |   | 5
 | Computer Vision  | <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> |   <span>&#x2714;</span> | <span>&#x2714;</span> |   | <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> |   |   |   <span>&#x2714;</span> |   | 9
 | Bioinformatics  |   |   |   |   | <span>&#x2714;</span> |   |   | <span>&#x2714;</span> | <span>&#x2714;</span> |   |   | <span>&#x2714;</span> | <span>&#x2714;</span> | 5
@@ -40,7 +40,7 @@ _Last modified on {% last_modified_at %A %d %B %Y %}_
 | Biometric Recognition  |   | <span>&#x2714;</span> |   |   | <span>&#x2714;</span> |   | <span>&#x2714;</span> | <span>&#x2714;</span> |   |   |   |<span>&#x2714;</span> |   | 5
 | Spoof Recognition  |   | <span>&#x2714;</span> |   |   | <span>&#x2714;</span> |   |   |   |   |   |   |   |   | 2
 | **Research Topics/Interests** | [**AAK**](../members/adila-krisnadhi.html) | [**AM**](../members/aniati-murni.html) | [**AYA**](../members/aruni-azizah.html) | [**DC**](../members/dina-chahyati.html) | [**DNU**](../members/dinial-utami.html) | [**ER**](../members/erdefi-rakun.html) | [**KA**](../members/kurniawati-azizah.html) | [**LR**](../members/laksmita-rahadianti.html) | [**MFR**](../members/febrian-rachmadi.html) | **NF** | [**SN**](../members/syifa-nurhayati.html) | [**TB**](../members/t-basaruddin.html) | [**VD**](../members/vektor-dewanto.html) | **Total**
-| **Total per member** | 15 | 7 | 7 | 5 | 15 | 5 | 10 | 10 | 13 | 4 | 3 | 9 | 7 | 
+| **Total per member** | 15 | 7 | 7 | 5 | 15 | 5 | 10 | 10 | 15 | 4 | 3 | 9 | 7 | 
 
 **List of MLCV's members:**
 - [**AAK**](../members/adila-krisnadhi.html): Adila Alfa Krisnadhi, S.Kom, M.Sc., Ph.D.
