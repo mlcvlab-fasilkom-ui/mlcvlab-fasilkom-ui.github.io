@@ -13,7 +13,7 @@ _Last modified on {% last_modified_at %A %d %B %Y %}_
 {% include search-info.html %}
 
 
-| Topic/Interest | [AAK](../members/adila-krisnadhi.html) | [AM](../members/aniati-murni.html) | [AYA](../members/aruni-azizah.html) | [DC](../members/dina-chahyati.html) | [DNU](../members/dinial-utami.html) | [ER](../members/erdefi-rakun.html) | [KA](../members/kurniawati-azizah.html) | [LR](../members/laksmita-rahadianti.html) | [MFR](../members/febrian-rachmadi.html) | NF | [SN](../members/syifa-nurhayati.html) | [TB](../members/t-basaruddin.html) | [VD](../members/vektor-dewanto.html) | Total
+| Research Topic/Interest | [AAK](../members/adila-krisnadhi.html) | [AM](../members/aniati-murni.html) | [AYA](../members/aruni-azizah.html) | [DC](../members/dina-chahyati.html) | [DNU](../members/dinial-utami.html) | [ER](../members/erdefi-rakun.html) | [KA](../members/kurniawati-azizah.html) | [LR](../members/laksmita-rahadianti.html) | [MFR](../members/febrian-rachmadi.html) | NF | [SN](../members/syifa-nurhayati.html) | [TB](../members/t-basaruddin.html) | [VD](../members/vektor-dewanto.html) | Total
 | :---- | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |:----: | :----: |
 | Pattern Recognition | <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> |   <span>&#x2714;</span> | <span>&#x2714;</span> |   | <span>&#x2714;</span> |   <span>&#x2714;</span> | <span>&#x2714;</span> |   |   |   <span>&#x2714;</span> | <span>&#x2714;</span> | 10
 | Image Processing  | <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> |   <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> |   <span>&#x2714;</span> | <span>&#x2714;</span> |   |   |   <span>&#x2714;</span> |   | 10
@@ -39,26 +39,22 @@ _Last modified on {% last_modified_at %A %d %B %Y %}_
 | Human Motion and Gait Analysis |   |   |   |   | <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> |   | <span>&#x2714;</span> |   |   | <span>&#x2714;</span> |   | 5
 | Biometric Recognition  |   | <span>&#x2714;</span> |   |   | <span>&#x2714;</span> |   | <span>&#x2714;</span> | <span>&#x2714;</span> |   |   |   |<span>&#x2714;</span> |   | 5
 | Spoof Recognition  |   | <span>&#x2714;</span> |   |   | <span>&#x2714;</span> |   |   |   |   |   |   |   |   | 2
+| **Research Topic/Interest** | [AAK](../members/adila-krisnadhi.html) | [AM](../members/aniati-murni.html) | [AYA](../members/aruni-azizah.html) | [DC](../members/dina-chahyati.html) | [DNU](../members/dinial-utami.html) | [ER](../members/erdefi-rakun.html) | [KA](../members/kurniawati-azizah.html) | [LR](../members/laksmita-rahadianti.html) | [MFR](../members/febrian-rachmadi.html) | NF | [SN](../members/syifa-nurhayati.html) | [TB](../members/t-basaruddin.html) | [VD](../members/vektor-dewanto.html) | Total
 | **Total per member** | 15 | 7 | 7 | 5 | 15 | 5 | 10 | 10 | 13 | 4 | 3 | 9 | 7 | 
 
-{% capture col1 %}
-{%
-  include figure.html
-  image="images/Projects.jpg"
-  link="images/Projects.jpg"
-  caption="Projects in MLCV Lab"
-%}
-{% endcapture %}
-
-{% capture col2 %}
-{%
-  include figure.html
-  image="images/Topics.jpg"
-  link="images/Topics.jpg"
-  caption="Research Topics in MLCV Lab"
-%}
-{% endcapture %}
-{% include cols.html col1=col1 col2=col2 %}
+**List of MLCV's members:**
+- [AAK](../members/adila-krisnadhi.html): Adila Alfa Krisnadhi, S.Kom, M.Sc., Ph.D.
+- [AM](../members/aniati-murni.html): Prof. Dr. Ir. Aniati Murni Arymurthy, M.Sc.
+- [AYA](../members/aruni-azizah.html): Aruni Yasmin Azizah, M.Comp.Sc
+- [DC](../members/dina-chahyati.html): Dr. Dina Chahyati, S.Kom., M.Kom.
+- [DNU](../members/dinial-utami.html): Dr. Dinial Utami Nurul Qomariah, S.ST., M.Kom.
+- [ER](../members/erdefi-rakun.html): Dr. Ir. Erdefi Rakun, M.Sc.
+- [KA](../members/kurniawati-azizah.html): Dr. Kurniawati Azizah, S.T., M.Phil.
+- [LR](../members/laksmita-rahadianti.html): Dr. Eng. Laksmita Rahadianti, S.Kom., M.Sc.
+- [MFR](../members/febrian-rachmadi.html): M. Febrian Rachmadi, S.Kom, M.Sc, Ph.D
+- [SN](../members/syifa-nurhayati.html): Syifa Nurhayati, S.Kom, M.Kom.
+- [TB](../members/t-basaruddin.html): Prof. Drs. T. Basaruddin, M.Sc., Ph.D.
+- [VD](../members/vektor-dewanto.html): Vektor Dewanto, S.T., M.Eng., Ph.D.
 
 {% include section.html %}
 
