@@ -67,8 +67,3 @@ The MLCV lab at Fasilkom UI consists of lecturers with active research interests
 {% include portrait.html name="Ernest Benedictus" image="images/user.jpg" role="student" description="(Adila Alfa Krisnadhi dan Ari Wibisono)" style="small" %}
 {% include portrait.html name="Abby Marvel" image="images/user.jpg" role="student" description="(Adila Alfa Krisnadhi dan Ari Wibisono)" style="small" %}
 
-
-<!---{% include section.html %}
-## Featured Resources
-{% include list.html component="card" data="resources" filters="group: featured" %}--->
-
