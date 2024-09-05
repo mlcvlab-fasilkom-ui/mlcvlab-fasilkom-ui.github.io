@@ -47,11 +47,12 @@ The MLCV lab at Fasilkom UI consists of lecturers with active research interests
 {% include portrait.html name="Juan Thomas Wijaya" image="images/user.jpg" role="gradstudent" description="(Aniati Murni)" style="small" %}
 {% include portrait.html name="Desynike Puspa Anggreyni" image="images/user.jpg" role="gradstudent" description="(Aniati Murni)" style="small" %}
 {% include portrait.html name="Michael Ariyanto" image="images/user.jpg" role="gradstudent" description="(Aniati Murni)" style="small" %}
+{% include portrait.html name="Sita Purnama" image="images/user.jpg" role="gradstudent" description="(Wisnu Jatmiko dan Kurniawati Azizah)" style="small" %}
 
 {% include section.html %}
 ## Undergraduate Students
 {% include portrait.html name="Sasha Nabila Fortuna" image="images/user.jpg" role="student" description="(Laksmita Rahadianti dan Syifa Nurhayati)" style="small" %}
-{% include portrait.html name="Fauzan Andri" image="images/user.jpg" role="student" description="(Erdefi Rakun)" style="small" %}
+{% include portrait.html name="Fauzan Andri" image="images/user.jpg" role="student" description="(Erdefi Rakun dan Arawinda)" style="small" %}
 {% include portrait.html name="David Alexander" image="images/user.jpg" role="student" description="(Adila Alfa Krisnadhi)" style="small" %}
 {% include portrait.html name="Muhammad Luthfi Balaka" image="images/user.jpg" role="student" description="(Adila Alfa Krisnadhi)" style="small" %}
 {% include portrait.html name="Alvin Xavier Rakha Wardhana" image="images/user.jpg" role="student" description="(Adila Alfa Krisnadhi)" style="small" %}
@@ -62,8 +63,13 @@ The MLCV lab at Fasilkom UI consists of lecturers with active research interests
 {% include portrait.html name="Nico Fathi Rizki" image="images/user.jpg" role="student" description="(Adila Alfa Krisnadhi)" style="small" %}
 {% include portrait.html name="Ichsan Khairullah" image="images/user.jpg" role="student" description="(Adila Alfa Krisnadhi dan Panca Hadi Putra)" style="small" %}
 {% include portrait.html name="Adit Sukoco" image="images/user.jpg" role="student" description="(Adila Alfa Krisnadhi dan Panca Hadi Putra)" style="small" %}
-{% include portrait.html name="Hanif Omar Kertapati" image="images/user.jpg" role="student" description="(Erdefi Rakun)" style="small" %}
+{% include portrait.html name="Muhammad Rizqy Ramadhan" image="images/user.jpg" role="student" description="(Kurniawati Azizah)" style="small" %}
+{% include portrait.html name="Nicholas Sidharta" image="images/user.jpg" role="student" description="(Kurniawati Azizah)" style="small" %}
+{% include portrait.html name="Muhammad Bryan Naufal" image="images/user.jpg" role="student" description="(Kurniawati Azizah dan Arawinda)" style="small" %}
+{% include portrait.html name="Ruben Tanoey" image="images/user.jpg" role="student" description="(Kurniawati Azizah dan Arawinda)" style="small" %}
+{% include portrait.html name="Jonathan Adriel" image="images/user.jpg" role="student" description="(Kurniawati Azizah dan Arawinda)" style="small" %}
+{% include portrait.html name="M. Faiq Hilmi Musyaffa" image="images/user.jpg" role="student" description="(Kurniawati Azizah)" style="small" %}
+{% include portrait.html name="Hanif Omar Kertapati" image="images/user.jpg" role="student" description="(Erdefi Rakun dan Arawinda)" style="small" %}
 {% include portrait.html name="Davyn Reinhard" image="images/user.jpg" role="student" description="(Adila Alfa Krisnadhi dan Ari Wibisono)" style="small" %}
 {% include portrait.html name="Ernest Benedictus" image="images/user.jpg" role="student" description="(Adila Alfa Krisnadhi dan Ari Wibisono)" style="small" %}
 {% include portrait.html name="Abby Marvel" image="images/user.jpg" role="student" description="(Adila Alfa Krisnadhi dan Ari Wibisono)" style="small" %}
-
