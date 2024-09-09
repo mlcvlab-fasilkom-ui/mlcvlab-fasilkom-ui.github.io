@@ -28,7 +28,7 @@ To support learning, she has published playlists of the recordings of lectures, 
 - [Metodologi Penelitian dan Penulisan Ilmiah](https://www.youtube.com/playlist?list=PLLOcUim1ij_5nbavqMo29lXhUT5CqR6xd) 
 - [Pengolahan Citra](https://www.youtube.com/playlist?list=PLLOcUim1ij_4gW3wR30PMJiONlFLzrcCa)
 - [Pengolahan Citra Lanjut](https://www.youtube.com/playlist?list=PLLOcUim1ij_4gW3wR30PMJiONlFLzrcCa)
-- 
+  
 As well as ad-hoc lectures in topics such as
 - [Pengantar Ilmu Warna/Basics of Color Science](https://www.youtube.com/playlist?list=PLLOcUim1ij_71DqOo6q50Q10z7TZc82XP)
 - [LaTEX for Academic Writing](https://www.youtube.com/playlist?list=PLLOcUim1ij_5bt2eyT01Sa6K4b2mv5TiC)
