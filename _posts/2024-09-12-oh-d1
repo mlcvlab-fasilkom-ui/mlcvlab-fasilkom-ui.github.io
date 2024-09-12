@@ -1,0 +1,26 @@
+---
+title: 1 More day to Open House MLCV Lab 2024!
+image: images/announcement/OH_D-1.png
+group: announcement 
+author: laksmita-rahadianti
+tags:
+  - open house
+  - announcement
+  - reminder
+---
+
+<!-- excerpt start -->
+1 Hari Lagi!! Open House Lab MLCV
+Jumat, 13 September 2024, jam 13.30 ~ 15.30, di Aula Gedung B (Gedung Lama)
+
+Organized by Lab Riset Machine Learning and Computer Vision (MLCV)
+<!-- excerpt end -->
+
+{% capture content %}
+{% include figure.html image="images/announcement/OH_D-1.png" link="images/announcement/OH_D-1.png" width="300px" %}
+{% endcapture %}
+{% include float.html content=content %}
+
+Terima kasih atas animonya bagi mahasiswa yang telah mendaftar. Bagi mahasiswa yang belum mendaftar, tetap dipersilakan ikut hadir selama kapasitas ruangan masih memadai!
+
+More info through the newly revamped website lab MLCV: https://mlcv.cs.ui.ac.id/. 🤖
