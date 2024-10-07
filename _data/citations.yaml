@@ -1968,6 +1968,22 @@
   orcid: 0000-0002-6050-664X
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1109/ACCESS.2024.3473314
+  title: MAG-BERT-ARL for Fair Automated Video Interview Assessment
+  authors:
+  - Bimasena Putra
+  - Kurniawati Azizah
+  - Candy Olivia Mawalim
+  - Ikhlasul Akmal Hanif
+  - Sakriani Sakti
+  - Chee Wee Leong
+  - Shogo Okada
+  publisher: IEEE Access
+  date: '2024-01-01'
+  link: https://doi.org/g7dw7f
+  orcid: 0000-0002-3217-7025
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1109/ACCESS.2024.3396377
   title: Zero-Shot Voice Cloning Text-to-Speech for Dysphonia Disorder Speakers
   authors:
