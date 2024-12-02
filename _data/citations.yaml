@@ -2763,6 +2763,43 @@
   orcid: 0000-0002-2115-7758
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1109/ic3ina64086.2024.10732848
+  title: Comparative Performance of Water Index for Water Segmentation Model Using
+    U-Net Architecture
+  authors:
+  - M. Athallah Dzikri Alhady
+  - Ira Maryati
+  - Roni Salambue
+  - Lia Sadita
+  - Andre Sihombing
+  - Aruni Yasmin Azizah
+  - Zul Indra
+  - Gita Sastria
+  publisher: 2024 International Conference on Computer, Control, Informatics and its
+    Applications (IC3INA)
+  date: '2024-10-09'
+  link: https://doi.org/g8qmqk
+  orcid: 0009-0005-5236-4775
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ic3ina64086.2024.10732147
+  title: Multi-Temporal Cloud Removal of Satellite Image for Surface Water Segmentation
+  authors:
+  - ' Suhardiman'
+  - Roni Salambue
+  - Andre Sihombing
+  - Ira Maryati
+  - Lia Sadita
+  - Aruni Yasmin Azizah
+  - Zul Indra
+  - Gita Sastria
+  publisher: 2024 International Conference on Computer, Control, Informatics and its
+    Applications (IC3INA)
+  date: '2024-10-09'
+  link: https://doi.org/g8qmqm
+  orcid: 0009-0005-5236-4775
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.14264/9d6f9aa
   title: Discounting-free policy gradient reinforcement learning from transient states
   authors:
