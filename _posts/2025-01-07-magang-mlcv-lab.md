@@ -15,7 +15,7 @@ Lab Riset Machine Learning and Computer Vision (MLCV) UI memiliki program magang
 - Semester 8: TA 6 SKS sebagai kelanjutan topik magang.
 *)Hal ini dapat disesuaikan jika mahasiswa ingin lulus 7 semester (magang sem 6, TA sem 7), lulus 9 semester, dan seterusnya.
 
-SK Dekan terkait program magang dapat dilihat di[sini](images/announcement/SK Konversi Kredit Magang MLCV.pdf).
+SK Dekan terkait program magang dapat dilihat di [sini](link tbd).
 
 Syarat mengikuti magang penelitian lab MLCV adalah sebagai berikut:
 a. Memiliki ketertarikan untuk melakukan penelitian di bidang Computer Vision, Image Processing, dan Machine Learning.
