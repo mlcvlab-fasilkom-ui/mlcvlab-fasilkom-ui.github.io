@@ -35,4 +35,4 @@ Syarat konversi kredit 14 SKS di semester pertama program adalah:
 
 Sehubungan dengan poin terakhir di kedua list tersebut, syarat yang diterapkan sesuai publikasi topik yang tersedia dari dosen MLCV. List topik dan syarat yang tersedia akan diumumkan di setiap awal semester.
 
- [x] **Untuk semester genap tahun ajaran 2024/2025, dapat dilihat di [sini](magang-mlcv-lab-jan25.html).**
+ - [x] **Untuk semester genap tahun ajaran 2024/2025, dapat dilihat di [sini](magang-mlcv-lab-jan25.html).**
