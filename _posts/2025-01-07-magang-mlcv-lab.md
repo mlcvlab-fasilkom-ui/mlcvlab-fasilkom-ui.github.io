@@ -8,7 +8,6 @@ tags:
   - mlcv
 ---
 
-<!-- excerpt start -->
 Halo Mahasiswa Fasilkom UI!
 
 Lab Riset Machine Learning and Computer Vision (MLCV) UI memiliki program magang riset untuk mahasiswa. Program Magang riset lab ini adalah magang riset dengan durasi 1 tahun yang ideal diambil pada semester 7 dan 8 dengan rincian:
@@ -33,5 +32,3 @@ c.	Source code beserta dokumentasi yang diunggah pada repository lab MLCV.
 d.	Luaran tambahan lain yang ditentukan oleh dosen pembimbing sesuai topik magang penelitian. Hal ini dapat berupa (namun tidak terbatas pada) laporan pengujian, dataset beserta anotasinya, dan draft proposal penelitian.
 
 Sehubungan dengan poin terakhir di kedua list tersebut, syarat yang diterapkan sesuai publikasi topik yang tersedia dari dosen MLCV. List topik dan syarat yang tersedia akan diumumkan di setiap awal semester.
-
-<!-- excerpt end -->
