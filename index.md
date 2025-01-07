@@ -12,6 +12,7 @@ MLCV Lab of the Faculty of Computer Science, Universitas Indonesia, focuses on m
 
 {% include section.html %}
 ## News Update 
+{% include alert.html type="info" content="**07/JAN/2025:** [Lowongan Magang Riset Lab Semester Genap 2024/2025](2025/01/07/magang-mlcv-lab-jan25.html)" %}
 {% include alert.html type="info" content="**07/JAN/2025:** [Program Magang Riset Lab MLCV](2025/01/07/magang-mlcv-lab.html)" %}
 {% include alert.html type="info" content="**02/SEP/2024:** [Open House MLCV Lab in 2024 is announced on 13 September 2024!](2024/09/02/oh-mlcv-lab.html)" %}
 
