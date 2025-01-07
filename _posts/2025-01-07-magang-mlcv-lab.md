@@ -34,3 +34,5 @@ c.	Source code beserta dokumentasi yang diunggah pada repository lab MLCV.
 d.	Luaran tambahan lain yang ditentukan oleh dosen pembimbing sesuai topik magang penelitian. Hal ini dapat berupa (namun tidak terbatas pada) laporan pengujian, dataset beserta anotasinya, dan draft proposal penelitian.
 
 Sehubungan dengan poin terakhir di kedua list tersebut, syarat yang diterapkan sesuai publikasi topik yang tersedia dari dosen MLCV. List topik dan syarat yang tersedia akan diumumkan di setiap awal semester.
+
+Untuk semester genap tahun ajaran 2024/2025, dapat dilihat di [sini](2025/01/07/magang-mlcv-lab-jan25.html).
