@@ -17,7 +17,7 @@ Lab Riset Machine Learning and Computer Vision (MLCV) Fasilkom UI memiliki progr
 - Hal ini dapat disesuaikan jika mahasiswa ingin lulus 7 semester (magang sem 6, TA sem 7), lulus 9 semester, dan seterusnya.
 <!-- excerpt end -->
 
-SK Dekan terkait program magang dapat dilihat di [sini](https://github.com/mlcvlab-fasilkom-ui/mlcvlab-fasilkom-ui.github.io/images/announcement/SK_Konversi_Kredit_Magang_MLCV.pdf).
+SK Dekan terkait program magang dapat dilihat di [sini](https://github.com/mlcvlab-fasilkom-ui/mlcvlab-fasilkom-ui.github.io/blob/main/images/announcement/SK_Konversi_Kredit_Magang_MLCV.pdf).
 
 Syarat mengikuti magang penelitian lab MLCV adalah sebagai berikut:
  1. Memiliki ketertarikan untuk melakukan penelitian di bidang Computer Vision, Image Processing, dan Machine Learning.
