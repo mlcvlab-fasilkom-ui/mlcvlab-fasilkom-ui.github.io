@@ -1193,20 +1193,19 @@
   title: 'Ontology Pattern Modeling for Cross-Repository Data Integration in the Ocean
     Sciences: The Oceanographic Cruise Example'
   authors:
-  - Adila A. Krisnadhi
-  - Robert Arko
-  - Suzanne Carbotte
-  - Cynthia Chandler
-  - Michelle Cheatham
-  - Timothy Finin
-  - Pascal Hitzler
-  - Krzysztof Janowicz
-  - Thomas Narock
-  - Lisa Raymond
-  - Adam Shepherd
-  - Peter Wiebe
-  publisher: The Semantic Web in Earth and Space Science. Current Status and Future
-    Directions
+  - ' Krisnadhi Adila A.'
+  - ' Arko Robert'
+  - ' Carbotte Suzanne'
+  - ' Chandler Cynthia'
+  - ' Cheatham Michelle'
+  - ' Finin Timothy'
+  - ' Hitzler Pascal'
+  - ' Janowicz Krzysztof'
+  - ' Narock Thomas'
+  - ' Raymond Lisa'
+  - ' Shepherd Adam'
+  - ' Wiebe Peter'
+  publisher: Studies on the Semantic Web
   date: '2015-01-01'
   link: https://doi.org/gt6t9r
   orcid: 0000-0003-0745-6804
@@ -1982,6 +1981,42 @@
   date: ''
   link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000241553600015
   orcid: 0000-0002-6050-664X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2025.3558558
+  title: 'Fusion+: A Multi-Sensor Image Fusion for Very High-Resolution Satellite
+    Imagery'
+  authors:
+  - Yohanes Fridolin Hestrio
+  - Danang Surya Candra
+  - Randy Prima Brahmantara
+  - Yudhi Prabowo
+  - Anjar Dimara Sakti
+  - MGS M. Luthfi Ramadhan
+  - Yong Loong Yap
+  - Kurniawati Azizah
+  - Muhammad Hafizhuddin Hilman
+  - Stuart Phinn
+  - Sin Liang Lim
+  - Wisnu Jatmiko
+  publisher: IEEE Access
+  date: '2025-01-01'
+  link: https://doi.org/g9fdvx
+  orcid: 0000-0002-3217-7025
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2025.3542785
+  title: Transfer Learning and Custom Loss Applied to Transformer-Based Text Translation
+    for Sign Language Animated Subtitles
+  authors:
+  - Evan Aurelrius
+  - Andhira Henrisen Sikoko
+  - Erdefi Rakun
+  - Kurniawati Azizah
+  publisher: IEEE Access
+  date: '2025-01-01'
+  link: https://doi.org/g855dq
+  orcid: 0000-0002-3217-7025
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/ACCESS.2024.3473314
