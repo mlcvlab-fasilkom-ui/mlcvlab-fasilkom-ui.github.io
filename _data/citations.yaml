@@ -449,6 +449,19 @@
   orcid: 0000-0003-1672-9149
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.11591/ijra.v14i2.pp260-272
+  title: 'CP_SDUNet: road extraction using SDUNet and centerline preserving dice loss'
+  authors:
+  - Bayu Satria Persada
+  - Muhammad Rifqi Priyo Susanto
+  - Laksmita Rahadianti
+  - Aniati Murni Arymurthy
+  publisher: IAES International Journal of Robotics and Automation (IJRA)
+  date: '2025-06-01'
+  link: https://doi.org/g9qcpr
+  orcid: 0000-0003-4167-7213
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.11591/ijai.v14.i3.pp2347-2357
   title: 'CycleGAN for day-to-night image translation: a comparative study'
   authors:
@@ -457,6 +470,33 @@
   publisher: IAES International Journal of Artificial Intelligence (IJ-AI)
   date: '2025-06-01'
   link: https://doi.org/g9pnct
+  orcid: 0000-0003-4167-7213
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.29207/resti.v9i2.6381
+  title: Efficient Hybrid Network with Prompt Learning  for Multi-Degradation Image
+    Restoration
+  authors:
+  - ' Muhammad Yusuf Kardawi'
+  - ' Laksmita Rahadianti'
+  publisher: Jurnal RESTI (Rekayasa Sistem dan Teknologi Informasi)
+  date: '2025-04-20'
+  link: https://doi.org/g9qcps
+  orcid: 0000-0003-4167-7213
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1049/ipr2.70023
+  title: "Flood\u2010MATE: A Flood Segmentation Model in Urban Regions through Adaptation\
+    \ of Mean Teacher and Ensemble Approach"
+  authors:
+  - Bella Septina Ika Hartanti
+  - Adila Alfa Krisnadhi
+  - Laksmita Rahadianti
+  - Wiwiek Dwi Susanti
+  - Achmad Fakhrus Shomim
+  publisher: IET Image Processing
+  date: '2025-01-01'
+  link: https://doi.org/g9qcpt
   orcid: 0000-0003-4167-7213
   plugin: orcid.py
   file: orcid.yaml
@@ -480,6 +520,50 @@
   publisher: Communications in Computer and Information Science
   date: '2023-01-01'
   link: https://doi.org/gt6ssn
+  orcid: 0000-0003-4167-7213
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icacsis53237.2021.9631360
+  title: Chest X-Ray Patch Classification for Tuberculosis Detection
+  authors:
+  - Syifa Nurhayati
+  - Laksmita Rahadianti
+  - Dina Chahyati
+  - Prasandhya Astagiri Yusuf
+  - Eric Daniel Tenda
+  - Reyhan Eddy Yunus
+  publisher: 2021 International Conference on Advanced Computer Science and Information
+    Systems (ICACSIS)
+  date: '2021-10-23'
+  link: https://doi.org/g9qcpv
+  orcid: 0000-0003-4167-7213
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icacsis53237.2021.9631320
+  title: Downscaling for Climate Data in Indonesia Using Image-to-Image Translation
+    Approach
+  authors:
+  - Furqon Hensan Muttaqien
+  - Laksmita Rahadianti
+  - Arnida L. Latifah
+  publisher: 2021 International Conference on Advanced Computer Science and Information
+    Systems (ICACSIS)
+  date: '2021-10-23'
+  link: https://doi.org/g9qcpw
+  orcid: 0000-0003-4167-7213
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icacsis53237.2021.9631365
+  title: Robustness of Probabilistic U-Net for Automated Segmentation of White Matter
+    Hyperintensities in Different Datasets of Brain MRI
+  authors:
+  - Rizal Maulana
+  - Muhammad Febrian Rachmadi
+  - Laksmita Rahadianti
+  publisher: 2021 International Conference on Advanced Computer Science and Information
+    Systems (ICACSIS)
+  date: '2021-10-23'
+  link: https://doi.org/g9qcpx
   orcid: 0000-0003-4167-7213
   plugin: orcid.py
   file: orcid.yaml
