@@ -1,5 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1109/ACCESS.2025.3582643
+  title: Weighted Ensemble based on Prisoner Dilemma for Facial Expression Recognition
+  authors:
+  - Muhammad Hannan Hunafa
+  - Mgs M Luthfi Ramadhan
+  - Alif Wicaksana Ramadhan
+  - Muhammad Febrian Rachmadi
+  - Wisnu Jatmiko
+  publisher: IEEE Access
+  date: '2025-01-01'
+  link: https://doi.org/g9rsbp
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.compbiomed.2024.108414
   title: A new family of instance-level loss functions for improving instance-level
     segmentation and detection of white matter hyperintensities in routine clinical
@@ -447,6 +461,17 @@
   date: '2011-11-01'
   link: https://doi.org/gtchxn
   orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21609/jiki.v18i2.1521
+  title: Comparing ASM and Learning-Based Methods for Satellite Image Dehazing
+  authors:
+  - ' Steven Christ Pinantyo Arwidarasto'
+  - Laksmita Rahadianti
+  publisher: Jurnal Ilmu Komputer dan Informasi
+  date: '2025-06-26'
+  link: https://doi.org/g9rsbq
+  orcid: 0000-0003-4167-7213
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.11591/ijra.v14i2.pp260-272
