@@ -65,9 +65,7 @@ _Last modified on {% last_modified_at %A %d %B %Y %}_
 
 ## Current Research Projects
 {% include alert.html type="warning" content="**Under construction!!**" %}
-{% include list.html component="card" data="projects" filter="group: featured" style="small" %}
 
 {% include section.html %}
 ## Past Research Projects
 {% include alert.html type="warning" content="**Under construction!!**" %}
-{% include list.html component="card" data="projects" filter="group: " style="small" %}
