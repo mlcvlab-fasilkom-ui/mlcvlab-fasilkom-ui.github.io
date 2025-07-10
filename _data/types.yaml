@@ -3,12 +3,16 @@
 # team member roles
 
 pi:
-  icon: fa-solid fa-microscope
-  description: Principal Investigator
+  icon: fa-solid fa-users-between-lines
+  description: Head of Lab
 
 dir:
+  icon: fa-solid fa-boook
+  description: Director
+
+researcher:
   icon: fa-solid fa-microscope
-  description: Principal Investigator
+  description: Researcher
 
 postdoc:
   icon: fa-solid fa-glasses
