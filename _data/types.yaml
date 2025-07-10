@@ -7,7 +7,7 @@ pi:
   description: Head of Lab
 
 dir:
-  icon: fa-solid fa-boook
+  icon: fa-solid fa-book
   description: Director
 
 researcher:
