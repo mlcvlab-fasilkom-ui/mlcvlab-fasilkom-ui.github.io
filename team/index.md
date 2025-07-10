@@ -11,12 +11,12 @@ The MLCV lab at Fasilkom UI consists of lecturers with active research interests
 
 {% include section.html %}
 ## Head of Lab and Director
-{% include list.html data="members" component="portrait" filter="role: pi" %}
-{% include list.html data="members" component="portrait" filter="role: dir" %}
+{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role == 'dir'" %}
 
 {% include section.html %}
 ## Researchers
-{% include list.html data="members" component="portrait" filter="role: researcher" %}
+{% include list.html data="members" component="portrait" filter="role == 'researcher'" %}
 
 {% include section.html %}
 ## PhD Students
