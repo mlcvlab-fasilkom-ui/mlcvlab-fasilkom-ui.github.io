@@ -209,6 +209,11 @@ source:
   text: Source
   tooltip: Source code
 
+codes:
+  icon: fa-solid fa-code
+  text: Code
+  tooltip: Source code
+
 server:
   icon: fa-solid fa-server
   text: Server
@@ -219,12 +224,42 @@ app:
   text: App
   tooltip: App
 
+software:
+  icon: fa-solid fa-hand-pointer
+  text: Software
+  tooltip: Software
+
 data:
   icon: fa-solid fa-database
   text: Data
   tooltip: Data
 
+datasets:
+  icon: fa-solid fa-database
+  text: Dataset
+  tooltip: Dataset
+  
 package:
   icon: fa-solid fa-box
   text: Package
   tooltip: Package
+
+courses:
+  icon: fa-solid fa-book
+  text: Documentation
+  tooltip: Documentation
+  
+presentations:
+  icon: fa-solid fa-book
+  text: Documentation
+  tooltip: Documentation
+
+books:
+  icon: fa-solid fa-book
+  text: Documentation
+  tooltip: Documentation
+  
+writings:
+  icon: fa-solid fa-book
+  text: Documentation
+  tooltip: Documentation
