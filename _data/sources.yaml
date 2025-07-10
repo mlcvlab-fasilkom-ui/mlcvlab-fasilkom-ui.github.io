@@ -1,36 +1,23 @@
-- id: doi:10.5614/itbj.ict.res.appl.2022.16.3.5
-  type: journal
-  # description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  # date: 2020-12-4
-  # image: https://ieeexplore.ieee.org/ielx7/6287639/9668973/9673749/graphical_abstract/access-gagraphic-3141200.jpg
-  # buttons:
-  #   - type: manubot
-  #     link: https://greenelab.github.io/meta-review/
-  #   - type: source
-  #     text: Manuscript Source
-  #     link: https://github.com/greenelab/meta-review
-  #   - type: website
-  #     link: http://manubot.org/
-  # tags:
-  #   - NLP
-  #   - Machine Learning
-  # repo: greenelab/meta-review
+- id: doi:10.1371/journal.pcbi.1007128
+  type: paper
+  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  date: 2020-12-4
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  buttons:
+    - type: manubot
+      link: https://greenelab.github.io/meta-review/
+    - type: source
+      text: Manuscript Source
+      link: https://github.com/greenelab/meta-review
+    - type: website
+      link: http://manubot.org/
+  tags:
+    - open science
+    - collaboration
+  repo: greenelab/meta-review
 
-- id: doi:10.11591/ijeecs.v26.i3.pp1402-1414
-  type: journal
-  # image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs40537-020-00374-x/MediaObjects/40537_2020_374_Fig2_HTML.png?as=webp
-  # tags:
-  #   - NLP
-  #   - Machine Learning
+- id: doi:10.1016/j.csbj.2020.05.017
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
 
-- id: doi:10.1088/1742-6596/1528/1/012019
-  # image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/6287639/8948470/8967069/husod1-2969021-large.gif
-  # tags:
-  #   - NLP
-  #   - Machine Learning
-
-- id: doi:10.1016/j.neuron.2023.04.028
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0896627323003380-fx1_lrg.jpg
-  # tags:
-  #   - biomedical image analysis
-  #   - Machine Learning
+- id: doi:10.7554/eLife.32822
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
