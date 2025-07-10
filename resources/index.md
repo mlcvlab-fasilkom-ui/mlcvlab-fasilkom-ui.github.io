@@ -29,20 +29,20 @@ Software, codes, datasets, and other products from our research works and projec
 {% include search-info.html %}
 
 ## Software
-{% include list.html component="card" data="resources" filters="group: software" %}
+{% include list.html component="card" data="resources" filter="group: software" %}
 
 {% include section.html %}
 ## Codes & Repositories
-{% include list.html component="card" data="resources" filters="group: codes" %}
+{% include list.html component="card" data="resources" filter="group: codes" %}
 
 {% include section.html %}
 ## Datasets
-{% include list.html component="card" data="resources" filters="group: datasets" %}
+{% include list.html component="card" data="resources" filter="group: datasets" %}
 
 {% include section.html %}
 ## Courses & Presentations
-{% include list.html component="card" data="resources" filters="group: courses, presentations" style="small" %}
+{% include list.html component="card" data="resources" filter="group: courses, presentations" style="small" %}
 
 {% include section.html %}
 ## Books & Writings
-{% include list.html component="card" data="resources" filters="group: books, writings" style="small" %}
+{% include list.html component="card" data="resources" filter="group: books, writings" style="small" %}
