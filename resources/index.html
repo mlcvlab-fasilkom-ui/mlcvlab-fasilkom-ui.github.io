@@ -37,24 +37,28 @@
 
 
 
+
+
+
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>Resources | MACHINE LEARNING AND COMPUTER VISION LAB</title>
+<title>Resources | Lab Website Template</title>
 
 <link rel="icon" href="/images/icon.png">
 
 <meta name="title" content="Resources">
-<meta name="description" content="FACULTY OF COMPUTER SCIENCE, UNIVERSITAS INDONESIA. The MLCV Lab focuses on machine learning-related research, especially for computer vision tasks that involve manipulating, analyzing, and interpreting data from images and videos. The methods used are diverse, from processing detailed information stored at the pixel level to geometrically dividing images into several regions to form highly correlated patterns for a specific task.">
+<meta name="description" content="by the Greene Lab. An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.">
 
 <meta property="og:title" content="Resources">
-<meta property="og:site_title" content="MACHINE LEARNING AND COMPUTER VISION LAB">
-<meta property="og:description" content="FACULTY OF COMPUTER SCIENCE, UNIVERSITAS INDONESIA. The MLCV Lab focuses on machine learning-related research, especially for computer vision tasks that involve manipulating, analyzing, and interpreting data from images and videos. The methods used are diverse, from processing detailed information stored at the pixel level to geometrically dividing images into several regions to form highly correlated patterns for a specific task.">
+<meta property="og:site_title" content="Lab Website Template">
+<meta property="og:description" content="by the Greene Lab. An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.">
 <meta property="og:url" content="https://mlcvlab-fasilkom-ui.github.io">
 <meta property="og:image" content="/images/share.jpg">
 <meta property="og:locale" content="en_US">
 
 <meta property="twitter:title" content="Resources">
-<meta property="twitter:description" content="FACULTY OF COMPUTER SCIENCE, UNIVERSITAS INDONESIA. The MLCV Lab focuses on machine learning-related research, especially for computer vision tasks that involve manipulating, analyzing, and interpreting data from images and videos. The methods used are diverse, from processing detailed information stored at the pixel level to geometrically dividing images into several regions to form highly correlated patterns for a specific task.">
+<meta property="twitter:description" content="by the Greene Lab. An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.">
 <meta property="twitter:url" content="https://mlcvlab-fasilkom-ui.github.io">
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:image" content="/images/share.jpg">
@@ -70,7 +74,7 @@
       "@type": "WebSite",
     
     "name": "Resources",
-    "description": "FACULTY OF COMPUTER SCIENCE, UNIVERSITAS INDONESIA. The MLCV Lab focuses on machine learning-related research, especially for computer vision tasks that involve manipulating, analyzing, and interpreting data from images and videos. The methods used are diverse, from processing detailed information stored at the pixel level to geometrically dividing images into several regions to form highly correlated patterns for a specific task.",
+    "description": "by the Greene Lab. An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.",
     "headline": "Resources",
     "publisher": {
       "@type": "Organization",
@@ -90,9 +94,9 @@
 
 <!-- Font Awesome icons (load asynchronously due to size) -->
 
-<link href="https://use.fontawesome.com/releases/v6.5.0/css/all.css" rel="stylesheet" media="none" onload="this.removeAttribute('media'); this.onload = null;">
+<link href="https://use.fontawesome.com/releases/v6.7.0/css/all.css" rel="stylesheet" media="none" onload="this.removeAttribute('media'); this.onload = null;">
 <noscript>
-  <link href="https://use.fontawesome.com/releases/v6.5.0/css/all.css" rel="stylesheet">
+  <link href="https://use.fontawesome.com/releases/v6.7.0/css/all.css" rel="stylesheet">
 </noscript>
 
   <!-- third party styles -->
@@ -156,6 +160,10 @@
 
   
     <link href="/_styles/dark-toggle.css" rel="stylesheet">
+  
+
+  
+    <link href="/_styles/details.css" rel="stylesheet">
   
 
   
@@ -330,6 +338,8 @@
 
   
 
+  
+
 
 <!-- include all css in styles folder -->
 
@@ -369,7 +379,7 @@
 
 
 
-<header class="background" style="--image: url('/images/active_banner_720_15fps.gif')" data-dark="true">
+<header class="background" style="--image: url('/images/background.jpg')" data-dark="true">
   <a href="/" class="home">
     
       <span class="logo">
@@ -381,10 +391,10 @@
     
       <span class="title-text" data-tooltip="Home">
         
-          <span class="title">MACHINE LEARNING AND COMPUTER VISION LAB</span>
+          <span class="title">Lab Website Template</span>
         
         
-          <span class="subtitle">FACULTY OF COMPUTER SCIENCE, UNIVERSITAS INDONESIA</span>
+          <span class="subtitle">by the Greene Lab</span>
         
       </span>
     
@@ -404,6 +414,12 @@
       
         <a href="/publication/" data-tooltip="Published works">
           Publication
+        </a>
+      
+    
+      
+        <a href="/projects/" data-tooltip="Software, datasets, and more">
+          Projects
         </a>
       
     
@@ -455,7 +471,7 @@
     <h1 id="resources">
 <i class="icon fa-solid fa-wrench"></i>Resources</h1>
 
-<p><em>Last modified on Friday 10 January 2025</em></p>
+<p><em>Last modified on Thursday 10 July 2025</em></p>
 
 <p>Software, codes, datasets, and other products from our research works and projects.</p>
 
@@ -475,90 +491,102 @@
 
   <section class="background" data-size="page">
     <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
-<div class="tags" data-link="https://mlcvlab-fasilkom-ui.github.io/resources/">
+<div class="tags">
     
-      <a href="https://mlcvlab-fasilkom-ui.github.io/resources/?search=%22tag:%20software%22" class="tag" data-tooltip='Show items with the tag "software"'>
+      <a href="/resources/?search=%22tag:%20software%22" class="tag" data-tooltip='Show items with the tag "software"'>
         software
       </a>
     
-      <a href="https://mlcvlab-fasilkom-ui.github.io/resources/?search=%22tag:%20codes%22" class="tag" data-tooltip='Show items with the tag "codes"'>
+      <a href="/resources/?search=%22tag:%20codes%22" class="tag" data-tooltip='Show items with the tag "codes"'>
         codes
       </a>
     
-      <a href="https://mlcvlab-fasilkom-ui.github.io/resources/?search=%22tag:%20datasets%22" class="tag" data-tooltip='Show items with the tag "datasets"'>
+      <a href="/resources/?search=%22tag:%20datasets%22" class="tag" data-tooltip='Show items with the tag "datasets"'>
         datasets
       </a>
     
-      <a href="https://mlcvlab-fasilkom-ui.github.io/resources/?search=%22tag:%20courses%22" class="tag" data-tooltip='Show items with the tag "courses"'>
+      <a href="/resources/?search=%22tag:%20courses%22" class="tag" data-tooltip='Show items with the tag "courses"'>
         courses
       </a>
     
-      <a href="https://mlcvlab-fasilkom-ui.github.io/resources/?search=%22tag:%20books%22" class="tag" data-tooltip='Show items with the tag "books"'>
+      <a href="/resources/?search=%22tag:%20books%22" class="tag" data-tooltip='Show items with the tag "books"'>
         books
       </a>
     
   </div>
 
-<div class="tags" data-link="https://mlcvlab-fasilkom-ui.github.io/resources/">
+<div class="tags">
     
-      <a href="https://mlcvlab-fasilkom-ui.github.io/resources/?search=%22tag:%20software%22" class="tag" data-tooltip='Show items with the tag "software"'>
+      <a href="/resources/?search=%22tag:%20biology%22" class="tag" data-tooltip='Show items with the tag "biology"'>
+        biology
+      </a>
+    
+      <a href="/resources/?search=%22tag:%20medicine%22" class="tag" data-tooltip='Show items with the tag "medicine"'>
+        medicine
+      </a>
+    
+      <a href="/resources/?search=%22tag:%20big-data%22" class="tag" data-tooltip='Show items with the tag "big-data"'>
+        big-data
+      </a>
+    
+      <a href="/resources/?search=%22tag:%20software%22" class="tag" data-tooltip='Show items with the tag "software"'>
         software
       </a>
     
-      <a href="https://mlcvlab-fasilkom-ui.github.io/resources/?search=%22tag:%20computer-graphics%22" class="tag" data-tooltip='Show items with the tag "computer-graphics"'>
+      <a href="/resources/?search=%22tag:%20computer-graphics%22" class="tag" data-tooltip='Show items with the tag "computer-graphics"'>
         computer-graphics
       </a>
     
-      <a href="https://mlcvlab-fasilkom-ui.github.io/resources/?search=%22tag:%20computer-animation%22" class="tag" data-tooltip='Show items with the tag "computer-animation"'>
+      <a href="/resources/?search=%22tag:%20computer-animation%22" class="tag" data-tooltip='Show items with the tag "computer-animation"'>
         computer-animation
       </a>
     
-      <a href="https://mlcvlab-fasilkom-ui.github.io/resources/?search=%22tag:%20language-processing%22" class="tag" data-tooltip='Show items with the tag "language-processing"'>
+      <a href="/resources/?search=%22tag:%20language-processing%22" class="tag" data-tooltip='Show items with the tag "language-processing"'>
         language-processing
       </a>
     
-      <a href="https://mlcvlab-fasilkom-ui.github.io/resources/?search=%22tag:%20text-processing%22" class="tag" data-tooltip='Show items with the tag "text-processing"'>
+      <a href="/resources/?search=%22tag:%20text-processing%22" class="tag" data-tooltip='Show items with the tag "text-processing"'>
         text-processing
       </a>
     
-      <a href="https://mlcvlab-fasilkom-ui.github.io/resources/?search=%22tag:%20nlp%22" class="tag" data-tooltip='Show items with the tag "nlp"'>
+      <a href="/resources/?search=%22tag:%20nlp%22" class="tag" data-tooltip='Show items with the tag "nlp"'>
         nlp
       </a>
     
-      <a href="https://mlcvlab-fasilkom-ui.github.io/resources/?search=%22tag:%20news%22" class="tag" data-tooltip='Show items with the tag "news"'>
+      <a href="/resources/?search=%22tag:%20news%22" class="tag" data-tooltip='Show items with the tag "news"'>
         news
       </a>
     
-      <a href="https://mlcvlab-fasilkom-ui.github.io/resources/?search=%22tag:%20open-house%22" class="tag" data-tooltip='Show items with the tag "open-house"'>
+      <a href="/resources/?search=%22tag:%20open-house%22" class="tag" data-tooltip='Show items with the tag "open-house"'>
         open-house
       </a>
     
-      <a href="https://mlcvlab-fasilkom-ui.github.io/resources/?search=%22tag:%20announcement%22" class="tag" data-tooltip='Show items with the tag "announcement"'>
+      <a href="/resources/?search=%22tag:%20announcement%22" class="tag" data-tooltip='Show items with the tag "announcement"'>
         announcement
       </a>
     
-      <a href="https://mlcvlab-fasilkom-ui.github.io/resources/?search=%22tag:%20magang%22" class="tag" data-tooltip='Show items with the tag "magang"'>
+      <a href="/resources/?search=%22tag:%20magang%22" class="tag" data-tooltip='Show items with the tag "magang"'>
         magang
       </a>
     
-      <a href="https://mlcvlab-fasilkom-ui.github.io/resources/?search=%22tag:%20magang-riset%22" class="tag" data-tooltip='Show items with the tag "magang-riset"'>
+      <a href="/resources/?search=%22tag:%20magang-riset%22" class="tag" data-tooltip='Show items with the tag "magang-riset"'>
         magang-riset
       </a>
     
-      <a href="https://mlcvlab-fasilkom-ui.github.io/resources/?search=%22tag:%20mlcv%22" class="tag" data-tooltip='Show items with the tag "mlcv"'>
+      <a href="/resources/?search=%22tag:%20mlcv%22" class="tag" data-tooltip='Show items with the tag "mlcv"'>
         mlcv
       </a>
     
-      <a href="https://mlcvlab-fasilkom-ui.github.io/resources/?search=%22tag:%20genap-2024/2025%22" class="tag" data-tooltip='Show items with the tag "genap-2024/2025"'>
+      <a href="/resources/?search=%22tag:%20genap-2024/2025%22" class="tag" data-tooltip='Show items with the tag "genap-2024/2025"'>
         genap-2024/2025
       </a>
     
-      <a href="https://mlcvlab-fasilkom-ui.github.io/resources/?search=%22tag:%20februari-2025%22" class="tag" data-tooltip='Show items with the tag "februari-2025"'>
+      <a href="/resources/?search=%22tag:%20februari-2025%22" class="tag" data-tooltip='Show items with the tag "februari-2025"'>
         februari-2025
       </a>
     
@@ -602,13 +630,13 @@
       
 
 
-  <div class="tags" data-link="https://mlcvlab-fasilkom-ui.github.io/resources/">
+  <div class="tags">
     
-      <a href="https://mlcvlab-fasilkom-ui.github.io/resources/?search=%22tag:%20software%22" class="tag" data-tooltip='Show items with the tag "software"'>
+      <a href="/resources/?search=%22tag:%20software%22" class="tag" data-tooltip='Show items with the tag "software"'>
         software
       </a>
     
-      <a href="https://mlcvlab-fasilkom-ui.github.io/resources/?search=%22tag:%20erdefi-rakun%22" class="tag" data-tooltip='Show items with the tag "erdefi-rakun"'>
+      <a href="/resources/?search=%22tag:%20erdefi-rakun%22" class="tag" data-tooltip='Show items with the tag "erdefi-rakun"'>
         erdefi-rakun
       </a>
     
@@ -646,13 +674,13 @@
       
 
 
-  <div class="tags" data-link="https://mlcvlab-fasilkom-ui.github.io/resources/">
+  <div class="tags">
     
-      <a href="https://mlcvlab-fasilkom-ui.github.io/resources/?search=%22tag:%20software%22" class="tag" data-tooltip='Show items with the tag "software"'>
+      <a href="/resources/?search=%22tag:%20software%22" class="tag" data-tooltip='Show items with the tag "software"'>
         software
       </a>
     
-      <a href="https://mlcvlab-fasilkom-ui.github.io/resources/?search=%22tag:%20adila-krisnadhi%22" class="tag" data-tooltip='Show items with the tag "adila-krisnadhi"'>
+      <a href="/resources/?search=%22tag:%20adila-krisnadhi%22" class="tag" data-tooltip='Show items with the tag "adila-krisnadhi"'>
         adila-krisnadhi
       </a>
     
@@ -670,12 +698,100 @@
 
   <section class="background" data-size="page">
     <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <h2 id="codes--repositories">Codes &amp; Repositories</h2>
+
+<div class="card" data-style="">
+  <a href="https://mlcv.cs.ui.ac.id/2023/08/29/sibi-app.html" aria-label="Text-to-Gesture SIBI" class="card-image">
+    <img src="/images/SIBIapp.jpg" alt="Text-to-Gesture SIBI" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+  </a>
+
+  <div class="card-text">
+    
+      <a href="https://mlcv.cs.ui.ac.id/2023/08/29/sibi-app.html" class="card-title">
+        Text-to-Gesture SIBI
+    </a>
+    
+
+    
+      <span class="card-subtitle">SIBI or Sistem Isyarat Bahasa Indonesia is the Indonesian Sign Language System</span>
+    
+
+    
+      <p>
+        Together with Andi and Aini, they will help you translate the sentences you want into SIBI in animated form. More than 3000 SIBI animations with more than 300,000 words and affixes can be translated. The dictionary feature can be used to look up the word you want and show how to do the movement for that word.
+
+      </p>
+    
+
+    
+      
+
+
+  <div class="tags">
+    
+      <a href="/resources/?search=%22tag:%20software%22" class="tag" data-tooltip='Show items with the tag "software"'>
+        software
+      </a>
+    
+      <a href="/resources/?search=%22tag:%20erdefi-rakun%22" class="tag" data-tooltip='Show items with the tag "erdefi-rakun"'>
+        erdefi-rakun
+      </a>
+    
+  </div>
+
+
+    
+  </div>
+</div>
+
+<div class="card" data-style="">
+  <a href="https://cs.ui.ac.id/2021/06/07/fasilkom-ui-bersama-imeri-fkui-kembangkan-stethosoul-aplikasi-pendeteksi-dini-psikosis/" aria-label="Stethosoul" class="card-image">
+    <img src="/images/Stethosoul_box.jpg" alt="Stethosoul" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+  </a>
+
+  <div class="card-text">
+    
+      <a href="https://cs.ui.ac.id/2021/06/07/fasilkom-ui-bersama-imeri-fkui-kembangkan-stethosoul-aplikasi-pendeteksi-dini-psikosis/" class="card-title">
+        Stethosoul
+    </a>
+    
+
+    
+      <span class="card-subtitle">Psychosis Early Detection App</span>
+    
+
+    
+      <p>
+        In collaboration with the Department of Psychiatry, Faculty of Medicine (FK) UI and the Indonesian Medical Education and Research Institute (IMERI) FKUI along with PT Bahasa Kita, we developed a mobile-based application for early detection of psychosis called Stethosoul which utilizes speech-to-text and text classification features.
+
+      </p>
+    
+
+    
+      
+
+
+  <div class="tags">
+    
+      <a href="/resources/?search=%22tag:%20software%22" class="tag" data-tooltip='Show items with the tag "software"'>
+        software
+      </a>
+    
+      <a href="/resources/?search=%22tag:%20adila-krisnadhi%22" class="tag" data-tooltip='Show items with the tag "adila-krisnadhi"'>
+        adila-krisnadhi
+      </a>
+    
+  </div>
+
+
+    
+  </div>
+</div>
   </section>
 
   
@@ -684,12 +800,100 @@
 
   <section class="background" data-size="page">
     <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <h2 id="datasets">Datasets</h2>
+
+<div class="card" data-style="">
+  <a href="https://mlcv.cs.ui.ac.id/2023/08/29/sibi-app.html" aria-label="Text-to-Gesture SIBI" class="card-image">
+    <img src="/images/SIBIapp.jpg" alt="Text-to-Gesture SIBI" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+  </a>
+
+  <div class="card-text">
+    
+      <a href="https://mlcv.cs.ui.ac.id/2023/08/29/sibi-app.html" class="card-title">
+        Text-to-Gesture SIBI
+    </a>
+    
+
+    
+      <span class="card-subtitle">SIBI or Sistem Isyarat Bahasa Indonesia is the Indonesian Sign Language System</span>
+    
+
+    
+      <p>
+        Together with Andi and Aini, they will help you translate the sentences you want into SIBI in animated form. More than 3000 SIBI animations with more than 300,000 words and affixes can be translated. The dictionary feature can be used to look up the word you want and show how to do the movement for that word.
+
+      </p>
+    
+
+    
+      
+
+
+  <div class="tags">
+    
+      <a href="/resources/?search=%22tag:%20software%22" class="tag" data-tooltip='Show items with the tag "software"'>
+        software
+      </a>
+    
+      <a href="/resources/?search=%22tag:%20erdefi-rakun%22" class="tag" data-tooltip='Show items with the tag "erdefi-rakun"'>
+        erdefi-rakun
+      </a>
+    
+  </div>
+
+
+    
+  </div>
+</div>
+
+<div class="card" data-style="">
+  <a href="https://cs.ui.ac.id/2021/06/07/fasilkom-ui-bersama-imeri-fkui-kembangkan-stethosoul-aplikasi-pendeteksi-dini-psikosis/" aria-label="Stethosoul" class="card-image">
+    <img src="/images/Stethosoul_box.jpg" alt="Stethosoul" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+  </a>
+
+  <div class="card-text">
+    
+      <a href="https://cs.ui.ac.id/2021/06/07/fasilkom-ui-bersama-imeri-fkui-kembangkan-stethosoul-aplikasi-pendeteksi-dini-psikosis/" class="card-title">
+        Stethosoul
+    </a>
+    
+
+    
+      <span class="card-subtitle">Psychosis Early Detection App</span>
+    
+
+    
+      <p>
+        In collaboration with the Department of Psychiatry, Faculty of Medicine (FK) UI and the Indonesian Medical Education and Research Institute (IMERI) FKUI along with PT Bahasa Kita, we developed a mobile-based application for early detection of psychosis called Stethosoul which utilizes speech-to-text and text classification features.
+
+      </p>
+    
+
+    
+      
+
+
+  <div class="tags">
+    
+      <a href="/resources/?search=%22tag:%20software%22" class="tag" data-tooltip='Show items with the tag "software"'>
+        software
+      </a>
+    
+      <a href="/resources/?search=%22tag:%20adila-krisnadhi%22" class="tag" data-tooltip='Show items with the tag "adila-krisnadhi"'>
+        adila-krisnadhi
+      </a>
+    
+  </div>
+
+
+    
+  </div>
+</div>
   </section>
 
   
@@ -698,12 +902,100 @@
 
   <section class="background" data-size="page">
     <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <h2 id="courses--presentations">Courses &amp; Presentations</h2>
+
+<div class="card" data-style="small">
+  <a href="https://mlcv.cs.ui.ac.id/2023/08/29/sibi-app.html" aria-label="Text-to-Gesture SIBI" class="card-image">
+    <img src="/images/SIBIapp.jpg" alt="Text-to-Gesture SIBI" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+  </a>
+
+  <div class="card-text">
+    
+      <a href="https://mlcv.cs.ui.ac.id/2023/08/29/sibi-app.html" class="card-title">
+        Text-to-Gesture SIBI
+    </a>
+    
+
+    
+      <span class="card-subtitle">SIBI or Sistem Isyarat Bahasa Indonesia is the Indonesian Sign Language System</span>
+    
+
+    
+      <p>
+        Together with Andi and Aini, they will help you translate the sentences you want into SIBI in animated form. More than 3000 SIBI animations with more than 300,000 words and affixes can be translated. The dictionary feature can be used to look up the word you want and show how to do the movement for that word.
+
+      </p>
+    
+
+    
+      
+
+
+  <div class="tags">
+    
+      <a href="/resources/?search=%22tag:%20software%22" class="tag" data-tooltip='Show items with the tag "software"'>
+        software
+      </a>
+    
+      <a href="/resources/?search=%22tag:%20erdefi-rakun%22" class="tag" data-tooltip='Show items with the tag "erdefi-rakun"'>
+        erdefi-rakun
+      </a>
+    
+  </div>
+
+
+    
+  </div>
+</div>
+
+<div class="card" data-style="small">
+  <a href="https://cs.ui.ac.id/2021/06/07/fasilkom-ui-bersama-imeri-fkui-kembangkan-stethosoul-aplikasi-pendeteksi-dini-psikosis/" aria-label="Stethosoul" class="card-image">
+    <img src="/images/Stethosoul_box.jpg" alt="Stethosoul" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+  </a>
+
+  <div class="card-text">
+    
+      <a href="https://cs.ui.ac.id/2021/06/07/fasilkom-ui-bersama-imeri-fkui-kembangkan-stethosoul-aplikasi-pendeteksi-dini-psikosis/" class="card-title">
+        Stethosoul
+    </a>
+    
+
+    
+      <span class="card-subtitle">Psychosis Early Detection App</span>
+    
+
+    
+      <p>
+        In collaboration with the Department of Psychiatry, Faculty of Medicine (FK) UI and the Indonesian Medical Education and Research Institute (IMERI) FKUI along with PT Bahasa Kita, we developed a mobile-based application for early detection of psychosis called Stethosoul which utilizes speech-to-text and text classification features.
+
+      </p>
+    
+
+    
+      
+
+
+  <div class="tags">
+    
+      <a href="/resources/?search=%22tag:%20software%22" class="tag" data-tooltip='Show items with the tag "software"'>
+        software
+      </a>
+    
+      <a href="/resources/?search=%22tag:%20adila-krisnadhi%22" class="tag" data-tooltip='Show items with the tag "adila-krisnadhi"'>
+        adila-krisnadhi
+      </a>
+    
+  </div>
+
+
+    
+  </div>
+</div>
   </section>
 
   
@@ -712,12 +1004,100 @@
 
   <section class="background" data-size="page">
     <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <h2 id="books--writings">Books &amp; Writings</h2>
+
+<div class="card" data-style="small">
+  <a href="https://mlcv.cs.ui.ac.id/2023/08/29/sibi-app.html" aria-label="Text-to-Gesture SIBI" class="card-image">
+    <img src="/images/SIBIapp.jpg" alt="Text-to-Gesture SIBI" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+  </a>
+
+  <div class="card-text">
+    
+      <a href="https://mlcv.cs.ui.ac.id/2023/08/29/sibi-app.html" class="card-title">
+        Text-to-Gesture SIBI
+    </a>
+    
+
+    
+      <span class="card-subtitle">SIBI or Sistem Isyarat Bahasa Indonesia is the Indonesian Sign Language System</span>
+    
+
+    
+      <p>
+        Together with Andi and Aini, they will help you translate the sentences you want into SIBI in animated form. More than 3000 SIBI animations with more than 300,000 words and affixes can be translated. The dictionary feature can be used to look up the word you want and show how to do the movement for that word.
+
+      </p>
+    
+
+    
+      
+
+
+  <div class="tags">
+    
+      <a href="/resources/?search=%22tag:%20software%22" class="tag" data-tooltip='Show items with the tag "software"'>
+        software
+      </a>
+    
+      <a href="/resources/?search=%22tag:%20erdefi-rakun%22" class="tag" data-tooltip='Show items with the tag "erdefi-rakun"'>
+        erdefi-rakun
+      </a>
+    
+  </div>
+
+
+    
+  </div>
+</div>
+
+<div class="card" data-style="small">
+  <a href="https://cs.ui.ac.id/2021/06/07/fasilkom-ui-bersama-imeri-fkui-kembangkan-stethosoul-aplikasi-pendeteksi-dini-psikosis/" aria-label="Stethosoul" class="card-image">
+    <img src="/images/Stethosoul_box.jpg" alt="Stethosoul" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+  </a>
+
+  <div class="card-text">
+    
+      <a href="https://cs.ui.ac.id/2021/06/07/fasilkom-ui-bersama-imeri-fkui-kembangkan-stethosoul-aplikasi-pendeteksi-dini-psikosis/" class="card-title">
+        Stethosoul
+    </a>
+    
+
+    
+      <span class="card-subtitle">Psychosis Early Detection App</span>
+    
+
+    
+      <p>
+        In collaboration with the Department of Psychiatry, Faculty of Medicine (FK) UI and the Indonesian Medical Education and Research Institute (IMERI) FKUI along with PT Bahasa Kita, we developed a mobile-based application for early detection of psychosis called Stethosoul which utilizes speech-to-text and text classification features.
+
+      </p>
+    
+
+    
+      
+
+
+  <div class="tags">
+    
+      <a href="/resources/?search=%22tag:%20software%22" class="tag" data-tooltip='Show items with the tag "software"'>
+        software
+      </a>
+    
+      <a href="/resources/?search=%22tag:%20adila-krisnadhi%22" class="tag" data-tooltip='Show items with the tag "adila-krisnadhi"'>
+        adila-krisnadhi
+      </a>
+    
+  </div>
+
+
+    
+  </div>
+</div>
   </section>
 
 
@@ -725,10 +1105,12 @@
     
 
 
-<footer class="background" style="--image: url('/images/active_banner_720_15fps.gif')" data-dark="true" data-size="wide">
-  <div>
-    Machine Learning and Computer Vision Lab, Faculty of Computer Science, Universitas Indonesia, Depok, Jawa Barat, Indonesia
-  </div>
+<footer class="background" style="--image: url('/images/background.jpg')" data-dark="true" data-size="wide">
+  <!--
+    <div>
+      Extra details like contact info or address
+    </div>
+  -->
 
   <div>
     
@@ -739,7 +1121,7 @@
 
 
   <div class="button-wrapper">
-    <a class="button" href="mailto:mlcvlab@cs.ui.ac.id" data-tooltip="Email" data-style="bare" aria-label="Email">
+    <a class="button" href="mailto:contact@your-lab.com" data-tooltip="Email" data-style="bare" aria-label="Email">
       <i class="icon fa-solid fa-envelope"></i>
       
     </a>
@@ -754,8 +1136,68 @@
 
 
   <div class="button-wrapper">
-    <a class="button" href="https://github.com/MLCV-Lab-Fasilkom-UI" data-tooltip="GitHub" data-style="bare" aria-label="GitHub">
+    <a class="button" href="https://orcid.org/0000-0001-8713-9213" data-tooltip="ORCID" data-style="bare" aria-label="ORCID">
+      <i class="icon fa-brands fa-orcid"></i>
+      
+    </a>
+  </div>
+
+
+    
+      
+      
+      
+
+
+
+  <div class="button-wrapper">
+    <a class="button" href="https://scholar.google.com/citations?user=ETJoidYAAAAJ" data-tooltip="Google Scholar" data-style="bare" aria-label="Google Scholar">
+      <i class="icon fa-brands fa-google"></i>
+      
+    </a>
+  </div>
+
+
+    
+      
+      
+      
+
+
+
+  <div class="button-wrapper">
+    <a class="button" href="https://github.com/your-lab" data-tooltip="GitHub" data-style="bare" aria-label="GitHub">
       <i class="icon fa-brands fa-github"></i>
+      
+    </a>
+  </div>
+
+
+    
+      
+      
+      
+
+
+
+  <div class="button-wrapper">
+    <a class="button" href="https://twitter.com/YourLabHandle" data-tooltip="Twitter" data-style="bare" aria-label="Twitter">
+      <i class="icon fa-brands fa-twitter"></i>
+      
+    </a>
+  </div>
+
+
+    
+      
+      
+      
+
+
+
+  <div class="button-wrapper">
+    <a class="button" href="https://youtube.com/YourLabChannel" data-tooltip="YouTube" data-style="bare" aria-label="YouTube">
+      <i class="icon fa-brands fa-youtube"></i>
       
     </a>
   </div>
@@ -764,18 +1206,14 @@
     
   </div>
 
-  
   <div>
-      © 2025
-      MACHINE LEARNING AND COMPUTER VISION LAB
+    © 2025
+    Lab Website Template
+      |   Built with
+    <a href="https://github.com/greenelab/lab-website-template">
+      Lab Website Template
+    </a>
   </div>
-  <!--
-      &nbsp; | &nbsp; Built with
-      <a href="https://github.com/greenelab/lab-website-template">
-        Lab Website Template
-      </a>
-    </div>
-  -->
 
   <input type="checkbox" class="dark-toggle" data-tooltip="Dark mode" aria-label="toggle dark mode" oninput="onDarkToggleChange(event)">
 </footer>
