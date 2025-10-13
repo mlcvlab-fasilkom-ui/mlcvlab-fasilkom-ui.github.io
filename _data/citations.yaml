@@ -2722,19 +2722,6 @@
   orcid: 0000-0002-2115-7758
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ICACSIS.2018.8618134
-  title: Sign Language System for Bahasa Indonesia (Known as SIBI) Recognizer using
-    TensorFlow and Long Short-Term Memory
-  authors:
-  - Kustiawanto Halim
-  - Erdefi Rakun
-  publisher: 2018 International Conference on Advanced Computer Science and Information
-    Systems (ICACSIS)
-  date: '2018-10-01'
-  link: https://doi.org/gt6vch
-  orcid: 0000-0002-2115-7758
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1166/ASL.2018.10675
   title: Recognition of Sign Language System for Indonesian Language Using Long Short-Term
     Memory Neural Networks
@@ -2747,6 +2734,19 @@
   publisher: Advanced Science Letters
   date: '2018-02-01'
   link: https://doi.org/gt6vcj
+  orcid: 0000-0002-2115-7758
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICACSIS.2018.8618134
+  title: Sign Language System for Bahasa Indonesia (Known as SIBI) Recognizer using
+    TensorFlow and Long Short-Term Memory
+  authors:
+  - Kustiawanto Halim
+  - Erdefi Rakun
+  publisher: 2018 International Conference on Advanced Computer Science and Information
+    Systems (ICACSIS)
+  date: '2018-10-01'
+  link: https://doi.org/gt6vch
   orcid: 0000-0002-2115-7758
   plugin: orcid.py
   file: orcid.yaml
