@@ -23,7 +23,6 @@ _Last modified on {% last_modified_at %A %d %B %Y %}_
 | Graphics and Simulation            |     |    |     |     |    |    | ✔  |    |    | ✔   |    |    | ✔  |    |     | ✔  | 4               |
 | Visual Geometry and Reconstruction |     |    |     |     |    |    | ✔  |    | ✔  | ✔   |    |    |    |    |     |    | 3               |
 | Social Signal Processing           | ✔   |    |     |     |    |    |    |    |    |     |    |    |    | ✔  | ✔   |    | 3               |
-| ---------------------------------- | --- | -- | --- | --- | -- | -- | -- | -- | -- | --- | -- | -- | -- | -- | --- | -- | --------------- |
 | Total Per Dosen                    | 4   | 3  | 3   | 4   | 3  | 4  | 4  | 4  | 4  | 7   | 2  | 2  | 4  | 4  | 4   | 2  |                 |
 
 **List of MLCV's members:**
