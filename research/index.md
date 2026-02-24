@@ -13,7 +13,7 @@ _Last modified on {% last_modified_at %A %d %B %Y %}_
 {% include search-info.html %}
 
 
-|                                    | AAK | AM | APR | AYA | DC | ER | IH | KA | LR | MFR | NF | SN | SS | TB | TNM | VD | Total Per Topic |
+|                                    | [AAK](../members/adila-krisnadhi.html) | [**AM**](../members/aniati-murni.html) | [APR](../members/aprinaldi.html) | [AYA](../members/aruni-azizah.html) | [DC](../members/dina-chahyati.html) | [ER](../members/erdefi-rakun.html) | IH | [KA](../members/kurniawati-azizah.html) | [LR](../members/laksmita-rahadianti.html) | [MFR](../members/febrian-rachmadi.html) | NF | [SN](../members/syifa-nurhayati.html) | SS | [TB](../members/t-basaruddin.html) | TNM | [VD](../members/vektor-dewanto.html) | Total Per Topic |
 | ---------------------------------- | --- | -- | --- | --- | -- | -- | -- | -- | -- | --- | -- | -- | -- | -- | --- | -- | --------------- |
 | Machine and Deep Learning          | ✔   | ✔  | ✔   | ✔   | ✔  | ✔  | ✔  | ✔  | ✔  | ✔   | ✔  | ✔  | ✔  | ✔  | ✔   | ✔  | 16              |
 | Image and Video Processing         | ✔   | ✔  |     | ✔   | ✔  | ✔  |    | ✔  | ✔  | ✔   |    | ✔  | ✔  |    |     |    | 10              |
@@ -32,12 +32,13 @@ _Last modified on {% last_modified_at %A %d %B %Y %}_
 - [**AYA**](../members/aruni-azizah.html): Aruni Yasmin Azizah, M.Comp.Sc
 - [**DC**](../members/dina-chahyati.html): Dr. Dina Chahyati, S.Kom., M.Kom.
 - [**ER**](../members/erdefi-rakun.html): Dr. Ir. Erdefi Rakun, M.Sc.
+-  **IH**: Ihsanul Habibie, S.Kom. M.Sc, Ph.D.
 - [**KA**](../members/kurniawati-azizah.html): Dr. Kurniawati Azizah, S.T., M.Phil.
 - [**LR**](../members/laksmita-rahadianti.html): Dr. Eng. Laksmita Rahadianti, S.Kom., M.Sc.
 - [**MFR**](../members/febrian-rachmadi.html): M. Febrian Rachmadi, S.Kom, M.Sc, Ph.D
 - **NF**: Nilam Fitriah, S.Kom, M.Si
-- **SS**: Ir. Suryana Setiawan, M.Sc., Ph.D.
 - [**SN**](../members/syifa-nurhayati.html): Syifa Nurhayati, S.Kom, M.Kom.
+- **SS**: Ir. Suryana Setiawan, M.Sc., Ph.D.
 - [**TB**](../members/t-basaruddin.html): Prof. Drs. T. Basaruddin, M.Sc., Ph.D.
 - **TNM**: Dr. Tusty Nadia Maghfira, S.Kom, M.Kom
 - [**VD**](../members/vektor-dewanto.html): Vektor Dewanto, S.T., M.Eng., Ph.D.
