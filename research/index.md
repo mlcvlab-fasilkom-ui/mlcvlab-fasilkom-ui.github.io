@@ -56,6 +56,7 @@ _Last modified on {% last_modified_at %A %d %B %Y %}_
 - **SS**: Ir. Suryana Setiawan, M.Sc., Ph.D.
 - [**SN**](../members/syifa-nurhayati.html): Syifa Nurhayati, S.Kom, M.Kom.
 - [**TB**](../members/t-basaruddin.html): Prof. Drs. T. Basaruddin, M.Sc., Ph.D.
+- **TNM**: Dr. Tusty Nadia Maghfira, S.Kom, M.Kom
 - [**VD**](../members/vektor-dewanto.html): Vektor Dewanto, S.T., M.Eng., Ph.D.
 
 {% include section.html %}
