@@ -45,13 +45,14 @@ _Last modified on {% last_modified_at %A %d %B %Y %}_
 **List of MLCV's members:**
 - [**AAK**](../members/adila-krisnadhi.html): Adila Alfa Krisnadhi, S.Kom, M.Sc., Ph.D.
 - [**AM**](../members/aniati-murni.html): Prof. Dr. Ir. Aniati Murni Arymurthy, M.Sc.
+- [**APR**](../members/aprinaldi.html): Aprinaldi, S.Kom., M.Kom., Ph.D.Eng.
 - [**AYA**](../members/aruni-azizah.html): Aruni Yasmin Azizah, M.Comp.Sc
 - [**DC**](../members/dina-chahyati.html): Dr. Dina Chahyati, S.Kom., M.Kom.
-- [**DNU**](../members/dinial-utami.html): Dr. Dinial Utami Nurul Qomariah, S.ST., M.Kom.
 - [**ER**](../members/erdefi-rakun.html): Dr. Ir. Erdefi Rakun, M.Sc.
 - [**KA**](../members/kurniawati-azizah.html): Dr. Kurniawati Azizah, S.T., M.Phil.
 - [**LR**](../members/laksmita-rahadianti.html): Dr. Eng. Laksmita Rahadianti, S.Kom., M.Sc.
 - [**MFR**](../members/febrian-rachmadi.html): M. Febrian Rachmadi, S.Kom, M.Sc, Ph.D
+- [**SS**](../members/syifa-nurhayati.html): Ir. Suryana Setiawan, M.Sc., Ph.D.
 - [**SN**](../members/syifa-nurhayati.html): Syifa Nurhayati, S.Kom, M.Kom.
 - [**TB**](../members/t-basaruddin.html): Prof. Drs. T. Basaruddin, M.Sc., Ph.D.
 - [**VD**](../members/vektor-dewanto.html): Vektor Dewanto, S.T., M.Eng., Ph.D.
