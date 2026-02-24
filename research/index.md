@@ -13,34 +13,18 @@ _Last modified on {% last_modified_at %A %d %B %Y %}_
 {% include search-info.html %}
 
 
-| Research Topics/Interests | [AAK](../members/adila-krisnadhi.html) | [AM](../members/aniati-murni.html) | [AYA](../members/aruni-azizah.html) | [DC](../members/dina-chahyati.html) | [DNU](../members/dinial-utami.html) | [ER](../members/erdefi-rakun.html) | [KA](../members/kurniawati-azizah.html) | [LR](../members/laksmita-rahadianti.html) | [MFR](../members/febrian-rachmadi.html) | NF | [SN](../members/syifa-nurhayati.html) | [TB](../members/t-basaruddin.html) | [VD](../members/vektor-dewanto.html) | Total
-| :---- | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |:----: | :----: |
-| Pattern Recognition | <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> |   <span>&#x2714;</span> | <span>&#x2714;</span> |   | <span>&#x2714;</span> |   <span>&#x2714;</span> | <span>&#x2714;</span> |   |   |   <span>&#x2714;</span> | <span>&#x2714;</span> | 10
-| Image Processing  | <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> |   <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> |   <span>&#x2714;</span> | <span>&#x2714;</span> |   |   |   <span>&#x2714;</span> |   | 10
-| Spatial Data Analysis |   | <span>&#x2714;</span> | <span>&#x2714;</span> |     | <span>&#x2714;</span> |   |   |   <span>&#x2714;</span> | <span>&#x2714;</span> |   |   |     |   | 5
-| Machine and Deep Learning | <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> |   <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> |   <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> |   <span>&#x2714;</span> | <span>&#x2714;</span> | 13
-| Natural Language Processing  | <span>&#x2714;</span> |   |   |    |   | <span>&#x2714;</span> | <span>&#x2714;</span> |   |    |    |   |    |   | 3
-| Large Language Model  | <span>&#x2714;</span> |   |   |    |   | <span>&#x2714;</span> | <span>&#x2714;</span> |   | <span>&#x2714;</span> |   |   |    |   | 4
-| Social Signal Processing  | <span>&#x2714;</span> |    |   |    |    |    |   |    |    |   |   |   <span>&#x2714;</span> |   | 2
-| Optimization  | <span>&#x2714;</span> |    |   |    |    |    |   |    |    |   |   |   <span>&#x2714;</span> | <span>&#x2714;</span> | 4
-| Knowledge Graphs  | <span>&#x2714;</span> |    |   |    |    |    |   |    |    |   |   |     |   | 1
-| Video Processing  | <span>&#x2714;</span> |   |   |   <span>&#x2714;</span> | <span>&#x2714;</span> |   | <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> |   |   |   |   | 6
-| Optics and Photometry  |   |   |   |   |   |   |   |   <span>&#x2714;</span> |   |   |   |   |   | 1
-| Biomedical Image Computation and Analysis  | <span>&#x2714;</span> |   |   |   | <span>&#x2714;</span> |   |   |   | <span>&#x2714;</span> |   | <span>&#x2714;</span> |     |   | 4
-| Speech Processing  |   |   |   |   |   |   | <span>&#x2714;</span> |   |   |   |   |   |   | 1
-| Reinforcement Learning  | <span>&#x2714;</span> |   |   |   |   |   |   |   | <span>&#x2714;</span> |   |   |   | <span>&#x2714;</span> | 3
-| Embodied AI (Robotics)  |   |   |   |   | <span>&#x2714;</span> |   |   |   |   |   |   |   | <span>&#x2714;</span> | 2
-| Applied ML  | <span>&#x2714;</span> |   | <span>&#x2714;</span> |   |   |   |   |   | <span>&#x2714;</span> | <span>&#x2714;</span> |   |   <span>&#x2714;</span> | <span>&#x2714;</span> | 6
-| Biomedical Engineering  | <span>&#x2714;</span> |   |   |   | <span>&#x2714;</span> |    |   |   | <span>&#x2714;</span> | <span>&#x2714;</span> |   |   |   | 4
-| Computational Neuroscience  |   |   |   |   |   |   |   |   | <span>&#x2714;</span> | <span>&#x2714;</span> |    |   |   | 2
-| Applied Computer Vision  | <span>&#x2714;</span> |   | <span>&#x2714;</span> |   | <span>&#x2714;</span> |   |   | <span>&#x2714;</span> | <span>&#x2714;</span> |   |   |     |   | 5
-| Computer Vision  | <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> |   <span>&#x2714;</span> | <span>&#x2714;</span> |   | <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> |   |   |   <span>&#x2714;</span> |   | 9
-| Bioinformatics  |   |   |   |   | <span>&#x2714;</span> |   |   | <span>&#x2714;</span> | <span>&#x2714;</span> |   |   | <span>&#x2714;</span> | <span>&#x2714;</span> | 5
-| Human Motion and Gait Analysis |   |   |   |   | <span>&#x2714;</span> | <span>&#x2714;</span> | <span>&#x2714;</span> |   | <span>&#x2714;</span> |   |   | <span>&#x2714;</span> |   | 5
-| Biometric Recognition  |   | <span>&#x2714;</span> |   |   | <span>&#x2714;</span> |   | <span>&#x2714;</span> | <span>&#x2714;</span> |   |   |   |<span>&#x2714;</span> |   | 5
-| Spoof Recognition  |   | <span>&#x2714;</span> |   |   | <span>&#x2714;</span> |   |   |   |   |   |   |   |   | 2
-| **Research Topics/Interests** | [**AAK**](../members/adila-krisnadhi.html) | [**AM**](../members/aniati-murni.html) | [**AYA**](../members/aruni-azizah.html) | [**DC**](../members/dina-chahyati.html) | [**DNU**](../members/dinial-utami.html) | [**ER**](../members/erdefi-rakun.html) | [**KA**](../members/kurniawati-azizah.html) | [**LR**](../members/laksmita-rahadianti.html) | [**MFR**](../members/febrian-rachmadi.html) | **NF** | [**SN**](../members/syifa-nurhayati.html) | [**TB**](../members/t-basaruddin.html) | [**VD**](../members/vektor-dewanto.html) | **Total**
-| **Total per member** | 15 | 7 | 7 | 5 | 15 | 5 | 10 | 10 | 15 | 4 | 3 | 9 | 7 | 
+|                                    | AAK | AM | APR | AYA | DC | ER | IH | KA | LR | MFR | NF | SN | SS | TB | TNM | VD | Total Per Topic |
+| ---------------------------------- | --- | -- | --- | --- | -- | -- | -- | -- | -- | --- | -- | -- | -- | -- | --- | -- | --------------- |
+| Machine and Deep Learning          | ✔   | ✔  | ✔   | ✔   | ✔  | ✔  | ✔  | ✔  | ✔  | ✔   | ✔  | ✔  | ✔  | ✔  | ✔   | ✔  | 16              |
+| Image and Video Processing         | ✔   | ✔  |     | ✔   | ✔  | ✔  |    | ✔  | ✔  | ✔   |    | ✔  | ✔  |    |     |    | 10              |
+| Medical Data Analysis              | ✔   |    | ✔   | ✔   |    | ✔  |    | ✔  |    | ✔   | ✔  |    |    | ✔  | ✔   |    | 9               |
+| Spatial Data and Remote Sensing    |     | ✔  | ✔   | ✔   | ✔  |    |    |    | ✔  | ✔   |    |    | ✔  |    |     |    | 7               |
+| Motion and Speech                  |     |    |     |     |    | ✔  | ✔  | ✔  |    | ✔   |    |    |    | ✔  | ✔   |    | 6               |
+| Graphics and Simulation            |     |    |     |     |    |    | ✔  |    |    | ✔   |    |    | ✔  |    |     | ✔  | 4               |
+| Visual Geometry and Reconstruction |     |    |     |     |    |    | ✔  |    | ✔  | ✔   |    |    |    |    |     |    | 3               |
+| Social Signal Processing           | ✔   |    |     |     |    |    |    |    |    |     |    |    |    | ✔  | ✔   |    | 3               |
+| ---------------------------------- | --- | -- | --- | --- | -- | -- | -- | -- | -- | --- | -- | -- | -- | -- | --- | -- | --------------- |
+| Total Per Dosen                    | 4   | 3  | 3   | 4   | 3  | 4  | 4  | 4  | 4  | 7   | 2  | 2  | 4  | 4  | 4   | 2  |                 |
 
 **List of MLCV's members:**
 - [**AAK**](../members/adila-krisnadhi.html): Adila Alfa Krisnadhi, S.Kom, M.Sc., Ph.D.
