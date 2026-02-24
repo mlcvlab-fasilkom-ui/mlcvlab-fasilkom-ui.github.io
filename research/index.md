@@ -52,7 +52,8 @@ _Last modified on {% last_modified_at %A %d %B %Y %}_
 - [**KA**](../members/kurniawati-azizah.html): Dr. Kurniawati Azizah, S.T., M.Phil.
 - [**LR**](../members/laksmita-rahadianti.html): Dr. Eng. Laksmita Rahadianti, S.Kom., M.Sc.
 - [**MFR**](../members/febrian-rachmadi.html): M. Febrian Rachmadi, S.Kom, M.Sc, Ph.D
-- [**SS**](../members/syifa-nurhayati.html): Ir. Suryana Setiawan, M.Sc., Ph.D.
+- [**NF**]: Nilam Fitriah, S.Kom, M.Si
+- [**SS**]: Ir. Suryana Setiawan, M.Sc., Ph.D.
 - [**SN**](../members/syifa-nurhayati.html): Syifa Nurhayati, S.Kom, M.Kom.
 - [**TB**](../members/t-basaruddin.html): Prof. Drs. T. Basaruddin, M.Sc., Ph.D.
 - [**VD**](../members/vektor-dewanto.html): Vektor Dewanto, S.T., M.Eng., Ph.D.
