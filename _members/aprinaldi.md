@@ -2,9 +2,9 @@
 name: Aprinaldi, S.Kom., M.Kom., Ph.D.Eng.
 image: images/Aprinaldi.jpg
 role: researcher
-affiliation: (Multi-Objective) Optimization, Image Processing and Remote Sensing Surveillance
+affiliation: Universitas Indonesia
 aliases:
-  - Aprinalldi
+  - Aprinaldi
 links:
   home-page: https://cs.ui.ac.id/personnel/aprinaldi/
   email: aprinaldi12@cs.ui.ac.id
