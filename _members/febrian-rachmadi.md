@@ -13,7 +13,7 @@ aliases:
 links:
   email: febrianrachmadi@cs.ui.ac.id
   home-page: https://cs.ui.ac.id/personnel/muhammad-febrian-rachmadi-m-sc-ph-d/
-  orcid: 0000-0003-4167-7213
+  orcid: 0000-0003-1672-9149
   google-scholar: ZFo5fiwAAAAJ
   scopus: https://www.scopus.com/authid/detail.uri?authorId=54974181500
   dblp: https://dblp.org/pid/159/5679.html
