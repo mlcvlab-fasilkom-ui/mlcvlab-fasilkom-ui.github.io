@@ -511,7 +511,7 @@
   publisher: IAES International Journal of Robotics and Automation (IJRA)
   date: '2025-06-01'
   link: https://doi.org/g9qcpr
-  orcid: 0000-0003-4167-7213
+  orcid: 0000-0002-2762-7001
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.11591/ijai.v14.i3.pp2347-2357
@@ -2130,6 +2130,68 @@
   orcid: 0000-0002-6050-664X
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.26555/jiteki.v10i2.28890
+  title: A Hybrid CNN-SVR for Airfoil Aerodynamic Coefficient Prediction
+  authors:
+  - Sunarno Sunarno
+  - Aniati Murni Arymurthy
+  publisher: Jurnal Ilmiah Teknik Elektro Komputer dan Informatika
+  date: '2024-07-10'
+  link: https://doi.org/hb6v3n
+  orcid: 0000-0002-2762-7001
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.11591/eei.v13i1.5304
+  title: Triangular fuzzy number for similarity measurement of Y chromosome DNA profile
+  authors:
+  - Meira Parma Dewi
+  - Aniati Murni Arymurthy
+  - Suryana Setiawan
+  - Nurtami Soedarsono
+  publisher: Bulletin of Electrical Engineering and Informatics
+  date: '2024-02-01'
+  link: https://doi.org/hb6v3p
+  orcid: 0000-0002-2762-7001
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.35882/jeeemi.v6i1.354
+  title: A Comparative Study of Convolutional Neural Network in Detecting Blast Cells
+    for Diagnose Acute Myeloid Leukemia
+  authors:
+  - ' Ahmad Badruzzaman'
+  - ' Aniati Murni Arymurhty'
+  publisher: Journal of Electronics, Electromedical Engineering, and Medical Informatics
+  date: '2024-01-30'
+  link: https://doi.org/hb6v3q
+  orcid: 0000-0002-2762-7001
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3626641.3626924
+  title: Deep Learning Model for Automatic Detection of Oil Palm Trees in Indonesia
+    with YOLO-V5
+  authors:
+  - Desta Sandya Prasvita
+  - Aniati Murni Arymurthy
+  - Dina Chahyati
+  publisher: Proceedings of the 8th International Conference on Sustainable Information
+    Engineering and Technology
+  date: '2023-10-24'
+  link: https://doi.org/hb6v3r
+  orcid: 0000-0002-2762-7001
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2020.2991428
+  title: Minimax Approach for Semivariogram Fitting in Ordinary Kriging
+  authors:
+  - Andie Setiyoko
+  - T. Basaruddin
+  - Aniati Murni Arymurthy
+  publisher: IEEE Access
+  date: '2020-01-01'
+  link: https://doi.org/grhpd3
+  orcid: 0000-0002-0794-5299
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1109/access.2026.3667892
   title: 'Identity-Preserving Face Super-Resolution for Forensic and Biometric Applications:
     A Systematic Literature Review'
@@ -3000,18 +3062,6 @@
   publisher: IEEE Access
   date: '2021-01-01'
   link: https://doi.org/gt6t95
-  orcid: 0000-0002-0794-5299
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1109/ACCESS.2020.2991428
-  title: Minimax Approach for Semivariogram Fitting in Ordinary Kriging
-  authors:
-  - Andie Setiyoko
-  - T. Basaruddin
-  - Aniati Murni Arymurthy
-  publisher: IEEE Access
-  date: '2020-01-01'
-  link: https://doi.org/grhpd3
   orcid: 0000-0002-0794-5299
   plugin: orcid.py
   file: orcid.yaml
