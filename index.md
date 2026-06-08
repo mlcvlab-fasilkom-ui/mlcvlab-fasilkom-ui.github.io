@@ -7,6 +7,8 @@
 {% include figure.html image="images/mlcv-lab-logo.png" caption="MLCV Lab's Logo Created by [Febrian Rachmadi](https://mlcv.cs.ui.ac.id/members/febrian-rachmadi.html)" width="300px" %}
 {% endcapture %}
 {% include float.html content=content %}
+Our lab's main website has been moved to [https://frontiers.ui.ac.id/mlcv/](https://frontiers.ui.ac.id/mlcv/)!
+
 MLCV Lab of the Faculty of Computer Science, Universitas Indonesia, focuses on machine learning-related research, especially for computer vision tasks that involve manipulating, analyzing, and interpreting data from images and videos. The methods used are diverse, from processing detailed information stored at the pixel level to geometrically dividing images into several regions to form highly correlated patterns for a specific task.
 {% include float.html clear=true %}
 
