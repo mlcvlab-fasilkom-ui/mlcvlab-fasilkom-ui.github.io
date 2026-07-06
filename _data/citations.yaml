@@ -1,5 +1,20 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1080/24751839.2026.2684362
+  title: FAN-enhanced vision transformer and distributed bidirectional optical flow
+    for heart failure detection from echocardiography videos
+  authors:
+  - Mgs. M. Luthfi Ramadhan
+  - Rossi Passarella
+  - Muhammad Febrian Rachmadi
+  - Mastura Diana Marieska
+  - Lies Dina Liastuti
+  publisher: Journal of Information and Telecommunication
+  date: '2026-06-13'
+  link: https://doi.org/hb7pbk
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1109/ACCESS.2025.3637778
   title: 'Mamba-Based Deep Learning Methods in Medical Image Analysis: A Systematic
     Literature Review'
@@ -475,6 +490,17 @@
   date: '2011-11-01'
   link: https://doi.org/gtchxn
   orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.29207/resti.v10i3.7370
+  title: Burned Area Segmentation Using Random Band Selection  and Ensemble Encoder
+  authors:
+  - Annisaa Nurul Ramadhani Novelika
+  - Laksmita Rahadianti
+  publisher: Jurnal RESTI (Rekayasa Sistem dan Teknologi Informasi)
+  date: '2026-06-21'
+  link: https://doi.org/hb8x4d
+  orcid: 0000-0003-4167-7213
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.21609/jiki.v19i1.1426
@@ -2891,6 +2917,21 @@
   date: '2022-07-02'
   link: https://doi.org/gt6vcm
   orcid: 0000-0002-2115-7758
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2026.3702619
+  title: A Review of Deep Learning Methodologies for Building Damage Assessment Using
+    Optical Satellite Imagery
+  authors:
+  - Hui-Hui Tan
+  - Sin Liang Lim
+  - Wisnu Jatmiko
+  - Kurniawati Azizah
+  - Muhammad Hafizhuddin Hilman
+  publisher: IEEE Access
+  date: '2026-01-01'
+  link: https://doi.org/hb7pw3
+  orcid: 0000-0002-3217-7025
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/ACCESS.2026.3667892
