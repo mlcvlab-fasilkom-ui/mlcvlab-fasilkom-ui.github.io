@@ -1,5 +1,25 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.2196/preprints.110023
+  title: 'Development and Validation of a Multimodal Artificial Neural Network Model
+    for the Diagnosis of Bladder Outlet Obstruction and Detrusor Underactivity in
+    Men with Lower Urinary Tract Symptoms: Protocol for a Diagnostic Study (Preprint)'
+  authors:
+  - Andika Afriansyah
+  - Harrina Erlianti Rahardjo
+  - Muhammad Febrian Rachmadi
+  - Irfan Wahyudi
+  - Aria Kekalih
+  - Kadek Budi Santosa
+  - Rakha Abid Bangsawan
+  - Sri Saras Widhiasari
+  - Putu Risky Angga
+  publisher: JMIR Publications Inc.
+  date: '2026-08-20'
+  link: https://doi.org/hcgk85
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1080/24751839.2026.2684362
   title: FAN-enhanced vision transformer and distributed bidirectional optical flow
     for heart failure detection from echocardiography videos
@@ -492,6 +512,18 @@
   orcid: 0000-0003-1672-9149
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.11591/ijece.v16i4.pp2074-2086
+  title: Integrating principal component analysis in spatial-spectral fusion models
+    for hyperspectral image segmentation
+  authors:
+  - Alexander Calvin
+  - Laksmita Rahadianti
+  publisher: International Journal of Electrical and Computer Engineering (IJECE)
+  date: '2026-08-01'
+  link: https://doi.org/hcd7xt
+  orcid: 0000-0003-4167-7213
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.29207/resti.v10i3.7370
   title: Burned Area Segmentation Using Random Band Selection  and Ensemble Encoder
   authors:
@@ -551,6 +583,22 @@
   orcid: 0000-0003-4167-7213
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1109/AGERS67633.2025.11446341
+  title: 'Computer Vision for Infrastructure Monitoring Using Remote Sensing: A Systematic
+    Review'
+  authors:
+  - Yogiek Indra Kurniawan
+  - Muhammad Febrian Rachmadi
+  - Laksmita Rahadianti
+  - Aniati Murni Arymurthy
+  - Wisnu Jatmiko
+  publisher: 2025 IEEE Asia-Pacific Conference on Geoscience, Electronics and Remote
+    Sensing Technology (AGERS)
+  date: '2025-12-17'
+  link: https://doi.org/hcb46k
+  orcid: 0000-0003-4167-7213
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.29207/resti.v9i2.6381
   title: Efficient Hybrid Network with Prompt Learning  for Multi-Degradation Image
     Restoration
@@ -590,6 +638,20 @@
   orcid: 0000-0003-4167-7213
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.2139/ssrn.4797585
+  title: Indonesian Food Classification Using Deep Feature Extraction for Dietary
+    Assessment
+  authors:
+  - Muhammad Yusuf Kardawi
+  - Frederic Morado Saragih
+  - Laksmita Rahadianti
+  - Aniati Murni Arymurthy
+  publisher: Elsevier BV
+  date: '2024-01-01'
+  link: https://doi.org/hcb46m
+  orcid: 0000-0003-4167-7213
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/978-981-99-0405-1_15
   title: Towards Robust Underwater Image Enhancement
   authors:
@@ -601,7 +663,17 @@
   orcid: 0000-0003-4167-7213
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/icacsis53237.2021.9631360
+- id: doi:10.21609/jiki.v14i1.963
+  title: 3D Information from Scattering Media Images
+  authors:
+  - Laksmita Rahadianti
+  publisher: Jurnal Ilmu Komputer dan Informasi
+  date: '2021-02-28'
+  link: https://doi.org/gt6ssq
+  orcid: 0000-0003-4167-7213
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICACSIS53237.2021.9631360
   title: Chest X-Ray Patch Classification for Tuberculosis Detection
   authors:
   - Syifa Nurhayati
@@ -617,7 +689,18 @@
   orcid: 0000-0003-4167-7213
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/icacsis53237.2021.9631320
+- id: doi:10.11591/ijeecs.v23.i2.pp1049-1058
+  title: Determining subject headings of documents using information retrieval models
+  authors:
+  - Evi Yulianti
+  - Laksmita Rahadianti
+  publisher: Indonesian Journal of Electrical Engineering and Computer Science
+  date: '2021-08-01'
+  link: https://doi.org/gt6ssr
+  orcid: 0000-0003-4167-7213
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICACSIS53237.2021.9631320
   title: Downscaling for Climate Data in Indonesia Using Image-to-Image Translation
     Approach
   authors:
@@ -628,20 +711,6 @@
     Systems (ICACSIS)
   date: '2021-10-23'
   link: https://doi.org/g9qcpw
-  orcid: 0000-0003-4167-7213
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1109/icacsis53237.2021.9631365
-  title: Robustness of Probabilistic U-Net for Automated Segmentation of White Matter
-    Hyperintensities in Different Datasets of Brain MRI
-  authors:
-  - Rizal Maulana
-  - Muhammad Febrian Rachmadi
-  - Laksmita Rahadianti
-  publisher: 2021 International Conference on Advanced Computer Science and Information
-    Systems (ICACSIS)
-  date: '2021-10-23'
-  link: https://doi.org/g9qcpx
   orcid: 0000-0003-4167-7213
   plugin: orcid.py
   file: orcid.yaml
@@ -658,24 +727,17 @@
   orcid: 0009-0005-5236-4775
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.21609/jiki.v14i1.963
-  title: 3D Information from Scattering Media Images
+- id: doi:10.1109/ICACSIS53237.2021.9631365
+  title: Robustness of Probabilistic U-Net for Automated Segmentation of White Matter
+    Hyperintensities in Different Datasets of Brain MRI
   authors:
+  - Rizal Maulana
+  - Muhammad Febrian Rachmadi
   - Laksmita Rahadianti
-  publisher: Jurnal Ilmu Komputer dan Informasi
-  date: '2021-02-28'
-  link: https://doi.org/gt6ssq
-  orcid: 0000-0003-4167-7213
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.11591/ijeecs.v23.i2.pp1049-1058
-  title: Determining subject headings of documents using information retrieval models
-  authors:
-  - Evi Yulianti
-  - Laksmita Rahadianti
-  publisher: Indonesian Journal of Electrical Engineering and Computer Science
-  date: '2021-08-01'
-  link: https://doi.org/gt6ssr
+  publisher: 2021 International Conference on Advanced Computer Science and Information
+    Systems (ICACSIS)
+  date: '2021-10-23'
+  link: https://doi.org/g9qcpx
   orcid: 0000-0003-4167-7213
   plugin: orcid.py
   file: orcid.yaml
@@ -750,19 +812,6 @@
   publisher: ITE Transactions on Media Technology and Applications
   date: '2017-01-01'
   link: https://doi.org/gt6ss2
-  orcid: 0000-0003-4167-7213
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1587/transinf.2016EDP7230
-  title: Time-to-Contact in Scattering Media
-  authors:
-  - Laksmita RAHADIANTI
-  - Wooseong JEONG
-  - Fumihiko SAKAUE
-  - Jun SATO
-  publisher: IEICE Transactions on Information and Systems
-  date: '2017-01-01'
-  link: https://doi.org/f94v6s
   orcid: 0000-0003-4167-7213
   plugin: orcid.py
   file: orcid.yaml
@@ -3494,6 +3543,20 @@
   date: '2002-01-01'
   link: https://doi.org/cb84dh
   orcid: 0000-0002-0794-5299
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21609/jiki.v19i2.1784
+  title: 'Proximal Policy Optimization in Autonomous Driving: A Systematic Review
+    of Methods, Imitation Learning, and Evaluation Practices'
+  authors:
+  - Anas Bayu Kusuma
+  - Yogiek Indra Kurniawan
+  - Vektor Dewanto
+  - Wisnu Jatmiko
+  publisher: Jurnal Ilmu Komputer dan Informasi
+  date: '2026-07-22'
+  link: https://doi.org/hccsw2
+  orcid: 0000-0002-9550-0512
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.14264/9d6f9aa
